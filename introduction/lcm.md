@@ -5,7 +5,7 @@ nav_order: 5
 parent: Introduction
 ---
 
-[ < ](introduction/first-runs.html){: .btn }
+[ < ](first-runs.html){: .btn }
 
 # Legendary Challenge Mode
 
@@ -28,7 +28,7 @@ Looking at stats on [gw2efficency](https://gw2efficiency.com/account/unlock-stat
 you can see that about 75% of people who completed the CM have also completed the LCM: this is no
 coincidence.
 
-![Completion of CM vs LCM according to gw2efficency](images/introduction/cm_lcm_completion.webp)
+![Completion of CM vs LCM according to gw2efficency](../images/introduction/cm_lcm_completion.webp)
 
 Completing the Legendary Challenge will give you a lovely reward: a unique purple title.
 
@@ -45,4 +45,4 @@ benefit from referencing this guide.
 If you aim to kill this version of the fight, first kill the LCM, then hope you can find nine other
 like-minded players, and be prepared to spend a _lot_ of time on progression.
 
-[ < ](introduction/first-runs.html){: .btn }
+[ < ](first-runs.html){: .btn }

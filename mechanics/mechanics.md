@@ -51,7 +51,3 @@ The encounter gets progressively more difficult and unforgiving, due in part to 
         <div class="timeline-empty"></div>
     </div>
 </section>
-
-Second breakbar, followed by the second split phase.
-
-Third phase. More difficult than the second phase. Challenging sequences with little room for error make it easy to lose people or fail mechanics if not played correctly.
