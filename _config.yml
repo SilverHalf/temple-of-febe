@@ -1,8 +1,29 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Temple of Febe
+description: A full in-depth guide to the Temple of Febe Challenge Mode encounter in Guild Wars 2. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://silverhalf.github.io/temple-of-febe
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Source Code": 
+    - "https://github.com/SilverHalf/temple-of-febe"
+
+aux_links_new_tab: true
+
+favicon_ico: "/images/favicon.ico"
+
+callouts:
+  empowered:
+    color: red
+
+  warning:
+    title: Warning
+    color: red
+
+color_scheme: dark
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+

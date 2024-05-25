@@ -1,0 +1,36 @@
+---
+layout: page
+title: Glossary
+description: Definitions for commonly used terms and acronyms.
+id: glossary
+nav_order: 10
+---
+
+# Glossary
+
+Here you will find definitions to various terms used throughout the guide.
+
+### BoonDPS {#glossary:BoonDPS}
+A role covered by a damage-oriented class that also provides a fundamental boon, either [alacrity](https://wiki.guildwars2.com/wiki/Alacrity) or [quickness](https://wiki.guildwars2.com/wiki/Quickness).
+
+### CM {#glossary:CM}
+Acronym for **C**hallenge **M**ode.
+
+### DPS {#glossary:DPS}
+Acronym for **D**amage **P**er **S**econd. Can also refer to damage-oriented roles in a squad, or damage-oriented classes.
+
+## EoS {#glossary:EoS}
+Acronym for **E**mbodiment **o**f **S**in. A title gained after completing the [Apathetic](https://wiki.guildwars2.com/wiki/Secrets_of_the_Obscure_(achievements)) achievment, which requires killing the CM with all of Cerus's aspects empowered.
+
+### HP {#glossary:HP}
+Acronym for **H**it **P**oints. The health of a character in-game.
+
+### LCM {#glossary:LCM}
+Acronym for **L**egendary **C**hallenge **M**ode. A much more difficult version of the Challenge Mode with increased health.
+
+### LFG {#glossary:LFG}
+Acronym representing **L**ooking **F**or **G**roup. One of GW2's native interfaces that allows players to search for and form organized squads for content. [Wiki Link](https://wiki.guildwars2.com/wiki/Looking_For_Group)
+
+### ToF {#glossary:ToF}
+Acronym for **T**emple **o**f **F**ebe.
+
