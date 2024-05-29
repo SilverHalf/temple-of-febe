@@ -6,75 +6,80 @@ $phase2: #9d1010;
 $split2: #660909;
 $phase3: #350000;
 $phase4: #090000;
+$link-color: #ff9090;
 
-.design-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 0px 0;
-    font-family: Jost;
-  }
-  
-  .design {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .timeline {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .timeline-content {
-    //padding: 20px;
-    padding-left: 20px;
-    background: #171717;
-    -webkit-box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
-            box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #242424;
-    border-radius: 5px;
-    color: rgb(224, 224, 224);
-    //padding: 1.75rem;
-    //transition: 0.4s ease;
-    overflow-wrap: break-word !important;
-    height: fit-content;
-    //margin: 1rem;
-    //margin-bottom: 20px;
-    //border-radius: 6px;
-  }
-  
-  .timeline-component {
-    margin: 0px 20px 20px 20px;
-  }
-  
-  @media screen and (min-width: 768px) {
-    .timeline {
-      display: grid;
-      grid-template-columns: 1fr 3px 1fr;
-    }
-    .timeline-middle {
-      position: relative;
-      background-image: linear-gradient(45deg, #F27121, #E94057, #8A2387);
-      width: 3px;
-      height: 100%;
-    }
-    .main-middle {
-      opacity: 0;
-    }
-    .timeline-circle {
-      position: absolute;
-      top: 0;
-      left: 50%;
-      width: 15px;
-      height: 15px;
-      border-radius: 50%;
-      background-image: linear-gradient(45deg, #F27121, #E94057, #8A2387);
-      -webkit-transform: translateX(-50%);
-              transform: translateX(-50%);
-    }
-  }
+// ----------------  HEADINGS
+
+.h1 {
+	color: $link-color;
+}
+.h2 {
+	color: $link-color;
+}
+.h3 {
+	color: $link-color;
+}
+
+.intro {
+	background-image: url("/images/banner.webp");
+	font-size: 120px;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffffd6;
+	background-color: rgb(255, 176, 176);
+	background-size: cover;
+    background-position: center;
+}
+
+// ----------------  LAYOUT
+
+.container {
+	max-width: 1024px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+// ----------------  THE FONTS
+
+$border-color: #d20000;
+
+.timeline-item {
+	padding: 1em 2em;
+	position: relative;
+	border-left: 2px solid $border-color;
+	
+	p {
+		font-size: 1rem;
+	}
+	
+	&::before {
+		content: attr(date-is);
+		position: absolute;
+		left: 2em;
+		font-weight: bold;
+		display: block;
+		font-weight: 700;
+	}
+
+	&::after {
+		width: 10px;
+		height: 10px;
+		display: block;
+		top: 1em;
+		position: absolute;
+		left: -8px;
+		border-radius: 10px;
+		content: '';
+		border: 2px solid $border-color;
+		background: $phase3;
+	}
+
+	&:last-child {
+		border-image: linear-gradient(
+			to bottom,
+			$border-color 60%,
+			rgba($border-color, 0)) 1 100%
+		;
+	}
+}

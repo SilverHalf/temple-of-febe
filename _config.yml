@@ -20,7 +20,7 @@ callouts:
     title: Warning
     color: red
 
-color_scheme: dark
+color_scheme: dark_cerus
 
 kramdown:
   syntax_highlighter_opts:

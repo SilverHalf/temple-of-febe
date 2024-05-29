@@ -5,7 +5,7 @@ nav_order: 5
 parent: Introduction
 ---
 
-[ < ](first-runs.html){: .btn }
+[Previous](first-runs.html){: .btn } [Next](../mechanics/breakdown.html){: .btn }
 
 # Legendary Challenge Mode
 
@@ -45,4 +45,4 @@ benefit from referencing this guide.
 If you aim to kill this version of the fight, first kill the LCM, then hope you can find nine other
 like-minded players, and be prepared to spend a _lot_ of time on progression.
 
-[ < ](first-runs.html){: .btn }
+[Previous](first-runs.html){: .btn } [Next](../mechanics/breakdown.html){: .btn }

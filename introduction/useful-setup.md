@@ -5,11 +5,11 @@ nav_order: 3
 parent: Introduction
 ---
 
-[ < ](getting-started.html){: .btn } [ > ](first-runs.html){: .btn }
+[Previous](getting-started.html){: .btn } [Next](first-runs.html){: .btn }
 
 # Useful Things to Have
 
-Here you will find a list of external tools and utilites. These aren't strictly mandatory, but most come highly recommended by GW2's hardcore community.
+Here you will find a list of external tools and utilites. These aren't strictly mandatory, but most come highly recommended by GW2's endgame community.
 
 Try them out and see what you think!
 
@@ -35,4 +35,4 @@ ArcDPS logs can be viewed using the [Elite Insights](https://github.com/baaron4/
 
 If you don't want to go through the hassle of manually uploading all of your logs, I recommend using [Wingman Uploader](https://gw2wingman.nevermindcreations.de/uploader). This tool automatically uploads your logs to the Wingman website, where you can then browse them individually, and compare your performance to other players'. For example, [here](https://gw2wingman.nevermindcreations.de/cerus) you can find the average and top performances for Temple of Febe (make sure to select Challenge Mode!), and you can also view the best performing logs for each patch to see how they are doing their damage.
 
-[ < ](getting-started.html){: .btn } [ > ](first-runs.html){: .btn }
+[Previous](getting-started.html){: .btn } [Next](first-runs.html){: .btn }
