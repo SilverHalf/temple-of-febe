@@ -21,7 +21,7 @@ $link-color: #ff9090;
 }
 
 .intro {
-	background-image: url("/images/banner.webp");
+	background-image: url("../../images/banner.webp");
 	font-size: 120px;
 	text-align: center;
 	font-weight: bold;
@@ -30,6 +30,15 @@ $link-color: #ff9090;
 	background-color: rgb(255, 176, 176);
 	background-size: cover;
     background-position: center;
+}
+
+.arena_image {
+	background-image: url("../../images/mechanics/background.webp");
+	background-size: cover;
+    background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 // ----------------  LAYOUT

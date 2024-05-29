@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-[Previous](../introduction/lcm.html){: .btn } [Next](){: .btn }
+[Previous](../introduction/lcm.html){: .btn } [Next](empowered.html){: .btn }
 
 # Cerus, the Glaive of House Nephus 
 
@@ -29,7 +29,7 @@ Cerus will spawn in the center of this arena, and never moves from there.
 
 In Challenge Mode, any player that falls off the arena is instantly defeated, differently from Normal Mode, where they only take massive damage.
 
-The instance counts as Day, so players can't fully exploit [Night Sigil]().
+The instance counts as Day, so players can't fully exploit [Night Sigil](https://wiki.guildwars2.com/wiki/Superior_Sigil_of_the_Night).
 
 # Timeline
 The encounter consists in **four phases** and **two split phases**.
@@ -62,4 +62,4 @@ The encounter consists in **four phases** and **two split phases**.
 	</div>
 </div>
 
-[Previous](../introduction/lcm.html){: .btn } [Next](){: .btn }
+[Previous](../introduction/lcm.html){: .btn } [Next](empowered.html){: .btn }

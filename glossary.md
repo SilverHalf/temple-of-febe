@@ -10,6 +10,9 @@ nav_order: 10
 
 Here you will find definitions to various terms used throughout the guide.
 
+### AoE
+Acronym for **A**rea **o**f **E**ffect. Used to indicate any effect that influcences an area and not a single target, or the area affected by such an effect.
+
 ### BoonDPS {#glossary:BoonDPS}
 A role covered by a damage-oriented class that also provides a fundamental boon, either [alacrity](https://wiki.guildwars2.com/wiki/Alacrity) or [quickness](https://wiki.guildwars2.com/wiki/Quickness).
 
@@ -29,7 +32,7 @@ Acronym for **H**it **P**oints. The health of a character in-game.
 Acronym for **L**egendary **C**hallenge **M**ode. A much more difficult version of the Challenge Mode with increased health.
 
 ### LFG {#glossary:LFG}
-Acronym representing **L**ooking **F**or **G**roup. One of GW2's native interfaces that allows players to search for and form organized squads for content. [Wiki Link](https://wiki.guildwars2.com/wiki/Looking_For_Group)
+Acronym for **L**ooking **F**or **G**roup. One of GW2's native interfaces that allows players to search for and form organized squads for content. [Wiki Link](https://wiki.guildwars2.com/wiki/Looking_For_Group)
 
 ### ToF {#glossary:ToF}
 Acronym for **T**emple **o**f **F**ebe.

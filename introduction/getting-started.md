@@ -18,4 +18,4 @@ There are two primary communities that regularly host public runs:
 
 Both of these communities are _incredible_ resources for players looking to get into ToF, and I would recommend anyone interested in the encounter to join one or both. Click on the icons above to explore them!
 
-[Next](temple-of-febe/introduction/useful-setup.html){: .btn }
+[Next](useful-setup.html){: .btn }
