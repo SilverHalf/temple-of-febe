@@ -26,7 +26,7 @@ There are four main sections to this guide:
 
 Feel free to search or navigate to whatever you are interested in, or just:
 
-[Start reading!](../introduction/getting-started.html){: .btn }
+[Start reading!](introduction/getting-started.html){: .btn }
 
 ---
 

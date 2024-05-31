@@ -19,10 +19,8 @@ Stacks can be gained from several of Cerus's skills. Details on these attacks wi
 - [Insatiable Huger]() - 1-3 stacks every time an orb is not collected.
 - [Malicious Intent]() - 5 stacks when a summoned Malice reaches Cerus and is sacrificed.
 - [Cry of Rage]() - one stack whenever a player is hit by the AoE.
-- [Crushing Regret]() - 5 stacks whenever there are not enough players in the green.
 - [Enraged Smash]() - 3 stacks whenever Cerus uses this attack.
-
-Of these, most squad will gain the most stacks from Gluttony, followed by Malice.
+- [Crushing Regret]() - technically 5 stacks whenever there are not enough players in the green, however this will usually wipe the entire squad anyways if it happens.
 
 
 [Previous](breakdown.html){: .btn } [Next](aspects.html){: .btn }
