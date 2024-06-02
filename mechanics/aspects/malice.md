@@ -6,7 +6,7 @@ parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](envy.html){: .btn } [Next](){: .btn }
+[Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
 # Malicious Intent
 
@@ -14,7 +14,7 @@ grand_parent: Mechanics
 
 Targets a random player with a tether. After 5 seconds, the tether will complete, applying a DoT and spawning an add on the player's location. 
 
-If the add reaches Cerus, he will gain 5 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] and 95k barrier.
+If the add reaches Cerus, he will gain 5 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] and 95k <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 Adds are immune to hard crowd control, and spawn with <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance) that cannot be corrupted or removed, and lasts  for 30 seconds.
 
 
@@ -127,6 +127,6 @@ Other strategies proactively position the squad so that the adds die before they
 
 <img class="inline" src="../../images/icons/block.png" valign="middle"> [Blocking](https://wiki.guildwars2.com/wiki/Block) the DoT effect will make your healer's life much easier, especially in the final 10% when they are already under pressure.
 
-[Previous](envy.html){: .btn } [Next](){: .btn }
+[Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

@@ -6,7 +6,8 @@ parent: Mechanics
 has_children: true
 ---
 
-[Previous](envy.html){: .btn } [Next](){: .btn }
+[Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
+
 # Aspects of Cerus
 
 Cerus has six aspects: **Envy**, **Malice**, **Gluttony**, **Despair**, **Rage** and **Regret**. Each aspect corresponds to an add that can spawn throughout the fight in fixed locations, shown in the figure below. Adds resemble miniature versions of Cerus, and are **invulnerable**, except during split phases.
@@ -48,6 +49,6 @@ Three Aspects will gain the <img class="inline" src="../images/icons/add_empower
 
 Since empowered skills affect the squad in a much different way compared to normal skills, the choice of which Aspects to kill is one of the cruxes of encounter strategy.
 
-[Previous](envy.html){: .btn } [Next](){: .btn }
+[Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
