@@ -10,6 +10,9 @@ nav_order: 100
 
 Here you will find definitions to various terms used throughout the guide.
 
+### Add
+Short for "**Add**itional enemy". Any enemy in a fight that is not the main boss.
+
 ### AoE
 Acronym for **A**rea **o**f **E**ffect. Used to indicate any effect that influcences an area and not a single target, or the area affected by such an effect.
 
@@ -21,6 +24,9 @@ A role covered by a damage-oriented class that also provides a fundamental boon,
 
 ### CM {#glossary:CM}
 Acronym for **C**hallenge **M**ode.
+
+### DoT
+Acronym for **D**amage **o**ver **T**ime. An effect that deals consistent damage spread out over a time period.
 
 ### DPS {#glossary:DPS}
 Acronym for **D**amage **P**er **S**econd. Can also refer to damage-oriented roles in a squad, or damage-oriented classes.

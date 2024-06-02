@@ -6,13 +6,13 @@ parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](../aspects.html){: .btn } [Next](){: .btn }
+[Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }
 
 # Envious Gaze
 
 <img class="attack_gif" src="../../images/mechanics/envy.gif">
 
-Spawns a wall centered on the boss or the Envy add, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, and deals damage and corrupts all boons on allies it hits, pets and minions included.
+Spawns a wall centered on the boss or the Envy add, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, dealing damage and corrupting all boons on allies it hits, pets and minions included.
 
 {: .empowered }
 A second wall spawns opposite to the first one, and rotates in the same direction at double the speed. The enemy casting the wall also gains all boons that are corrupted, except for <img class="inline" src="../../images/icons/quickness.png" valign="middle"> [Quickness](https://wiki.guildwars2.com/wiki/Quickness) and <img class="inline" src="../../images/icons/alacrity.png" valign="middle"> [Alacrity](https://wiki.guildwars2.com/wiki/Alacrity).
@@ -120,4 +120,4 @@ Often with empowered walls it is necessary to avoid the fast wall. Jump-dodging 
 
 Stripping the boons from the boss is very important in case someone get hit by the empowered wall. Common skills for this are <img class="inline" src="../../images/icons/revenant.png" valign="middle"> [Revenant's](https://wiki.guildwars2.com/wiki/Revenant) <img class="inline" src="../../images/icons/Banish_Enchantment.png" valign="middle"> [Banish Enchantment](https://wiki.guildwars2.com/wiki/Banish_Enchantment) and <img class="inline" src="../../images/icons/scourge.png" valign="middle"> [Scourge's](https://wiki.guildwars2.com/wiki/Scourge) <img class="inline" src="../../images/icons/dagger3.png" valign="middle"> [Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (dagger 3) and <img class="inline" src="../../images/icons/gorge.png" valign="middle"> [Gorge](https://wiki.guildwars2.com/wiki/Gorge) (sword 3 flip skill).
 
-[Previous](../aspects.html){: .btn } [Next](){: .btn }
+[Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }

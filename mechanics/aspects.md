@@ -6,7 +6,7 @@ parent: Mechanics
 has_children: true
 ---
 
-[Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
+[Previous](envy.html){: .btn } [Next](){: .btn }
 # Aspects of Cerus
 
 Cerus has six aspects: **Envy**, **Malice**, **Gluttony**, **Despair**, **Rage** and **Regret**. Each aspect corresponds to an add that can spawn throughout the fight in fixed locations, shown in the figure below. Adds resemble miniature versions of Cerus, and are **invulnerable**, except during split phases.
@@ -23,8 +23,8 @@ Each Aspect of Cerus is associated with its own individual mechanic, totaling si
 The six Aspect mechanics are, in no particular order:
 
 - [Envious Gaze](aspects/envy.html) (Envy) - rotating wall that strips boons.
-- [Malicious Intent]() (Malice) - adds spawning on random players.
-- [Insatiable Hunger]() (Gluttony) - orbs converging on the boss.
+- [Malicious Intent](aspects/malice.html) (Malice) - adds spawning on random players.
+- [Insatiable Hunger](aspects/gluttony.html) (Gluttony) - orbs converging on the boss.
 - [Wail of Despair]() (Despair) -  spreads that leave lingering pools.
 - [Crushing Regret]() (Regret) - green circle.
 - [Cry of Rage]() (Rage) - massive damaging AoE.
@@ -48,6 +48,6 @@ Three Aspects will gain the <img class="inline" src="../images/icons/add_empower
 
 Since empowered skills affect the squad in a much different way compared to normal skills, the choice of which Aspects to kill is one of the cruxes of encounter strategy.
 
-[Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
+[Previous](envy.html){: .btn } [Next](){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
