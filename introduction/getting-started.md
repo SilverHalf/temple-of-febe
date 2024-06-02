@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 2
 has_children: true
 ---
-[Next](useful-setup.html){: .btn }
+[Previous](../index.html){: .btn } [Next](arcdps-logs.html){: .btn }
 
 # Getting Started
 
@@ -18,4 +18,4 @@ There are two primary communities that regularly host public runs:
 
 Both of these communities are _incredible_ resources for players looking to get into ToF, and I would recommend anyone interested in the encounter to join one or both. Click on the icons above to explore them!
 
-[Next](useful-setup.html){: .btn }
+[Previous](../index.html){: .btn } [Next](arcdps-logs.html){: .btn }

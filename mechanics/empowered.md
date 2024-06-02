@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Empowered
+title: Empowered Stacks
 nav_order: 7
 parent: Mechanics
 ---

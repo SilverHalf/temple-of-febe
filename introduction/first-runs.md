@@ -5,7 +5,7 @@ nav_order: 4
 parent: Introduction
 ---
 
-[Previous](useful-setup.html){: .btn } [  Next  ](lcm.html){: .btn }
+[Previous](arcdps-logs.html){: .btn } [  Next  ](lcm.html){: .btn }
 
 # Getting into your first run
 
@@ -26,4 +26,4 @@ As you advance further into the encounter and see more mechanics, you will likel
 
 If you are a dedicated gamer and want to run multiple times a week, you will likely benefit from forming or joining a static group.
 
-[Previous](useful-setup.html){: .btn } [   Next   ](lcm.html){: .btn }
+[Previous](arcdps-logs.html){: .btn } [   Next   ](lcm.html){: .btn }
