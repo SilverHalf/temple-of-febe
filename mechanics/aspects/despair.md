@@ -6,7 +6,7 @@ parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](gluttony.html){: .btn } [Next](){: .btn }
+[Previous](gluttony.html){: .btn } [Next](regret.html){: .btn }
 
 # Wail of Despair
 
@@ -119,8 +119,6 @@ Wait until the AoE indicator is almost full, then dodge. If done correctly, this
 
 When <img class="inline" src="../../images/icons/add_empowered.webp" valign="middle"> Empowered, the pools take a _huge_ amount of space. Common strategies to keep the arena free involve placing them in organized formations, usually in lines far from the boss.
 
-
-
-[Previous](gluttony.html){: .btn } [Next](){: .btn }
+[Previous](gluttony.html){: .btn } [Next](regret.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

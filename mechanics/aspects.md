@@ -27,7 +27,7 @@ The six Aspect mechanics are, in no particular order:
 - [Malicious Intent](aspects/malice.html) (Malice) - adds spawning on random players.
 - [Insatiable Hunger](aspects/gluttony.html) (Gluttony) - orbs converging on the boss.
 - [Wail of Despair](aspects/despair.html) (Despair) -  spreads that leave lingering pools.
-- [Crushing Regret]() (Regret) - green circle.
+- [Crushing Regret](aspects/regret.html) (Regret) - green circle.
 - [Cry of Rage]() (Rage) - massive damaging AoE.
 
 More information will be presented for each of these mechanics later.
