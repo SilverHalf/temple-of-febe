@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Gluttony
-nav_order: 10
+nav_order: 11
 parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](malice.html){: .btn } [Next](){: .btn }
+[Previous](malice.html){: .btn } [Next](despair.html){: .btn }
 
 # Insatiable Hunger
 
@@ -118,9 +118,9 @@ This attack is often one of the easiest ways to bleed <img class="inline" src=".
 
 One of the most commonly used methods to ensure this is to have two [marked](https://wiki.guildwars2.com/wiki/Commander#Markers) players, one in each subgroup. These people then call out the side of the boss they move to when collecting, and their subgroups follow them. Subgroups can set a [personal target](https://wiki.guildwars2.com/wiki/Call_Target#Set_Personal_Target) on the player they’re supposed to follow to see them better.
 
-Gluttony is almost never empowered in regular runs. Handling the additional damage in the final phase requires special builds, often running [Trailblazer](https://wiki.guildwars2.com/wiki/Trailblazer%27s) gear for extra survivability, and is usually done only by squads who are attempting the [Embodiment of Sin](../../introduction/lcm.html#embodiment-of-sin) achievment.
+Gluttony is almost never <img class="inline" src="../../images/icons/add_empowered.webp" valign="middle"> Empowered in regular runs. Handling the additional damage in the final phase requires special builds, often running [Trailblazer](https://wiki.guildwars2.com/wiki/Trailblazer%27s) gear for extra survivability, and is usually done only by squads who are attempting the [Embodiment of Sin](../../introduction/lcm.html#embodiment-of-sin) achievment.
 
 
-[Previous](malice.html){: .btn } [Next](){: .btn }
+[Previous](malice.html){: .btn } [Next](despair.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

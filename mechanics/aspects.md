@@ -26,7 +26,7 @@ The six Aspect mechanics are, in no particular order:
 - [Envious Gaze](aspects/envy.html) (Envy) - rotating wall that strips boons.
 - [Malicious Intent](aspects/malice.html) (Malice) - adds spawning on random players.
 - [Insatiable Hunger](aspects/gluttony.html) (Gluttony) - orbs converging on the boss.
-- [Wail of Despair]() (Despair) -  spreads that leave lingering pools.
+- [Wail of Despair](aspects/despair.html) (Despair) -  spreads that leave lingering pools.
 - [Crushing Regret]() (Regret) - green circle.
 - [Cry of Rage]() (Rage) - massive damaging AoE.
 
