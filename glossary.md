@@ -3,7 +3,7 @@ layout: page
 title: Glossary
 description: Definitions for commonly used terms and acronyms.
 id: glossary
-nav_order: 10
+nav_order: 100
 ---
 
 # Glossary
@@ -12,6 +12,9 @@ Here you will find definitions to various terms used throughout the guide.
 
 ### AoE
 Acronym for **A**rea **o**f **E**ffect. Used to indicate any effect that influcences an area and not a single target, or the area affected by such an effect.
+
+### Boon
+[Boons](https://wiki.guildwars2.com/wiki/Boon) are positive buffs that have huge importance in Guild War's combat. Correct boons may triple or quadruple a class's damage output.
 
 ### BoonDPS {#glossary:BoonDPS}
 A role covered by a damage-oriented class that also provides a fundamental boon, either [alacrity](https://wiki.guildwars2.com/wiki/Alacrity) or [quickness](https://wiki.guildwars2.com/wiki/Quickness).

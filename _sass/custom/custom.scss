@@ -41,6 +41,13 @@ $link-color: #ff9090;
 	margin-right: auto;
 }
 
+.attack_gif {
+	width: 100%;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 // ----------------  LAYOUT
 
 .container {
@@ -102,8 +109,11 @@ $border-color: #d20000;
 }
 
 ul[class=mechtable] {
-   list-style-type: none;
-   list-style: none;
+    list-style-type: none;
+    list-style: none;
+    width: 100%;
+    display: block;
+	padding-left: 0px;
 
     > li {
       &::before {
