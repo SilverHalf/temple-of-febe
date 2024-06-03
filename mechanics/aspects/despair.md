@@ -74,7 +74,7 @@ The AoEs and pools double in radius. Pools additionally ignore <img class="inlin
         <img class="table-img"  src="../../images/icons/ok.webp" valign="middle">
       </div>
     </li>
-    <li class="table-row">
+    <li class="emp-row">
       <div class="col">
         <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
       </div>

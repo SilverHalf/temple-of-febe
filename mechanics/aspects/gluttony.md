@@ -71,7 +71,7 @@ Five orbs spawn, instead of three. <img class="inline" src="../../images/icons/i
         <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
       </div>
     </li>
-    <li class="table-row">
+    <li class="emp-row">
       <div class="col">
         <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
       </div>

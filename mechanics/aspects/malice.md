@@ -75,7 +75,7 @@ Three people will be targeted by tethers, resulting in three adds spawning.
         <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
       </div>
     </li>
-    <li class="table-row">
+    <li class="emp-row">
       <div class="col">
         <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
       </div>

@@ -28,7 +28,7 @@ The six Aspect mechanics are, in no particular order:
 - [Insatiable Hunger](aspects/gluttony.html) (Gluttony) - orbs converging on the boss.
 - [Wail of Despair](aspects/despair.html) (Despair) -  spreads that leave lingering pools.
 - [Crushing Regret](aspects/regret.html) (Regret) - green circle.
-- [Cry of Rage]() (Rage) - massive damaging AoE.
+- [Cry of Rage](aspects/rage.html) (Rage) - massive damaging AoE.
 
 More information will be presented for each of these mechanics later.
 

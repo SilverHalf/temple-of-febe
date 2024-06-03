@@ -6,7 +6,7 @@ parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](despair.html){: .btn } [Next](){: .btn }
+[Previous](despair.html){: .btn } [Next](rage.html){: .btn }
 
 # Crushing Regret
 
@@ -73,7 +73,7 @@ Three greens will spawn, targeting random different players. Each green is funct
         <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
       </div>
     </li>
-    <li class="table-row">
+    <li class="emp-row">
       <div class="col">
         <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
       </div>
@@ -104,8 +104,8 @@ Three greens will spawn, targeting random different players. Each green is funct
 
 ## Extra Information
 
-- Technically applies 5 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] to Cerus, and a stack of <img class="inline" src="../../images/icons/exposed.png" valign="middle"> [Exposed](https://wiki.guildwars2.com/wiki/Exposed) to every player on failure.
-- Has a maximum range. If you and the green are on opposite sides of the arena, you won’t die to a failed green.
+- On failure, will technically applies 5 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] to Cerus, and a stack of <img class="inline" src="../../images/icons/exposed.png" valign="middle"> [Exposed](https://wiki.guildwars2.com/wiki/Exposed) to every player .
+- Has a maximum range. If you and the green are on opposite sides of the arena, you won’t die if it fails.
 - **BUG:** the green circle has a visual radius of 240, but its actual radius is 360.
 
 ## Strategy
@@ -114,14 +114,16 @@ Managing the normal version of this attack is trivial.
 
 The empowered version requires special attention. The most common strategy is to divide the squad into 3 groups of at least 3 people. Each group has a designated “Anchor” player and a designated “Runner” player, with the third player being the “Backup”. The 10th player is an optional “Float”.
 
-In the following image, the first row represents the Anchors, the second the Backups, and the last one the Runners and Floats, while the columns represent groups.
+In the following image, the first row represents the Anchors, the second the Backups, and the last one the Runners and Floats, while the columns represent individual groups.
 
 ![Green Strategy](../../images/mechanics/green_strat.webp)
 
-The Anchors are usually marked, and spread out to pre-established locations before each green mechanic, with their groups following them. When greens appear, if more than one green spawns inside of a group, the people targeted move to other groups, and the Runners from the other groups move back to cover the resulting gap. Runners should always be the first player to move in case of overlapping greens. Anchors should never move. Backups only move if both they and their Anchor have a green.
+The Anchors are usually [marked](https://wiki.guildwars2.com/wiki/Commander#Markers), and spread out to pre-established locations before each green mechanic, with their groups following them. When greens appear, if more than one green spawns inside of a group, the people targeted move to other groups, and the Runners from the other groups move back to cover the resulting gap. Runners should always be the first player to move in case of overlapping greens. Anchors should never move. Backups only move if both they and their Anchor have a green.
 
-Proper prepositioning before each green is crucial for this strategy to work. Any confusion regarding which green belongs to which stack can be fatal.
+Proper prepositioning before each green is crucial for this strategy to work. Any confusion regarding which green belongs to which group can be fatal.
 
-[Previous](despair.html){: .btn } [Next](){: .btn }
+Correct and reliable execution of Empowered Regret is one of the major hurdles for any progression groups that choose to face this mechanic.
+
+[Previous](despair.html){: .btn } [Next](rage.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
