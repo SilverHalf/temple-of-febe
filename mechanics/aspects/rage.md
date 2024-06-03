@@ -6,7 +6,7 @@ parent: Aspects
 grand_parent: Mechanics
 ---
 
-[Previous](regret.html){: .btn } [Next](){: .btn }
+[Previous](regret.html){: .btn } [Next](../other-attacks.html){: .btn }
 
 # Cry of Rage
 
@@ -113,6 +113,6 @@ Portals are used to move the squad out of the attack’s area of effect, usually
 Since <img class="inline" src="../../images/icons/sand-swell.png" valign="middle"> [Sand Swell](https://wiki.guildwars2.com/wiki/Sand_Swell) is not as easily visible as <img class="inline" src="../../images/icons/portal.png" valign="middle"> [Portal Entre](https://wiki.guildwars2.com/wiki/Portal_Entre), it is common practice to place a marker on the <img class="inline" src="../../images/icons/scourge.png" valign="middle"> [Scourge](https://wiki.guildwars2.com/wiki/Scourge), who by positioning preemptively facilitates the other players' finding the portal entrance.
 
 
-[Previous](regret.html){: .btn } [Next](){: .btn }
+[Previous](regret.html){: .btn } [Next](../other-attacks.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

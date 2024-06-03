@@ -21,8 +21,8 @@ There are four main sections to this guide:
 
 1. An introduction with information about how to get into ToF CM, including communities and tips for getting into your first run.
 2. A full description of every mechanic present in the fight, including effects, mitigation, common strategies, and other useful or interesting information.
-3. A brief overview of some commonly used strategies employed by organized groups, and the choices driving them.
-4. A detailed play-by-play breakdown of UNIT strat, one of the most used strategies in PUG groups.
+3. **TBA:** A brief overview of some commonly used strategies employed by organized groups, and the choices driving them.
+4. **TBA:** A detailed play-by-play breakdown of UNIT strat, one of the most used strategies in PUG groups.
 
 Feel free to search or navigate to whatever you are interested in, or just:
 
