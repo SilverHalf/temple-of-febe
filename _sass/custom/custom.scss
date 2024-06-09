@@ -148,3 +148,12 @@ ul[class=mechtable] {
 	  max-height: 50px;
 	}
   }
+
+  .timeline-display {
+	overflow-x: scroll;
+	overflow-y: hidden;
+	.timeline-img {
+		max-width: none;
+		
+	}
+  }

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="820" height="100" viewBox="0 0 820 100">
+<defs>
+</defs>
+<text x="60.0" y="43.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Enraged Smash</text>
+<circle cx="130" cy="37.5" r="6.25" fill="red" />
+<path d="M130,25 L130,50" stroke="red" />
+<circle cx="170" cy="37.5" r="6.25" fill="red" />
+<path d="M170,25 L170,50" stroke="red" />
+<circle cx="210" cy="37.5" r="6.25" fill="red" />
+<path d="M210,25 L210,50" stroke="red" />
+<circle cx="250" cy="37.5" r="6.25" fill="red" />
+<path d="M250,25 L250,50" stroke="red" />
+<circle cx="290" cy="37.5" r="6.25" fill="red" />
+<path d="M290,25 L290,50" stroke="red" />
+<circle cx="330" cy="37.5" r="6.25" fill="red" />
+<path d="M330,25 L330,50" stroke="red" />
+<circle cx="370" cy="37.5" r="6.25" fill="red" />
+<path d="M370,25 L370,50" stroke="red" />
+<circle cx="410" cy="37.5" r="6.25" fill="red" />
+<path d="M410,25 L410,50" stroke="red" />
+<circle cx="450" cy="37.5" r="6.25" fill="red" />
+<path d="M450,25 L450,50" stroke="red" />
+<circle cx="490" cy="37.5" r="6.25" fill="red" />
+<path d="M490,25 L490,50" stroke="red" />
+<circle cx="530" cy="37.5" r="6.25" fill="red" />
+<path d="M530,25 L530,50" stroke="red" />
+<circle cx="570" cy="37.5" r="6.25" fill="red" />
+<path d="M570,25 L570,50" stroke="red" />
+<circle cx="610" cy="37.5" r="6.25" fill="red" />
+<path d="M610,25 L610,50" stroke="red" />
+<circle cx="650" cy="37.5" r="6.25" fill="red" />
+<path d="M650,25 L650,50" stroke="red" />
+<circle cx="690" cy="37.5" r="6.25" fill="red" />
+<path d="M690,25 L690,50" stroke="red" />
+<circle cx="730" cy="37.5" r="6.25" fill="red" />
+<path d="M730,25 L730,50" stroke="red" />
+<circle cx="770" cy="37.5" r="6.25" fill="red" />
+<path d="M770,25 L770,50" stroke="red" />
+<circle cx="810" cy="37.5" r="6.25" fill="red" />
+<path d="M810,25 L810,50" stroke="red" />
+<text x="60.0" y="68.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Aspects</text>
+<rect x="170" y="50" width="50" height="25" fill="red" />
+<text x="195.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
+<rect x="270" y="50" width="50" height="25" fill="green" />
+<text x="295.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Regret</text>
+<rect x="320" y="50" width="50" height="25" fill="orange" />
+<text x="345.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Rage</text>
+<rect x="420" y="50" width="50" height="25" fill="black" />
+<text x="445.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
+<rect x="470" y="50" width="50" height="25" fill="red" />
+<text x="495.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
+<rect x="570" y="50" width="50" height="25" fill="green" />
+<text x="595.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Regret</text>
+<rect x="620" y="50" width="50" height="25" fill="orange" />
+<text x="645.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Rage</text>
+<rect x="720" y="50" width="50" height="25" fill="black" />
+<text x="745.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
+<rect x="770" y="50" width="50" height="25" fill="red" />
+<text x="795.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
+<text x="60.0" y="93.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle"></text>
+<rect x="230" y="75" width="100" height="25" fill="blue" />
+<text x="280.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Envy</text>
+<rect x="370" y="75" width="100" height="25" fill="purple" />
+<text x="420.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
+<rect x="530" y="75" width="100" height="25" fill="blue" />
+<text x="580.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Envy</text>
+<rect x="670" y="75" width="100" height="25" fill="purple" />
+<text x="720.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
+<path d="M0,25 L820,25" stroke="white" stroke-width="2" />
+<path d="M120,0 L120,100" stroke="white" stroke-width="2" />
+<path d="M220,15.0 L220,25" stroke="white" stroke-width="1.5" />
+<text x="220.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">10</text>
+<path d="M320,15.0 L320,25" stroke="white" stroke-width="1.5" />
+<text x="320.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">20</text>
+<path d="M420,15.0 L420,25" stroke="white" stroke-width="1.5" />
+<text x="420.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">30</text>
+<path d="M520,15.0 L520,25" stroke="white" stroke-width="1.5" />
+<text x="520.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">40</text>
+<path d="M620,15.0 L620,25" stroke="white" stroke-width="1.5" />
+<text x="620.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">50</text>
+<path d="M720,15.0 L720,25" stroke="white" stroke-width="1.5" />
+<text x="720.0" y="12.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">60</text>
+<path d="M170,20.0 L170,25" stroke="white" stroke-width="0.5" />
+<path d="M270,20.0 L270,25" stroke="white" stroke-width="0.5" />
+<path d="M370,20.0 L370,25" stroke="white" stroke-width="0.5" />
+<path d="M470,20.0 L470,25" stroke="white" stroke-width="0.5" />
+<path d="M570,20.0 L570,25" stroke="white" stroke-width="0.5" />
+<path d="M670,20.0 L670,25" stroke="white" stroke-width="0.5" />
+<path d="M770,20.0 L770,25" stroke="white" stroke-width="0.5" />
+<path d="M130,22.5 L130,25" stroke="white" stroke-width="0.3" />
+<path d="M140,22.5 L140,25" stroke="white" stroke-width="0.3" />
+<path d="M150,22.5 L150,25" stroke="white" stroke-width="0.3" />
+<path d="M160,22.5 L160,25" stroke="white" stroke-width="0.3" />
+<path d="M180,22.5 L180,25" stroke="white" stroke-width="0.3" />
+<path d="M190,22.5 L190,25" stroke="white" stroke-width="0.3" />
+<path d="M200,22.5 L200,25" stroke="white" stroke-width="0.3" />
+<path d="M210,22.5 L210,25" stroke="white" stroke-width="0.3" />
+<path d="M230,22.5 L230,25" stroke="white" stroke-width="0.3" />
+<path d="M240,22.5 L240,25" stroke="white" stroke-width="0.3" />
+<path d="M250,22.5 L250,25" stroke="white" stroke-width="0.3" />
+<path d="M260,22.5 L260,25" stroke="white" stroke-width="0.3" />
+<path d="M280,22.5 L280,25" stroke="white" stroke-width="0.3" />
+<path d="M290,22.5 L290,25" stroke="white" stroke-width="0.3" />
+<path d="M300,22.5 L300,25" stroke="white" stroke-width="0.3" />
+<path d="M310,22.5 L310,25" stroke="white" stroke-width="0.3" />
+<path d="M330,22.5 L330,25" stroke="white" stroke-width="0.3" />
+<path d="M340,22.5 L340,25" stroke="white" stroke-width="0.3" />
+<path d="M350,22.5 L350,25" stroke="white" stroke-width="0.3" />
+<path d="M360,22.5 L360,25" stroke="white" stroke-width="0.3" />
+<path d="M380,22.5 L380,25" stroke="white" stroke-width="0.3" />
+<path d="M390,22.5 L390,25" stroke="white" stroke-width="0.3" />
+<path d="M400,22.5 L400,25" stroke="white" stroke-width="0.3" />
+<path d="M410,22.5 L410,25" stroke="white" stroke-width="0.3" />
+<path d="M430,22.5 L430,25" stroke="white" stroke-width="0.3" />
+<path d="M440,22.5 L440,25" stroke="white" stroke-width="0.3" />
+<path d="M450,22.5 L450,25" stroke="white" stroke-width="0.3" />
+<path d="M460,22.5 L460,25" stroke="white" stroke-width="0.3" />
+<path d="M480,22.5 L480,25" stroke="white" stroke-width="0.3" />
+<path d="M490,22.5 L490,25" stroke="white" stroke-width="0.3" />
+<path d="M500,22.5 L500,25" stroke="white" stroke-width="0.3" />
+<path d="M510,22.5 L510,25" stroke="white" stroke-width="0.3" />
+<path d="M530,22.5 L530,25" stroke="white" stroke-width="0.3" />
+<path d="M540,22.5 L540,25" stroke="white" stroke-width="0.3" />
+<path d="M550,22.5 L550,25" stroke="white" stroke-width="0.3" />
+<path d="M560,22.5 L560,25" stroke="white" stroke-width="0.3" />
+<path d="M580,22.5 L580,25" stroke="white" stroke-width="0.3" />
+<path d="M590,22.5 L590,25" stroke="white" stroke-width="0.3" />
+<path d="M600,22.5 L600,25" stroke="white" stroke-width="0.3" />
+<path d="M610,22.5 L610,25" stroke="white" stroke-width="0.3" />
+<path d="M630,22.5 L630,25" stroke="white" stroke-width="0.3" />
+<path d="M640,22.5 L640,25" stroke="white" stroke-width="0.3" />
+<path d="M650,22.5 L650,25" stroke="white" stroke-width="0.3" />
+<path d="M660,22.5 L660,25" stroke="white" stroke-width="0.3" />
+<path d="M680,22.5 L680,25" stroke="white" stroke-width="0.3" />
+<path d="M690,22.5 L690,25" stroke="white" stroke-width="0.3" />
+<path d="M700,22.5 L700,25" stroke="white" stroke-width="0.3" />
+<path d="M710,22.5 L710,25" stroke="white" stroke-width="0.3" />
+<path d="M730,22.5 L730,25" stroke="white" stroke-width="0.3" />
+<path d="M740,22.5 L740,25" stroke="white" stroke-width="0.3" />
+<path d="M750,22.5 L750,25" stroke="white" stroke-width="0.3" />
+<path d="M760,22.5 L760,25" stroke="white" stroke-width="0.3" />
+<path d="M780,22.5 L780,25" stroke="white" stroke-width="0.3" />
+<path d="M790,22.5 L790,25" stroke="white" stroke-width="0.3" />
+<path d="M800,22.5 L800,25" stroke="white" stroke-width="0.3" />
+<path d="M810,22.5 L810,25" stroke="white" stroke-width="0.3" />
+</svg>
