@@ -12,94 +12,46 @@ grand_parent: Mechanics
 
 <img class="attack_gif" src="../../images/mechanics/malice.gif">
 
-Targets a random player with a tether. After 5 seconds, the tether will complete, applying a DoT and spawning an add on the player's location. 
+Targets a random player with a tether. After 5 seconds, the tether will complete, applying a DoT and spawning an add on the player's location.
 
-If the add reaches Cerus, he will gain 5 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] and 95k <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
-Adds are immune to hard crowd control, and spawn with <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance) that cannot be corrupted or removed, and lasts  for 30 seconds.
+The add will start walking toward Cerus. If it reaches him, it will be sacrificed, and Cerus will gain 5 stacks of <img class="inline empowered"> [Empowered] and 95k <img class="inline barrier"> [Barrier].
 
+Adds are immune to hard crowd control, and spawn with <img class="inline resistance"> [Resistance] that cannot be corrupted or removed, and lasts  for 30 seconds.
 
-{: .empowered }
+{: .empowered_description }
 Three people will be targeted by tethers, resulting in three adds spawning.
 
 <div>
   <ul class="mechtable">
     <li class="table-header">
-      <div class="col">
-        <img class="table-img" src="../../images/icons/distort.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/nodmg.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/reflect.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/dodge.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/jump.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/prot.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/block.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/barrier.webp" valign="middle">
-      </div>
+      <img class="table-img distort">
+      <img class="table-img glint_h">
+      <img class="table-img feedback">
+      <img class="table-img dodge">
+      <img class="table-img jump">
+      <img class="table-img protection">
+      <img class="table-img block">
+      <img class="table-img barrier">
     </li>
     <li class="table-row">
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda2.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
+      <img class="table-img kinda1">
+      <img class="table-img kinda1">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
+      <img class="table-img kinda2">
+      <img class="table-img kinda1">
     </li>
     <li class="emp-row">
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda2.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
+      <img class="table-img kinda1">
+      <img class="table-img kinda1">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
+      <img class="table-img kinda2">
+      <img class="table-img kinda1">
     </li>
   </ul>
 </div>
@@ -109,24 +61,31 @@ Three people will be targeted by tethers, resulting in three adds spawning.
 
 ## Extra Information
 
-- The behaviour with <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance) running out before the adds reach the boss has been confirmed as intended.
-- Adds have 1 million HP. This makes them easy to deal with for power-based comps, and difficult for condition-based.
+- The behaviour with <img class="inline resistance"> [Resistance] running out before the adds reach the boss has been confirmed as intended.
+- Adds have 1 million HP. This makes them easy to deal with for power-based comps, and more difficult for condition-based comps.
 - If placed in certain areas on the east side of the platform, adds will pathfind to a point just north or south of the boss, instead of directly towards it, as shown in the figure.
 <img class="arena_image" width="70%" src="../../images/mechanics/pathing.webp" />
-- Adds are affected by all forms of soft crowd control once <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance) runs out.
+- Adds are affected by all forms of soft crowd control once <img class="inline resistance"> [Resistance] runs out.
 - Players will receive a sound cue and their screen border will become purple-white when targeted by the tether. Additionally, the remaining time before the tether completes is shown as a timer above their heads.
 - This attack has a maximum range, and if no-one is in it, no tethers will be applied and no adds will spawn.
 
 ## Strategy
 
-Malice is usually dealt with by using portals, usually either a <img class="inline" src="../../images/icons/scourge.png" valign="middle"> [Scourge's](https://wiki.guildwars2.com/wiki/Scourge) <img class="inline" src="../../images/icons/sand-swell.png" valign="middle"> [Sand Swell](https://wiki.guildwars2.com/wiki/Sand_Swell) or a <img class="inline" src="../../images/icons/mesmer.png" valign="middle"> [Mesmer's](https://wiki.guildwars2.com/wiki/Mesmer) <img class="inline" src="../../images/icons/portal.png" valign="middle"> [Portal Entre](https://wiki.guildwars2.com/wiki/Portal_Entre), to drop the adds far from the boss.
+Malice is usually dealt with by using portals, usually either a <img class="inline scourge"> [Scourge]'s <img class="inline sand-swell"> [Sand Swell] or a <img class="inline mesmer"> [Mesmer]'s <img class="inline portal"> [Portal Entre], to drop the adds far from the boss.
 
-Some strategies then wait for their <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance) to expire, and then <img class="inline" src="../../images/icons/immobile.png" valign="middle"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) and kill them in melee while maintaining DPS uptime. In this case, placing the adds within the strange pathfinding zones depicted above, as much to the east as possible, will ensure that they are as far as possible from the boss when they lose their <img class="inline" src="../../images/icons/resistance.png" valign="middle"> [Resistance](https://wiki.guildwars2.com/wiki/Resistance).
+Some strategies place the adds on the edge of the arena, and wait for their <img class="inline resistance"> [Resistance] to expire while they are walking to the boss. This way they can <img class="inline immobile"> [Immobilize] and kill them in melee while maintaining DPS uptime. In this case, placing the adds within the zones depicted above, as much to the east as possible, will ensure that they are as far as possible from the boss when they lose their <img class="inline resistance"> [Resistance], giving the squad more time to comfortably kill them.
 
 Other strategies proactively position the squad so that the adds die before they even reach the boss.
 
-<img class="inline" src="../../images/icons/block.png" valign="middle"> [Blocking](https://wiki.guildwars2.com/wiki/Block) the DoT effect will make your healer's life much easier, especially in the final 10% when they are already under pressure.
+<img class="inline" src="../../images/icons/block.png" valign="middle"> [Blocking](https://wiki.guildwars2.com/wiki/Block) the DoT effect is recommended, especially in the final 10% when the healers are already under pressure.
 
 [Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
+[Barrier]: https://wiki.guildwars2.com/wiki/Barrier
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
+[Resistance]: https://wiki.guildwars2.com/wiki/Resistance
+[Scourge]: https://wiki.guildwars2.com/wiki/Scourge
+[Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
+[Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
+[Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
+[Immobilize]: https://wiki.guildwars2.com/wiki/Immobile

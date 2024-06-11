@@ -12,115 +12,76 @@ grand_parent: Mechanics
 
 <img class="attack_gif" src="../../images/mechanics/gluttony.gif">
 
-Several smaller orbs and three large orbs will spawn randomly around the edge of the platform, and start moving towards Cerus. Each large orb must be body-blocked by three players to be collected. Blocking any large orb will give a stack of <img class="inline" src="../../images/icons/insatiable.png" valign="middle"> [Insatiable](https://wiki.guildwars2.com/wiki/Insatiable), which deals 350 damage per second for 60 seconds. If any orbs reach Cerus, they will give him <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier). Large orbs will also apply up to 3 stacks of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered], depending on how many people collected.
+Several smaller orbs and three large orbs will spawn randomly around the edge of the platform, and start moving towards Cerus. Each large orb must be body-blocked by three players to be collected. Blocking any large orb will give a stack of <img class="inline insatiable"> [Insatiable], which deals 350 damage per second for 60 seconds. If any orbs reach Cerus, they will give him <img class="inline barrier"> [Barrier]. Large orbs will also apply up to 3 stacks of <img class="inline empowered"> [Empowered], depending on how many people collected.
 
-{: .empowered }
-Five orbs spawn, instead of three. <img class="inline" src="../../images/icons/insatiable.png" valign="middle"> [Insatiable](https://wiki.guildwars2.com/wiki/Insatiable) stacks are permanent.
+{: .empowered_description }
+Five orbs spawn, instead of three. <img class="inline insatiable"> [Insatiable] stacks are permanent.
 
 <div>
   <ul class="mechtable">
     <li class="table-header">
-      <div class="col">
-        <img class="table-img" src="../../images/icons/distort.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/nodmg.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/reflect.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/dodge.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/jump.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/prot.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/block.png" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/barrier.webp" valign="middle">
-      </div>
+      <img class="table-img distort">
+      <img class="table-img glint_h">
+      <img class="table-img feedback">
+      <img class="table-img dodge">
+      <img class="table-img jump">
+      <img class="table-img protection">
+      <img class="table-img block">
+      <img class="table-img barrier">
     </li>
     <li class="table-row">
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda2.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
+      <img class="table-img kinda1">
+      <img class="table-img kinda1">
+      <img class="table-img kinda2">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
     </li>
     <li class="emp-row">
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda2.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/notok.webp" valign="middle">
-      </div>
-      <div class="col">
-        <img class="table-img"  src="../../images/icons/kinda1.webp" valign="middle">
-      </div>
+      <img class="table-img kinda1">
+      <img class="table-img kinda1">
+      <img class="table-img kinda2">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
+      <img class="table-img notok">
+      <img class="table-img kinda1">
     </li>
   </ul>
 </div>
 
-1. Affects the damage applied by <img class="inline" src="../../images/icons/insatiable.png" valign="middle"> [Insatiable](https://wiki.guildwars2.com/wiki/Insatiable).
+1. Affects the damage applied by <img class="inline insatiable"> [Insatiable].
 2. Affects the small orbs, but not the large ones.
 
 ## Extra Information
 
-- Each player blocking an orb reduces the number of <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] stacks given by one.
-- Large orbs that reach the boss give him 500k <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier), independant of the number of players who collected them.
-- Small orbs give 250-300k <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier) total. This means, for example, that a squad would gain more damage from a <img class="inline" src="../../images/icons/mesmer.png" valign="middle"> [Mesmer](https://wiki.guildwars2.com/wiki/Mesmer) taking <img class="inline" src="../../images/icons/reflect.png" valign="middle"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) over <img class="inline" src="../../images/icons/illusions.png" valign="middle"> [Signet of Illusions](https://wiki.guildwars2.com/wiki/Signet_of_Illusions).
-- If reflected, small orbs will give <img class="inline" src="../../images/icons/barrier.webp" valign="middle"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier) to players instead of the boss.
+- Each player blocking an orb reduces the number of <img class="inline empowered"> [Empowered] stacks given by one.
+- Large orbs that reach the boss give him 500k <img class="inline barrier"> [Barrier], independant of the number of players who collected them.
+- Small orbs give 250-300k <img class="inline barrier"> [Barrier] total. This means that if no other reflect sources are available, a squad would gain more damage from a <img class="inline virtuoso"> [Virtuoso] taking <img class="inline feedback"> [Feedback] than with <img class="inline illusions"> [Signet of Illusions].
+- If reflected, small orbs will give <img class="inline barrier"> [Barrier] to players instead of the boss.
 - Dodging through a large orb will not count as a body-block.
-- **BUG:** if two orbs are collected in rapid succession (within 0.8 seconds), one of the two will despawn without giving <img class="inline" src="../../images/icons/insatiable.png" valign="middle"> [Insatiable](https://wiki.guildwars2.com/wiki/Insatiable). This can be done relatively easily by a <img class="inline" src="../../images/icons/mesmer.png" valign="middle"> [Mesmer](https://wiki.guildwars2.com/wiki/Mesmer) with <img class="inline" src="../../images/icons/blink.png" valign="middle"> [Blink](https://wiki.guildwars2.com/wiki/Blink), but can also be done with other movement skills, such as a <img class="inline" src="../../images/icons/scourge.png" valign="middle"> [Scourge's](https://wiki.guildwars2.com/wiki/Scourge) <img class="inline" src="../../images/icons/sword3.png" valign="middle"> [Path of Gluttony](https://wiki.guildwars2.com/wiki/Path_of_Gluttony) (sword 3).
+- **BUG:** if two orbs are collected in rapid succession (within 0.8 seconds), one of the two will despawn without giving <img class="inline insatiable"> [Insatiable]. This can be done relatively easily by a <img class="inline mesmer"> [Mesmer] with <img class="inline blink"> [Blink], but can also be done with other movement skills, such as a <img class="inline scourge"> [Scourge]'s <img class="inline necro_three"> [Path of Gluttony] (sword 3).
 
 ## Strategy
 
-This attack is often one of the easiest ways to bleed <img class="inline" src="../../images/icons/empowered.webp" valign="middle"> [Empowered] to the boss. It is crucial that the squad spreads out correctly in order to intercept all of the orbs.
+This attack is often one of the easiest ways to bleed <img class="inline empowered"> [Empowered] to the boss. It is crucial that the squad spreads out correctly in order to intercept all of the orbs.
 
 One of the most commonly used methods to ensure this is to have two [marked](https://wiki.guildwars2.com/wiki/Commander#Markers) players, one in each subgroup. These people then call out the side of the boss they move to when collecting, and their subgroups follow them. Subgroups can set a [personal target](https://wiki.guildwars2.com/wiki/Call_Target#Set_Personal_Target) on the player they’re supposed to follow to see them better.
 
-Gluttony is almost never <img class="inline" src="../../images/icons/add_empowered.webp" valign="middle"> Empowered in regular runs. Handling the additional damage in the final phase requires special builds, often running [Trailblazer](https://wiki.guildwars2.com/wiki/Trailblazer%27s) gear for extra survivability, and is usually done only by squads who are attempting the [Embodiment of Sin](../../introduction/lcm.html#embodiment-of-sin) achievment.
+Gluttony is almost never <img class="inline empowered_add"> Empowered in regular runs. Handling the additional damage in the final phase requires special builds, often running [Trailblazer](https://wiki.guildwars2.com/wiki/Trailblazer%27s) gear for extra survivability, and is usually done only by squads who are attempting the [Embodiment of Sin](../../introduction/lcm.html#embodiment-of-sin) achievment.
 
 
 [Previous](malice.html){: .btn } [Next](despair.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
+[Insatiable]: https://wiki.guildwars2.com/wiki/Insatiable
+[Barrier]: https://wiki.guildwars2.com/wiki/Barrier
+[Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
+[Feedback]: https://wiki.guildwars2.com/wiki/Feedback
+[Signet of Illusions]: https://wiki.guildwars2.com/wiki/Signet_of_Illusions
+[Blink]: https://wiki.guildwars2.com/wiki/Blink
+[Scourge]: https://wiki.guildwars2.com/wiki/Scourge
+[Path of Gluttony]: https://wiki.guildwars2.com/wiki/Path_of_Gluttony
+[Virtuoso]: https://wiki.guildwars2.com/wiki/Virtuoso

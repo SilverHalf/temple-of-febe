@@ -1,0 +1,59 @@
+// Custom Table
+
+ul[class=mechtable] {
+    list-style-type: none;
+    list-style: none;
+    width: 100%;
+    display: block;
+	padding-left: 0px;
+
+    > li {
+      &::before {
+        content: None;
+      }
+    }
+}
+
+.mechtable {
+	li {
+	  border-radius: 3px;
+	  padding: 10px;
+	  display: flex;
+	  justify-content: space-between;
+	  margin-bottom: 8px;
+	  content: none;
+	  max-width: 400px;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+	.table-header {
+	  background-color: #0a0a0a;
+	  max-height: 50px;
+	}
+	.table-row {
+	  background-color: #515151;
+	  max-height: 50px;
+	  
+	}
+	.emp-row {
+	  background-color: #561f1f;
+	  max-height: 50px;
+	}
+  }
+
+  .timeline-display {
+	overflow-x: scroll;
+	overflow-y: hidden;
+	scrollbar-width: thin;
+	.timeline-img {
+		max-width: none;
+	}
+  }
+
+// Image shortcuts
+
+.table-img { 
+	height: 2em;
+	display: block;
+	margin: 0 auto;
+}

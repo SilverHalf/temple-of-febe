@@ -55,6 +55,6 @@ Cerus will spawn in the center of this arena, and never moves from there.
 
 In Challenge Mode, any player that falls off the arena is instantly defeated, differently from Normal Mode, where they only take massive damage.
 
-The arena is not one single collision mesh, but many combined. This creates some strange issues with pathfinding, both when dealing with moving [adds]() that spawn throughout the fight, but also when using skills that require an uninterrupted path, such as <img class="inline" src="../images/icons/blink.png" valign="middle"> [Blink](https://wiki.guildwars2.com/wiki/Blink). These skills may not function properly when cast towards or from certain areas of the arena.
+The arena is not one single collision mesh, but many combined. This creates some strange issues with pathfinding, both when dealing with moving [adds](aspects/malice.html) that spawn throughout the fight, but also when using skills that require an uninterrupted path, such as <img class="inline blink"> [Blink](https://wiki.guildwars2.com/wiki/Blink). These skills may not function properly when cast towards or from certain areas of the arena.
 
 [Previous](mechanics.html){: .btn } [Next](empowered.html){: .btn }

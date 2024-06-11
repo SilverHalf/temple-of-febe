@@ -1,0 +1,52 @@
+$phase3: #350000;
+$border-color: #d20000;
+
+// ----------------  LAYOUT
+
+.container {
+	max-width: 1024px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+// ----------------  THE FONTS
+
+.timeline-item {
+	padding: 1em 2em;
+	position: relative;
+	border-left: 2px solid $border-color;
+	
+	p {
+		font-size: 1rem;
+	}
+	
+	&::before {
+		content: attr(date-is);
+		position: absolute;
+		left: 2em;
+		font-weight: bold;
+		display: block;
+		font-weight: 700;
+	}
+
+	&::after {
+		width: 10px;
+		height: 10px;
+		display: block;
+		top: 1em;
+		position: absolute;
+		left: -8px;
+		border-radius: 10px;
+		content: '';
+		border: 2px solid $border-color;
+		background: $phase3;
+	}
+
+	&:last-child {
+		border-image: linear-gradient(
+			to bottom,
+			$border-color 60%,
+			rgba($border-color, 0)) 1 100%
+		;
+	}
+}

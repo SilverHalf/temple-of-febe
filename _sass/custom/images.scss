@@ -1,0 +1,173 @@
+// Bindings for images and icons used throughout the fight
+
+.arena_image {
+	background-image: url("../../images/mechanics/background.webp");
+	background-size: cover;
+    background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.attack_gif {
+	width: 100%;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// ICON IMAGE BINDINGS
+
+// Ok, not ok, kinda ok icons
+.ok{
+	content: url('../../images/icons/ok.webp');
+}
+.notok{
+	content: url('../../images/icons/notok.webp');
+}
+.kinda{
+	content: url('../../images/icons/kinda.webp');
+}
+.kinda1{
+	content: url('../../images/icons/kinda1.webp');
+}
+.kinda2{
+	content: url('../../images/icons/kinda2.webp');
+}
+.kinda3{
+	content: url('../../images/icons/kinda3.webp');
+}
+
+// Boons
+.alacrity{
+	content: url('../../images/icons/alacrity.png');
+}
+.block{
+	content: url('../../images/icons/block.png');
+}
+.protection{
+	content: url('../../images/icons/prot.png');
+}
+.quickness{
+	content: url('../../images/icons/quickness.png');
+}
+.resistance{
+	content: url('../../images/icons/resistance.png');
+}
+
+// Conditions
+.torment{
+	content: url('../../images/icons/torment.png');
+}
+.immobile{
+	content: url('../../images/icons/immobile.png');
+}
+.chill{
+	content: url('../../images/icons/chilled.png');
+}
+.fear{
+	content: url('../../images/icons/fear.png');
+}
+
+// Classes
+.mesmer{
+    content: url('../../images/icons/mesmer.png');
+}
+.revenant {
+    content: url('../../images/icons/revenant.png');
+}
+.scourge{
+    content: url('../../images/icons/scourge.png');
+}
+.virtuoso{
+    content: url('../../images/icons/virtuoso.png');
+}
+
+// Skills
+
+.illusions {
+    content: url('../../images/icons/illusions.png');
+}
+.blink {
+    content: url('../../images/icons/blink.png');
+}
+.necro_three {
+    content: url('../../images/icons/sword3.png');
+}
+.necro_three_dagger {
+    content: url('../../images/icons/dagger3.png');
+}
+.distort {
+	content: url('../../images/icons/distort.png');
+}
+.glint_h {
+	content: url('../../images/icons/nodmg.png');
+}
+.feedback{
+	content: url('../../images/icons/reflect.png');
+}
+.dodge{
+	content: url('../../images/icons/dodge.png');
+}
+.banish {
+    content: url('../../images/icons/Banish_Enchantment.png');
+}
+.gorge {
+    content: url('../../images/icons/gorge.png');
+}
+.sand-swell {
+    content: url('../../images/icons/sand-swell.png');
+}
+.portal {
+    content: url('../../images/icons/portal.png');
+}
+.blink {
+    content: url('../../images/icons/blink.png');
+}
+.moa {
+    content: url('../../images/icons/moa.png');
+}
+.golem {
+    content: url('../../images/icons/golem.png');
+}
+.dwarf {
+    content: url('../../images/icons/dwarf.png');
+}
+
+// Other
+.jump{
+	content: url('../../images/icons/jump.webp');
+}
+.barrier{
+	content: url('../../images/icons/barrier.webp');
+}
+.empowered{
+    content: url('../../images/icons/empowered.webp');
+}
+.empowered_add{
+    content: url('../../images/icons/add_empowered.webp');
+}
+.insatiable{
+    content: url('../../images/icons/insatiable.png');
+}
+.extreme_vulnerability{
+    content: url('../../images/icons/extreme_vulnerability.png');
+}
+.exposed{
+    content: url('../../images/icons/exposed.png');
+}
+.vl_icon{
+    content: url('../../images/introduction/VL_icon.webp');
+}
+.tof_icon{
+    content: url('../../images/introduction/ToF_icon.webp');
+}
+.defiance {
+	content: url('../../images/icons/defiance.png');
+}
+.petrify {
+	content: url('../../images/icons/petrify.png');
+}
+.peppercorn {
+	content: url('../../images/icons/peppercorn.png');
+}

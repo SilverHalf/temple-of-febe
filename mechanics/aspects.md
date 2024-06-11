@@ -38,16 +38,16 @@ Since the boss and his aspects always execute their attacks at the same instants
 
 At the beginning of each split phase at 80% and 50%,, Cerus will gain a [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar). Once this is completed, he will disappear and all his Aspects will become visibe and vulnerable in their usual positions. Cerus will not reappear until the squad kills one of them.
 
-Three Aspects will gain the <img class="inline" src="../images/icons/add_empowered.webp" valign="middle"> **Empowered** effect (which is different from the <img class="inline" src="../images/icons/empowered.webp" valign="middle"> [Empowered] effect). These can be quickly identified due to being noticeably larger than normal.
+Three Aspects will gain the <img class="inline empowered_add"> **Empowered** effect (which is different from the <img class="inline empowered"> [Empowered] effect). These can be quickly identified due to being noticeably larger than normal.
 
 - Envy, Rage and Regret will always empower in the 80% split phase.
 - Despair, Gluttony and Malice will always empower in the 50% split phase.
 
-<img class="inline" src="../images/icons/add_empowered.webp" valign="middle"> **Empowered buffs the Aspect's characteristic skill**, making it more much difficult to deal with. The only way to make an Aspect lose <img class="inline" src="../images/icons/add_empowered.webp" valign="middle"> Empowered is by killing it during a split phase. Vice versa, Aspects will *gain* <img class="inline" src="../images/icons/add_empowered.webp" valign="middle"> Empowered if you kill their de-powered version. Killing an aspect during a split phase will not stop it from doing its attacks as usual.
+<img class="inline empowered_add"> **Empowered buffs the Aspect's characteristic skill**, making it more much difficult to deal with. The only way to make an Aspect lose <img class="inline empowered_add"> Empowered is by killing it during a split phase. Vice versa, Aspects will *gain* <img class="inline empowered_add"> Empowered if you kill their de-powered version. Killing an aspect during a split phase will not stop it from doing its attacks as usual.
 
-**At the end of every split phase, all living Aspects will transfer their unique buffs to Cerus**. This includes both types of <img class="inline" src="../images/icons/empowered.webp" valign="middle"><img class="inline" src="../images/icons/add_empowered.webp" valign="middle"> Empowered. This means that at the end of the 80% split, at least two of Cerus's skills will be buffed, which increases to at least four at the end of the 50% split.
+**At the end of every split phase, all living Aspects will transfer their unique buffs to Cerus**. This includes both types of <img class="inline empowered"><img class="inline empowered_add"> **Empowered**. This means that at the end of the 80% split, at least two of Cerus's skills will be buffed, which increases to at least four at the end of the 50% split.
 
-Since empowered skills affect the squad in a much different way compared to normal skills, the choice of which Aspects to kill is one of the cruxes of encounter strategy.
+Since <img class="inline empowered_add"> Empowered skills affect the squad in a much different way compared to normal skills, the choice of which Aspects to kill is one of the cruxes of encounter strategy.
 
 [Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
 

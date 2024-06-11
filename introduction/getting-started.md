@@ -12,9 +12,9 @@ Similarly to other challenging endgame encounters, it can be difficult if not do
 
 There are two communities that regularly host public runs:
 
-- The <img class="inline" src="../images/introduction/ToF_icon.webp" valign="middle"> [Temple of Febe CM](https://discord.gg/GBWkn3Az){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
+- The <img class="inline tof_icon"> [Temple of Febe CM](https://discord.gg/GBWkn3Az){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
 
-- The <img class="inline" src="../images/introduction/VL_icon.webp" valign="middle"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700}  discord server, created originally for Harvest Temple Challenge Mode, has since expanded also to ToF CM.
+- The <img class="inline vl_icon"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700}  discord server, created originally for Harvest Temple Challenge Mode, has since expanded also to ToF CM.
 
 Both of these communities are _incredible_ resources for players looking to get into ToF, and I highly recommend anyone interested in the encounter to join one or both.
 

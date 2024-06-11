@@ -13,7 +13,7 @@ aux_links_new_tab: true
 favicon_ico: "/images/favicon.ico"
 
 callouts:
-  empowered:
+  empowered_description:
     title: Empowered
     color: red
 
