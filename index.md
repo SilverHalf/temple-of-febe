@@ -11,7 +11,7 @@ nav_order: 1
 # Welcome!
 
 This website is currently a work in progress! Lots of content is still waiting to be moved over from the old guide.
-If you want to see the old guilde, you can find it [here](https://templeoffebe.tiiny.site/).
+If you want to see the old guide, you can find it [here](https://templeoffebe.tiiny.site/).
 
 Temple of Febe CM is one of the most difficult endgame boss fights in Guild Wars 2. This encounter stresses both individual player mechanics, and the squad’s overall coordination, but is also extremely rewarding and fun when played correctly.
 

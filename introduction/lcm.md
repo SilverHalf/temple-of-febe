@@ -36,6 +36,6 @@ Wars, [by far](https://gw2efficiency.com/account/unlock-statistics?filter.search
 
 EoS requires different builds and strategies compared to the CM and LCM, which won't be covered
 in this guide. However, the individual attacks are the same as in the CM, so EoS players can still
-benefit from referencing this guide.
+benefit from referencing this guide. If you're interested in finding out more about EoS, you can check out Minas' dedicated guide [here](https://unit-gw2.github.io/eos).
 
 [Previous](first-runs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }

@@ -60,6 +60,7 @@ The AoEs and pools double in radius. Pools additionally ignore <img class="inlin
 ## Extra Information
 
 - There is a second's delay between the initial drop and the first pulse of damage from the resulting pools.
+- **BUG:** as long as the Embodiment of Despair is not visible on the platform, any pools it has dropped will not deal damage and will not inflict conditions, but instead are purely visual.
 
 ## Strategy
 
