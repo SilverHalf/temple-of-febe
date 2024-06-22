@@ -1,0 +1,79 @@
+{
+    "envy":{
+        "text":"Envy",
+        "duration":10,
+        "rect-args":{
+            "fill":"blue"
+        },
+        "text-args":{
+            "fill":"white",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "regret":{
+        "text":"Regret",
+        "duration":5,
+        "rect-args":{
+            "fill":"green"
+        },
+        "text-args":{
+            "fill":"white",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "gluttony":{
+        "text":"Gluttony",
+        "color":"purple",
+        "duration":10,
+        "rect-args":{
+            "fill":"purple"
+        },
+        "text-args":{
+            "fill":"white",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "despair":{
+        "text":"Despair",
+        "duration":5,
+        "rect-args":{
+            "fill":"red"
+        },
+        "text-args":{
+            "fill":"white",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "rage":{
+        "text":"Rage",
+        "color":"orange",
+        "duration":5,
+        "rect-args":{
+            "fill":"orange"
+        },
+        "text-args":{
+            "fill":"black",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "malice":{
+        "text":"Malice",
+        "duration":5,
+        "rect-args":{
+            "fill":"black"
+        },
+        "text-args":{
+            "fill":"white",
+            "style":"font-family:Segoe UI;text-anchor:middle"
+        }
+    },
+    "smash":{
+        "color":"red",
+        "line-args":{
+            "stroke":"red"
+        },
+        "circle-args":{
+            "fill":"red"
+        }
+    }
+}

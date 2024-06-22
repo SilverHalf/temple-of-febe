@@ -1,0 +1,58 @@
+{   
+    "name":"phase3",
+    "duration":230,
+    "label_width":80,
+    "label-args":{
+        "fill":"white",
+        "style":"font-family:Segoe UI;text-anchor:middle"
+    },
+    "timeline-args":{
+        "stroke":"white",
+        "stroke_width":2
+    },
+    "rows":{
+        "Cerus":{
+            "mechanics":[
+                { "name":"regret", "start":4 },
+                { "name":"envy", "start":16 },
+                { "name":"gluttony", "start":30 },
+                { "name":"rage", "start":46 },
+                { "name":"malice", "start":57 },
+                { "name":"despair", "start":62 },
+                { "name":"regret", "start":71 },
+                { "name":"envy", "start":82 },
+                { "name":"gluttony", "start":97 },
+                { "name":"rage", "start":113 },
+                { "name":"malice", "start":123 },
+                { "name":"despair", "start":129 },
+                { "name":"regret", "start":138 },
+                { "name":"envy", "start":149 },
+                { "name":"gluttony", "start":164 },
+                { "name":"rage", "start":180 },
+                { "name":"malice", "start":190 },
+                { "name":"despair", "start":196 },
+                { "name":"regret", "start":205 },
+                { "name":"envy", "start":216 }
+            ]
+        },
+        "Aspects":{
+            "mechanics":[
+                { "name":"rage", "start":10 },
+                { "name":"gluttony", "start":25 },
+                { "name":"malice", "start":40 },
+                { "name":"despair", "start":55 },
+                { "name":"envy", "start":70 },
+                { "name":"regret", "start":85 },
+                { "name":"rage", "start":100 },
+                { "name":"gluttony", "start":115 },
+                { "name":"malice", "start":130 },
+                { "name":"despair", "start":145 },
+                { "name":"envy", "start":160 },
+                { "name":"regret", "start":175 },
+                { "name":"rage", "start":190 },
+                { "name":"gluttony", "start":205 },
+                { "name":"malice", "start":220 }
+            ]
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{   
+    "name":"phase1",
+    "duration":108,
+    "label_width":80,
+    "label-args":{
+        "fill":"white",
+        "style":"font-family:Segoe UI;text-anchor:middle"
+    },
+    "timeline-args":{
+        "stroke":"white",
+        "stroke_width":2
+    },
+    "rows":{
+        "Cerus":{
+            "mechanics":[
+                {"name":"regret","start":11},
+                {"name":"despair","start":21},
+                {"name":"envy","start":31},
+                {"name":"malice","start":46},
+                {"name":"gluttony","start":51},
+                {"name":"rage","start":68},
+                {"name":"regret","start":78},
+                {"name":"despair","start":88},
+                {"name":"envy","start":98}
+            ]
+        },
+        "Aspects":{
+            "mechanics":[
+                {"name":"malice","start":20},
+                {"name":"despair","start":50},
+                {"name":"envy","start":80}
+            ]
+        }
+    }
+}

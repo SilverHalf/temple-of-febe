@@ -1,0 +1,58 @@
+{   
+    "name":"phase4",
+    "duration":70,
+    "label_width":120,
+    "label-args":{
+        "fill":"white",
+        "style":"font-family:Segoe UI;text-anchor:middle"
+    },
+    "timeline-args":{
+        "stroke":"white",
+        "stroke_width":2
+    },
+    "rows":{
+        "Enraged Smash":{
+            "mechanics":[
+                { "name":"smash", "start":0 },
+                { "name":"smash", "start":4 },
+                { "name":"smash", "start":8 },
+                { "name":"smash", "start":12 },
+                { "name":"smash", "start":16 },
+                { "name":"smash", "start":20 },
+                { "name":"smash", "start":24 },
+                { "name":"smash", "start":28 },
+                { "name":"smash", "start":32 },
+                { "name":"smash", "start":36 },
+                { "name":"smash", "start":40 },
+                { "name":"smash", "start":44 },
+                { "name":"smash", "start":48 },
+                { "name":"smash", "start":52 },
+                { "name":"smash", "start":56 },
+                { "name":"smash", "start":60 },
+                { "name":"smash", "start":64 },
+                { "name":"smash", "start":68 }
+            ]
+        },
+        "Aspects":{
+            "mechanics":[
+                { "name":"despair", "start":5 },
+                { "name":"regret", "start":15 },
+                { "name":"rage", "start":20 },
+                { "name":"malice", "start":30 },
+                { "name":"despair", "start":35 },
+                { "name":"regret", "start":45 },
+                { "name":"rage", "start":50 },
+                { "name":"malice", "start":60 },
+                { "name":"despair", "start":65 }
+            ]
+        },
+        "":{
+            "mechanics":[
+                { "name":"envy", "start":10 },
+                { "name":"gluttony", "start":25 },
+                { "name":"envy", "start":40 },
+                { "name":"gluttony", "start":55 }
+            ]
+        }
+    }
+}

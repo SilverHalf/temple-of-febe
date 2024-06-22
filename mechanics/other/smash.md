@@ -6,7 +6,7 @@ parent: Other Attacks
 grand_parent: Mechanics
 ---
 
-[Previous](petrify.html){: .btn } [Next](){: .btn }
+[Previous](petrify.html){: .btn } [Next](../strategies.html){: .btn }
 
 # Enraged Smash
 
@@ -56,6 +56,6 @@ Overall the greatest risk in this phase is given by the overlap between other me
 - Additional incoming damage from [Malicious Intent](../aspects/malice.html)'s tethers, [Crushing Regret](../aspects/regret.html) popping, or <img class="inline insatiable"> [Insatiable](https://wiki.guildwars2.com/wiki/Insatiable).
 - Players off-stack due to other mechanics, such as dropping adds from [Malicious Intent](../aspects/malice.html) or collecting [Insatiable Hunger](../aspects/gluttony.html)'s orbs, not getting enough healing.
 
-[Previous](petrify.html){: .btn } [Next](){: .btn }
+[Previous](petrify.html){: .btn } [Next](../strategies.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

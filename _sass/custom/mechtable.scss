@@ -41,14 +41,21 @@ ul[class=mechtable] {
 	}
   }
 
-  .timeline-display {
+.timeline-display {
 	overflow-x: scroll;
 	overflow-y: hidden;
 	scrollbar-width: thin;
 	.timeline-img {
 		max-width: none;
 	}
-  }
+}
+.seq-img{
+	display: block;
+	max-width: 100%;
+	min-width: none;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 // Image shortcuts
 

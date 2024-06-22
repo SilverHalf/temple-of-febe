@@ -1,0 +1,2 @@
+drawsvg~=2.0
+moviepy

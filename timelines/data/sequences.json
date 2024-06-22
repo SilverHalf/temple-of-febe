@@ -1,0 +1,35 @@
+{
+    "phase1.json":{
+        "full":{"start":0, "end":600},
+        "seq1":{"start":10, "end":42},
+        "seq2":{"start":45, "end":62},
+        "seq3":{"start":66, "end":95}
+    },
+    "phase2.json":{
+        "full":{"start":0, "end":600},
+        "seq1":{"start":3, "end":23},
+        "seq2":{"start":23, "end":35},
+        "seq3":{"start":33, "end":67},
+        "seq4":{"start":70, "end":104},
+        "seq5":{"start":105, "end":123},
+        "seq6":{"start":126, "end":145}
+    },
+    "phase3.json":{
+        "full":{"start":0, "end":600},
+        "seq1":{"start":3, "end":27},
+        "seq2":{"start":24, "end":52},
+        "seq3":{"start":54, "end":93},
+        "seq4":{"start":96, "end":126},
+        "seq5":{"start":122, "end":176},
+        "seq6":{"start":174, "end":202},
+        "seq7":{"start":204, "end":227}
+    },
+    "phase4.json":{
+        "full":{"start":0, "end":600},
+        "seq1":{"start":0, "end":11},
+        "seq2":{"start":9, "end":26},
+        "seq3":{"start":24, "end":41},
+        "seq4":{"start":39, "end":56},
+        "seq5":{"start":54, "end":71}
+    }
+}

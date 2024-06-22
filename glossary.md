@@ -20,7 +20,7 @@ Acronym for **A**rea **o**f **E**ffect. Used to indicate any effect that influce
 [Boons](https://wiki.guildwars2.com/wiki/Boon) are positive buffs that have huge importance in Guild War's combat. Correct boons may triple or quadruple a class's damage output.
 
 ### BoonDPS {#glossary:BoonDPS}
-A role covered by a damage-oriented class that also provides a fundamental boon, either [alacrity](https://wiki.guildwars2.com/wiki/Alacrity) or [quickness](https://wiki.guildwars2.com/wiki/Quickness).
+A role covered by a damage-oriented class that also provides a fundamental boon, either <img class="inline alacrity"> [Alacrity](https://wiki.guildwars2.com/wiki/Alacrity) or <img class="inline quickness"> [Quickness](https://wiki.guildwars2.com/wiki/Quickness).
 
 ### CM {#glossary:CM}
 Acronym for **C**hallenge **M**ode.
@@ -42,6 +42,12 @@ Acronym for **L**egendary **C**hallenge **M**ode. A much more difficult version 
 
 ### LFG {#glossary:LFG}
 Acronym for [**L**ooking **F**or **G**roup](https://wiki.guildwars2.com/wiki/Looking_For_Group). One of GW2's native interfaces that allows players to search for and form organized squads for content.
+
+### PUG
+Acronym for **P**ick **U**p **G**roup. A 10-man squad that formed using the in-game lfg, or another online LFG. PUGs are often composed by people who have never player together before, so they have a generally lower level of organization compared to a static group.
+
+### Static
+A group of people who generally know each other and play together often, commonly doing weekly or daily runs. Statics are generally more organized than PUGs due to the members having more experience playing as a consistent group, but require more commitment thatn a PUG.
 
 ### ToF {#glossary:ToF}
 Acronym for **T**emple **o**f **F**ebe.
