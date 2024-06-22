@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Sequence 1
+title: Malice + Despair, Envy
 nav_order: 1
 parent: First Phase
 grand_parent: UNIT Strat
 ---
 
-[Previous](overview.html){: .btn } [Next](seq2.html){: .btn }
+[Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 
-# [Regret] - [Malice] - [Despair] - [Envy]
+# [Regret] - [Malice] + [Despair] - [Envy]
 
 <div class="video-container">
   <iframe src="../../videos/phase1/seq1.mp4" frameborder="0" allowfullscreen></iframe>
@@ -41,7 +41,7 @@ grand_parent: UNIT Strat
 ## Variants
 - If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and then <img class="inline blink"> [Blink] to open a <img class="inline portal"> [Portal] to the edge of the arena (usually on the nort-eastern to abuse pathfinding) for the player who is targeted by [Malice].
 
-[Previous](overview.html){: .btn } [Next](seq2.html){: .btn }
+[Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 
 [Regret]: ../../mechanics/aspects/regret.html
 [Envy]: ../../mechanics/aspects/envy.html

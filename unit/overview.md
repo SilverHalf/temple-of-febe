@@ -5,7 +5,7 @@ nav_order: 7
 has_children: true
 ---
 
-[Previous](../mechanics/strategies.html){: .btn } [Next](phase1/overview.html){: .btn }
+[Previous](../mechanics/strategies.html){: .btn } [Next](phase1.html){: .btn }
 
 # UNIT Strat
 
@@ -44,7 +44,7 @@ The following pages will contain a full playthrough of UNIT strat, where we will
 
 For convenience's sake, we will be subdividing each phase into _sequences_: sets of mechanics that logically flow together, where it makes sense to talk about the group instead of the individual. For each phase we will provide an analysis of each sequence, with animations and POVs provided for each role.
 
-[Previous](../mechanics/strategies.html){: .btn } [Next](phase1/overview.html){: .btn }
+[Previous](../mechanics/strategies.html){: .btn } [Next](phase1.html){: .btn }
 
 [Condition Virtuoso]: https://snowcrows.com/builds/raids/mesmer/condition-virtuoso
 [Scourge]: https://wiki.guildwars2.com/wiki/Scourge

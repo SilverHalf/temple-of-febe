@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sequence 2
+title: Malice, Despair + Gluttony
 nav_order: 2
 parent: First Phase
 grand_parent: UNIT Strat
@@ -8,7 +8,7 @@ grand_parent: UNIT Strat
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 
-# [Malice] - [Despair] - [Gluttony]
+# [Malice] - [Despair] + [Gluttony]
 
 <div class="video-container">
   <iframe src="../../videos/phase1/seq2.mp4" frameborder="0" allowfullscreen></iframe>

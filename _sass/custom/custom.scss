@@ -51,9 +51,11 @@ $link-color: #ff9090;
 	margin-left: auto;
 	margin-right: auto;
 	min-width: 400px;
+	min-height: 400px;
 }
 
 .video-container iframe {
+	background-color: rgb(33, 35, 37);
     position: absolute;
     top:0;
     left: 0;
