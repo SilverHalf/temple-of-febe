@@ -44,14 +44,12 @@ $link-color: #ff9090;
 .video-container {
 	background-color: transparent;
     position: relative;
-    padding-bottom: 81%;
+    padding-bottom: 90%;
     height: 0;
     overflow: hidden;
-	width: 81%;
+	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	min-width: 400px;
-	min-height: 400px;
 }
 
 .video-container iframe {

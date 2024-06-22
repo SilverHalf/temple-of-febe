@@ -10,7 +10,7 @@ parent: UNIT Strat
 # First Split Phase
 
 <div class="video-container">
-  <iframe src="../../videos/split1/full.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe src="../videos/split1/full.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Cerus will separate into his Aspects, which will start doing attacks. The first attack will almost always be [Gluttony], while the second one and on are random.
