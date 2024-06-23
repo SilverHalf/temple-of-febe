@@ -18,7 +18,7 @@ Two adds, [Envy] and [Rage], will be <img class="inline empowered_add"> **Empowe
 ### Full Timeline
 <div class="smalltext">(Use shift+scroll or swipe if on mobile)</div>
 <div class="timeline-display">
-  <img class="timeline-img" src="../../timelines/images/phase2/full.svg">
+  <img class="timeline-img" src="../timelines/images/phase2/full.svg">
 </div>
 
 

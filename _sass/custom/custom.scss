@@ -41,24 +41,10 @@ $link-color: #ff9090;
 	color:#898989;
 }
 
-.video-container {
-	background-color: transparent;
-    position: relative;
-    padding-bottom: 90%;
-    height: 0;
-    overflow: hidden;
-	width: 90%;
+.center {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-.video-container iframe {
-	background-color: rgb(33, 35, 37);
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
 }
 
 .youtube-video {

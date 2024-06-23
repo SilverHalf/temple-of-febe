@@ -10,9 +10,9 @@ grand_parent: UNIT Strat
 
 # [Malice] - [Despair] + [Gluttony]
 
-<div class="video-container">
-  <iframe src="../../videos/phase1/seq2.mp4" frameborder="0" allowfullscreen></iframe>
-</div>
+<video width="90%" controls muted>
+  <source src="../../videos/phase1/seq2.mp4" type="video/mp4">
+</video>
 
 <img class="seq-img" src="../../timelines/images/phase1/seq2.svg">
 
