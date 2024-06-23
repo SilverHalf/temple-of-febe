@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="200" height="75" viewBox="0 0 200 75">
+     width="420" height="75" viewBox="0 0 420 75">
 <defs>
 </defs>
 <text x="40.0" y="43.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Cerus</text>
-<rect x="90" y="25" width="100" height="25" fill="blue" />
-<text x="140.0" y="41.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Envy</text>
+<rect x="140" y="25" width="50" height="25" fill="black" />
+<text x="165.0" y="41.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
+<rect x="200" y="25" width="100" height="25" fill="purple" />
+<text x="250.0" y="41.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
+<rect x="360" y="25" width="50" height="25" fill="orange" />
+<text x="385.0" y="41.5" font-size="12" fill="black" style="font-family:Segoe UI;text-anchor:middle">Rage</text>
 <text x="40.0" y="68.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Aspects</text>
-<path d="M0,25 L200,25" stroke="white" stroke-width="2" />
+<rect x="90" y="50" width="100" height="25" fill="purple" />
+<text x="140.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
+<rect x="290" y="50" width="50" height="25" fill="black" />
+<text x="315.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
+<path d="M0,25 L420,25" stroke="white" stroke-width="2" />
 <path d="M80,0 L80,75" stroke="white" stroke-width="2" />
 <path d="M90,22.5 L90,white" stroke="white" stroke-width="0.3" />
 <path d="M100,20.0 L100,25" stroke="white" stroke-width="0.5" />
@@ -16,9 +24,33 @@
 <path d="M130,22.5 L130,white" stroke="white" stroke-width="0.3" />
 <path d="M140,22.5 L140,white" stroke="white" stroke-width="0.3" />
 <path d="M150,15.0 L150,25" stroke="white" stroke-width="1.5" />
-<text x="150.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">30</text>
+<text x="150.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">40</text>
 <path d="M160,22.5 L160,white" stroke="white" stroke-width="0.3" />
 <path d="M170,22.5 L170,white" stroke="white" stroke-width="0.3" />
 <path d="M180,22.5 L180,white" stroke="white" stroke-width="0.3" />
 <path d="M190,22.5 L190,white" stroke="white" stroke-width="0.3" />
+<path d="M200,20.0 L200,25" stroke="white" stroke-width="0.5" />
+<path d="M210,22.5 L210,white" stroke="white" stroke-width="0.3" />
+<path d="M220,22.5 L220,white" stroke="white" stroke-width="0.3" />
+<path d="M230,22.5 L230,white" stroke="white" stroke-width="0.3" />
+<path d="M240,22.5 L240,white" stroke="white" stroke-width="0.3" />
+<path d="M250,15.0 L250,25" stroke="white" stroke-width="1.5" />
+<text x="250.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">50</text>
+<path d="M260,22.5 L260,white" stroke="white" stroke-width="0.3" />
+<path d="M270,22.5 L270,white" stroke="white" stroke-width="0.3" />
+<path d="M280,22.5 L280,white" stroke="white" stroke-width="0.3" />
+<path d="M290,22.5 L290,white" stroke="white" stroke-width="0.3" />
+<path d="M300,20.0 L300,25" stroke="white" stroke-width="0.5" />
+<path d="M310,22.5 L310,white" stroke="white" stroke-width="0.3" />
+<path d="M320,22.5 L320,white" stroke="white" stroke-width="0.3" />
+<path d="M330,22.5 L330,white" stroke="white" stroke-width="0.3" />
+<path d="M340,22.5 L340,white" stroke="white" stroke-width="0.3" />
+<path d="M350,15.0 L350,25" stroke="white" stroke-width="1.5" />
+<text x="350.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">60</text>
+<path d="M360,22.5 L360,white" stroke="white" stroke-width="0.3" />
+<path d="M370,22.5 L370,white" stroke="white" stroke-width="0.3" />
+<path d="M380,22.5 L380,white" stroke="white" stroke-width="0.3" />
+<path d="M390,22.5 L390,white" stroke="white" stroke-width="0.3" />
+<path d="M400,20.0 L400,25" stroke="white" stroke-width="0.5" />
+<path d="M410,22.5 L410,white" stroke="white" stroke-width="0.3" />
 </svg>
