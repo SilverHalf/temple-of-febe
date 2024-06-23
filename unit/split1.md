@@ -10,7 +10,7 @@ parent: UNIT Strat
 # First Split Phase
 
 <video class="center" width="90%" controls muted>
-  <source src="../../videos/split1/full.mp4" type="video/mp4">
+  <source src="../videos/split1/full.mp4" type="video/mp4">
 </video>
 
 Cerus will separate into his Aspects, which will start doing attacks. The first attack will almost always be [Gluttony], while the second one and on are random.
@@ -20,6 +20,19 @@ Cerus will separate into his Aspects, which will start doing attacks. The first 
 - <img class="inline feedback"> [Feedback] or  <img class="inline cpc"> [Corrosive Poison Cloud] can be used on Gluttony, stopping Cerus from respawning with a small amount of barrier.
 - Whoever opened instance should stand _west_ of the squad to bait <img class="inline empowered_add"> [Envy], in case it performs its attack. The rest of the squad should be ready to jump the fast wall.
 - The <img class="inline scourge"> [Scourge] can <img class="inline sand-swell"> [Sand Swell] from the center of the arena to Regret while returning from collecting. Everyone can then take it back once the add is killed.
+
+<details>
+  <summary><img class="inline chrono"> Chronomancer POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=99&end=124&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+<details>
+  <summary><img class="inline herald"> Herald POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/1NhFc7-NlkE?si=DkrrZ457SCPF-Rf5&start=97&end=124&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+<details>
+  <summary><img class="inline scourge"> Scourge POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=103&end=127&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 
 [Previous](phase1/seq3.html){: .btn } [Next](phase2.html){: .btn }
 

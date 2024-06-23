@@ -6,7 +6,7 @@ parent: UNIT Strat
 has_children: true
 ---
 
-[Previous](../overview.html){: .btn } [Next](seq1.html){: .btn }
+[Previous](overview.html){: .btn } [Next](phase1/seq1.html){: .btn }
 
 # First Phase - 100% to 80%
 
@@ -19,11 +19,11 @@ Mechanics are relatively simple and unpunishing. Use this time to do as much dam
 ### Full Timeline
 <div class="smalltext">(Use shift+scroll or swipe if on mobile)</div>
 <div class="timeline-display">
-  <img class="timeline-img" src="../../timelines/images/phase1/full.svg">
+  <img class="timeline-img" src="../timelines/images/phase1/full.svg">
 </div>
 
 
-[Previous](../overview.html){: .btn } [Next](seq1.html){: .btn }
+[Previous](overview.html){: .btn } [Next](phase1/seq1.html){: .btn }
 
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
 [Insatiable]: https://wiki.guildwars2.com/wiki/Insatiable

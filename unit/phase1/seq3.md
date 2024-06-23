@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rage, Regret + Envy
+title: Rage, Regret & Envy
 nav_order: 3
 parent: First Phase
 grand_parent: UNIT Strat
@@ -8,9 +8,10 @@ grand_parent: UNIT Strat
 
 [Previous](seq2.html){: .btn } [Next](../split1.html){: .btn }
 
-# [Rage] - [Regret] + [Envy] - [Despair]
+# [Rage] > [Regret] & [Envy] > [Despair] 
+{: .center}
 
-<video width="90%" controls muted>
+<video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq3.mp4" type="video/mp4">
 </video>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Malice + Despair, Envy
+title: First Malice & Despair
 nav_order: 1
 parent: First Phase
 grand_parent: UNIT Strat
@@ -8,9 +8,10 @@ grand_parent: UNIT Strat
 
 [Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 
-# [Regret] - [Malice] + [Despair] - [Envy]
+# [Regret] > [Malice] & [Despair] > [Envy]
+{: .center}
 
-<video width="90%" controls muted>
+<video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq1.mp4" type="video/mp4">
 </video>
 

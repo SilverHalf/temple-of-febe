@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Malice, Despair + Gluttony
+title: Second Malice & Despair
 nav_order: 2
 parent: First Phase
 grand_parent: UNIT Strat
@@ -8,9 +8,10 @@ grand_parent: UNIT Strat
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 
-# [Malice] - [Despair] + [Gluttony]
+# [Malice] > [Despair] & [Gluttony]
+{: .center}
 
-<video width="90%" controls muted>
+<video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq2.mp4" type="video/mp4">
 </video>
 
