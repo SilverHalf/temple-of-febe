@@ -29,9 +29,13 @@ grand_parent: UNIT Strat
 </details>
 
 ## Variants
-There are various places where the <img class="inline portal"> [Portal Entre] can be opened:
-- "Classically", the portal is placed on the eastern edge. This way the [Malice] add pathfinds straight towards the boss, making it easier to cleave.
-- More recently, the portal has been placed more to the north/south, to abuse pathfinding. This is because often DPS is enough to phase the boss before the add becomes relevant, and there is always <img class="inline scourge"> [Scourge]'s  <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) for emergency <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile).
+Recently, many squads place this portal to the northwest, to abuse pathfinding. This is because often DPS is enough to phase the boss before the add becomes relevant, and there is always <img class="inline scourge"> [Scourge]'s  <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) for <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) if necessary.
+<details>
+  <summary>Example</summary>
+  <video class="center" width="90%" controls muted>
+    <source src="../../videos/phase1/seq2_alt.mp4" type="video/mp4">
+  </video>
+</details> 
 
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }

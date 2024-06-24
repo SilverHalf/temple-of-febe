@@ -40,7 +40,13 @@ grand_parent: UNIT Strat
 - Healers should be ready to condition cleanse and re-apply boons in case someone gets hit by the wall.
 
 ## Variants
-- If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and then <img class="inline blink"> [Blink] to open a <img class="inline portal"> [Portal] to the edge of the arena (usually on the nort-eastern to abuse pathfinding) for the player who is targeted by [Malice].
+If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and then <img class="inline blink"> [Blink] to open a <img class="inline portal"> [Portal] to the edge of the arena (usually on the nort-eastern to abuse pathfinding) for the player who is targeted by [Malice].
+<details>
+  <summary>Example</summary>
+  <video class="center" width="90%" controls muted>
+    <source src="../../videos/phase1/seq1_alt.mp4" type="video/mp4">
+  </video>
+</details> 
 
 [Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 

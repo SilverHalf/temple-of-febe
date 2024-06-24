@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rage & Despair > Envy
+title: Rage & Despair, Envy
 nav_order: 1
 parent: Second Phase
 grand_parent: UNIT Strat
@@ -30,6 +30,9 @@ grand_parent: UNIT Strat
   <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=128&end=163&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
+## Extra Information
+Most squad compositions will have limited access to <img class="inline swiftness"> [Swiftness] among the support players. It is important that <img class="inline virtuoso"> [Virtuosos] provide it via <img class="inline curtain"> [Temporal Curtain] (focus 4) during <img class="inline empowered_add"> [Envy].
+
 [Previous](../phase2.html){: .btn } [Next](seq2.html){: .btn }
 
 [Regret]: ../../mechanics/aspects/regret.html
@@ -44,3 +47,6 @@ grand_parent: UNIT Strat
 [Portal]: https://wiki.guildwars2.com/wiki/Portal_Entre
 [Blink]: https://wiki.guildwars2.com/wiki/Blink
 [Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
+[Virtuosos]: https://wiki.guildwars2.com/wiki/Virtuoso
+[Temporal Curtain]: https://wiki.guildwars2.com/wiki/Temporal_Curtain
+[Swiftness]: https://wiki.guildwars2.com/wiki/Swiftness

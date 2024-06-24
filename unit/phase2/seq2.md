@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Double Collection > Rage
-nav_order: 1
+title: Double Collection, Rage
+nav_order: 2
 parent: Second Phase
 grand_parent: UNIT Strat
 ---
@@ -40,11 +40,18 @@ grand_parent: UNIT Strat
 
 ## Extra Information
 - Remember that there is an invisible add (Regret) on <img class="inline triangle"> Triangle! The <img class="inline portal"> [Portal] should be placed slightly south of the horizontal line, or the add will block some projectiles, making it more difficult to cleave the Malices.
-- <img class="inline sand-swell"> [Sand Swell] should generally be opened early to let the player targeted by [Malice] more easily find the entrance. Due to thism the portal will likely despawn before the Rage wind-up animation is finished - do not over-greed for damage! Some <img class="inline scourge"> [Scourge] players will call out the remaining time in voice chat, but generally its best to take the portal the moment Rage appears.
+- <img class="inline sand-swell"> [Sand Swell] should generally be opened early to let the player targeted by [Malice] more easily find the entrance,and it will likely despawn before the Rage wind-up animation is finished. Some <img class="inline scourge"> [Scourge] players will call out the remaining time in voice chat, but generally its best to take the portal the moment Rage appears.
 - The player targeted by the second [Malice] should try to drop their add on top of the previous one, to make cleaving them together easier.
 
 ## Variants
-It is possible for a <img class="inline chrono"> [Chronomancer] to cover both portals for this sequence, by using <img class="inline cs"> [Continuum Split] on the first one. The chrono player should communicate this to their Scourge beforehand.
+It is possible for a <img class="inline chrono"> [Chronomancer] to cover both portals for this sequence, by using <img class="inline cs"> [Continuum Split] on the first one. Since <img class="inline portal"> [Portal] lasts longer than <img class="inline sand-swell"> [Sand Swell], the squad can greed DPS in melee range until Rage is almost complete. Furthermore, the player targeted by [Malice] has an easier time of finding the portal, since it can be opened directly on the boss and is generally more visible.
+
+<details>
+  <summary>Example</summary>
+  <video class="center" width="90%" controls muted>
+    <source src="../../videos/phase2/seq2_alt.mp4" type="video/mp4">
+  </video>
+</details> 
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 

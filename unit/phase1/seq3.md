@@ -31,8 +31,24 @@ grand_parent: UNIT Strat
 
 ## Variants
 Based on where the Malice was placed in the previous sequence, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
-- If the add was placed directly east, then the squad can stay at range behind the add and cleave it down (As shown in the POV).
-- Alternatively, the squad can "ignore" the add and return to the boss after Rage, overall increasing DPS. The <img class="inline scourge"> [Scourge] can then <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add if necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (as shown in the replay).
+
+If the add was placed directly east, then the squad can stay at range behind the add and cleave it down (As shown in the POV).
+<details>
+  <summary>Example</summary>
+  <video class="center" width="90%" controls muted>
+    <source src="../../videos/phase1/seq3_alt2.mp4" type="video/mp4">
+  </video>
+</details>
+
+Alternatively, the squad can "ignore" the add and return to the boss after Rage, overall increasing melee uptime and therefore DPS.
+<details>
+  <summary>Example</summary>
+  <video class="center" width="90%" controls muted>
+    <source src="../../videos/phase1/seq3_alt1.mp4" type="video/mp4">
+  </video>
+</details>
+The <img class="inline scourge"> [Scourge] can then <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add if necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (dagger 3).
+
 
 
 [Previous](seq2.html){: .btn } [Next](../split1.html){: .btn }
