@@ -7,7 +7,8 @@ parent: Mechanics
 
 [Previous](mechanics.html){: .btn } [Next](empowered.html){: .btn }
 
-# Cerus, the Glaive of House Nephus 
+# Cerus, the Glaive of House Nephus
+{: .center} 
 
 <img src="../images/mechanics/Cerus.webp" />
 

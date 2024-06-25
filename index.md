@@ -9,6 +9,7 @@ nav_order: 1
 </div>
 
 # Welcome!
+{: .center}
 
 This website is currently a work in progress! Lots of content is still waiting to be moved over from the old guide.
 If you want to see the old guide, you can find it [here](https://templeoffebe.tiiny.site/).
