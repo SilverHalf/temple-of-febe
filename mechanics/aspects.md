@@ -36,7 +36,7 @@ Since the boss and his aspects always execute their attacks at the same instants
 
 ## Split Phases and Empowered Aspects
 
-At the beginning of each split phase at 80% and 50%,, Cerus will gain a [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar). Once this is completed, he will disappear and all his Aspects will become visibe and vulnerable in their usual positions. Cerus will not reappear until the squad kills one of them.
+At the beginning of each split phase at 80% and 50%, Cerus will gain a <img class="inline defiance"> [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar). Once this is completed, he will disappear and all his Aspects will become visibe and vulnerable in their usual positions. Cerus will not reappear until the squad kills one of them.
 
 Three Aspects will gain the <img class="inline empowered_add"> **Empowered** effect (which is different from the <img class="inline empowered"> [Empowered] effect). These can be quickly identified due to being noticeably larger than normal.
 

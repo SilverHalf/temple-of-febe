@@ -15,7 +15,10 @@ grand_parent: Mechanics
 Several smaller orbs and three large orbs will spawn randomly around the edge of the platform, and start moving towards Cerus. Each large orb must be body-blocked by three players to be collected. Blocking any large orb will give a stack of <img class="inline insatiable"> [Insatiable], which deals 350 damage per second for 60 seconds. If any orbs reach Cerus, they will give him <img class="inline barrier"> [Barrier]. Large orbs will also apply up to 3 stacks of <img class="inline empowered"> [Empowered], depending on how many people collected.
 
 {: .empowered_description }
-Five orbs spawn, instead of three. <img class="inline insatiable"> [Insatiable] stacks are permanent.
+Five orbs spawn, instead of three. <img class="inline insatiable"> [Insatiable] stacks last for 3 minutes.
+
+{: .legendary }
+When <img class="inline empowered_add"> **Empowered**, <img class="inline insatiable"> [Insatiable] stacks are permanent.
 
 <div>
   <ul class="mechtable">

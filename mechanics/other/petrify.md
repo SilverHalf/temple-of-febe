@@ -57,7 +57,7 @@ Quickly breaking Cerus's <img class="inline defiance"> [Defiance Bar] is extreme
 
 ![Petrify visualization](../../images/mechanics/petrify.webp)
 
-If the breakbar is completed within 1.4 seconds of its appearance, it will have no effects whatsoever on the beginning of the next phase. Any more, and the squad will be debuffed for five seconds. This is not terrible in the split phases, but in the final 10% you will need all the damage you can get.
+If the breakbar is completed within 1.4 seconds of its appearance, it will have no effects whatsoever on the beginning of the next phase. Any more, and the squad will be debuffed for five seconds. This is not terrible in the split phases, but for Legendary Mode you will need all the damage you can get in the final 10%.
 
 Fortunately, the <img class="inline defiance"> [Defiance Bar] is not very difficult to break. Healers should be bringing heavy CC skills such as <img class="inline golem"> [Summon Flesh Golem] and <img class="inline moa"> [Signet of Humility], and everyone else should just use basic CC skills.
 

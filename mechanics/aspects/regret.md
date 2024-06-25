@@ -12,12 +12,15 @@ grand_parent: Mechanics
 
 <img class="attack_gif" src="../../images/mechanics/regret.gif">
 
-Spawns a green circle on a random player that explodes after 5 seconds. If there are less than 5 players in its radius, _the entire squad will be instantly defeated_.
+Spawns a green circle on a random player that explodes after 5 seconds. If there are less than 5 players in its radius, it will <img class="inline down"> [Downstate] every player and give them a stack of <img class="inline exposed"> [Exposed], and Cerus will gain 5 stacks of <img class="inline empowered"> [Empowered].
 
-The green deals a small amount of unavoidable squad-wide damage, and applies a stack of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] for 3 seconds.
+The green also deals a small amount of unavoidable squad-wide damage, and applies a stack of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] for 3 seconds. 
 
 {: .empowered_description }
-Three greens will spawn, targeting random different players. Each green is functionally identical to the unempowered version, except it requires at least three people instead of five. Due to <img class="inline extreme_vulnerability"> [Extreme Vulnerability], people who are in the overlap between two greens when they pop will be instantly defeated, colloquially known as getting "Venn Diagrammed".
+Three greens will spawn, targeting random different players. Each green is functionally identical to the unempowered version, except it requires at least three people instead of five. Players who recieve two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] due to being in two greens at the same time will be put into <img class="inline down"> [Downstate]. People who take three stacks due to being in three greens will be instantly defeated.
+
+{: .legendary}
+Failing a green will instantly defeat the entire squad. Players who recieve two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] will be instantly defeated.
 
 <div>
   <ul class="mechtable">
@@ -33,7 +36,7 @@ Three greens will spawn, targeting random different players. Each green is funct
     </li>
     <li class="table-row">
       <img class="table-img notok">
-      <img class="table-img notok">
+      <img class="table-img kinda1">
       <img class="table-img notok">
       <img class="table-img notok">
       <img class="table-img notok">
@@ -43,7 +46,7 @@ Three greens will spawn, targeting random different players. Each green is funct
     </li>
     <li class="emp-row">
       <img class="table-img notok">
-      <img class="table-img notok">
+      <img class="table-img kinda1">
       <img class="table-img notok">
       <img class="table-img notok">
       <img class="table-img notok">
@@ -54,9 +57,10 @@ Three greens will spawn, targeting random different players. Each green is funct
   </ul>
 </div>
 
+1. _Only in normal CM_, effects that prevent lethal damage, such as <img class="inline aed"> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class="inline glint_h"> [Infuse Light](https://wiki.guildwars2.com/wiki/Infuse_Light) and <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22) will allow a player to not get downed by a failed green.
+
 ## Extra Information
 
-- On failure, will technically apply 5 stacks of <img class="inline empowered"> [Empowered] to Cerus, and a stack of <img class="inline exposed"> [Exposed] to every player, like in normal mode.
 - Has a maximum range. If you and the green are on opposite sides of the arena, you won’t die if it fails.
 - **BUG:** the green circle has a visual radius of 240, but its actual radius is 360.
 
@@ -81,3 +85,4 @@ Correct and reliable execution of Empowered Regret is one of the major hurdles f
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
 [Exposed]: https://wiki.guildwars2.com/wiki/Exposed
 [Extreme Vulnerability]: https://wiki.guildwars2.com/wiki/Extreme_Vulnerability
+[Downstate]: https://wiki.guildwars2.com/wiki/Downed

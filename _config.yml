@@ -17,6 +17,10 @@ callouts:
     title: Empowered
     color: red
 
+  legendary:
+    title: Legendary Mode
+    color: purple
+
   warning:
     title: Warning
     color: red

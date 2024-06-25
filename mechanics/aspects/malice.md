@@ -18,8 +18,13 @@ The add will start walking toward Cerus. If it reaches him, it will be sacrifice
 
 Adds are immune to hard crowd control, and spawn with <img class="inline resistance"> [Resistance] that cannot be corrupted or removed, and lasts  for 30 seconds.
 
+Adds take more power damage due to having reduced toughness.
+
 {: .empowered_description }
 Three people will be targeted by tethers, resulting in three adds spawning.
+
+{: .legendary}
+Adds have increased health and toughness.
 
 <div>
   <ul class="mechtable">
@@ -62,7 +67,8 @@ Three people will be targeted by tethers, resulting in three adds spawning.
 ## Extra Information
 
 - The behaviour with <img class="inline resistance"> [Resistance] running out before the adds reach the boss has been confirmed as intended.
-- Adds have 1 million HP. This makes them easy to deal with for power-based comps, and more difficult for condition-based comps.
+- Adds have 2252 toughness in normal CM, giving power damage a +15.3% damage boost. In legendary CM, they instead have the normal 2597 toughness, making condition damage as effective as power.
+- Adds have 630'960  HP in normal CM. In legendary CM, they instead have 1 million HP.
 - If placed in certain areas on the east side of the platform, adds will pathfind to a point just north or south of the boss, instead of directly towards it, as shown in the figure.
 <img class="arena_image" width="70%" src="../../images/mechanics/pathing.webp" />
 - Adds are affected by all forms of soft crowd control once <img class="inline resistance"> [Resistance] runs out.
