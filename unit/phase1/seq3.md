@@ -8,19 +8,25 @@ grand_parent: UNIT Strat
 
 [Previous](seq2.html){: .btn } [Next](../split1.html){: .btn }
 
-# [Rage] > [Regret] & [Envy] > [Despair] 
+# [Rage], [Regret] & [Envy], [Despair] 
 {: .center}
 
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq3.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase1/seq3.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+Final sequence of the phase, with some alternatives on positioning and dealing with the [Malice] adds.
+
+## Sequence
 1. Once [Rage] appears, the <img class="inline scourge"> [Scourge] <img class="inline sand-swell"> [Sand Swell]s the squad out of the AoE.
-2. The squad stacks for [Regret] on the eastern side of the boss, so as to avoid [Envy].
+2. The squad takes the portal back and stacks for [Regret] on the eastern side of the boss, so as to avoid [Envy].
 3. Once [Regret] pops, walk through the boss to the other side and drop [Despair].
 4. If squad DPS is low or you're playing LCM, you may have to play a second [Envy]. Just sidestep it to the left.
 
@@ -32,7 +38,7 @@ grand_parent: UNIT Strat
 ## Variants
 Based on where the Malice was placed in the previous sequence, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
 
-If the add was placed directly east, then the squad can stay at range behind the add and cleave it down (As shown in the POV).
+If the add was placed directly east, then the squad can stay at range behind the add and cleave it down while targeting the boss (As shown in the POV).
 <details>
   <summary>Example</summary>
   <video class="center" width="90%" controls muted>

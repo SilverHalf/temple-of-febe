@@ -6,7 +6,7 @@ parent: Second Phase
 grand_parent: UNIT Strat
 ---
 
-[Previous](seq4.html){: .btn } [Next](seq5.html){: .btn }
+[Previous](seq4.html){: .btn } [Next](../split2.html){: .btn }
 
 # [Rage]<sup>2</sup>, [Regret]
 {: .center}
@@ -15,12 +15,17 @@ grand_parent: UNIT Strat
   <source src="../../videos/phase2/seq5.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase2/seq5.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+The conclusion of the second phase. Here the most difficult part is choosing when to phase: misjudging the squad's damage may result in everyone getting hit by <img class="inline empowered_add"> [Rage].
+## Sequence
 1. The <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] south to the add as soon as the <img class="inline empowered_add"> [Rage] indicator appears.
-2. Everyone stays stacked up behind the add and cleaves it down.
+2. Everyone stays stacked up behind the add and cleaves it down while targeting the boss.
 3. [Regret]'s green will spawn while everyone is still stacked.
 4. You should be phasing shortly after the green. Otherwise, you will have to play a final [Despair]
 
@@ -32,7 +37,7 @@ grand_parent: UNIT Strat
 ## Extra Information
 With good damage, it is possible to phase during <img class="inline empowered_add"> [Rage], either the Cerus's or the Aspect's. In this case the boss' Rage will be effectively cancelled as soon as he gains his <img class="inline defiance bar"> [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar), becoming purely visual. However, _the Aspect will continue casting until the defiance bar is broken_.
 
-[Previous](seq4.html){: .btn } [Next](seq5.html){: .btn }
+[Previous](seq4.html){: .btn } [Next](../split2.html){: .btn }
 
 [Rage]: ../../mechanics/aspects/rage.html
 [Envy]: ../../mechanics/aspects/envy.html

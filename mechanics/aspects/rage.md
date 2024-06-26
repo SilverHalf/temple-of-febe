@@ -9,8 +9,13 @@ grand_parent: Mechanics
 [Previous](regret.html){: .btn } [Next](../other-attacks.html){: .btn }
 
 # Cry of Rage
+{: .center}
+
+<img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/rage.gif">
+
+<img class="divider">
 
 Cerus charges up an attack that affects a large AoE centered on himself, dealing massive, unavoidable damage and inflicting <img class="inline exposed"> [Exposed] to any players it hits.
 

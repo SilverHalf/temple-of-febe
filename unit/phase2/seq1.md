@@ -8,17 +8,23 @@ grand_parent: UNIT Strat
 
 [Previous](../phase2.html){: .btn } [Next](seq2.html){: .btn }
 
-# [Regret] > [Rage], [Despair] > [Envy]
+# [Regret], [Rage] & [Despair], [Envy]
 {: .center}
 
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq1.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase2/seq1.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+An interesting combination of <img class="inline empowered_add"> [Rage] and [Despair], and the squad's first encounter with empowered <img class="inline empowered_add"> [Envy]. A good opportunity for the <img class="inline chrono"> [Chronomancer] to practice their <img class="inline cs"> [Continuum Split] and <img class="inline portal"> [Portal] combination.
+
+## Sequence
 1. Run to the south of the boss and stack in [Regret].
 2. After the green pops, start walking out south-westwards to avoid <img class="inline empowered_add"> [Rage]. The <img class="inline scourge"> [Scourge] or <img class="inline chrono"> [Chronomancer] can provide a portal for this, but it is not strictly necessary.
 3. Everyone spreads for [Despair]. Make sure to leave enough space that you can dodge forward without getting hit by Rage.

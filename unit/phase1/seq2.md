@@ -8,20 +8,26 @@ grand_parent: UNIT Strat
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 
-# [Malice] > [Despair] & [Gluttony]
+# [Malice], [Despair] & [Gluttony]
 {: .center}
 
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq2.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase1/seq2.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+This first [Gluttony] is most often where the squad starts getting <img class="inline empowered"> [Empowered](https://wiki.guildwars2.com/wiki/Empowered_(Cerus)). Focus on collecting properly and not failing portals.
+
+## Sequence
 1. The <img class="inline chrono"> [Chronomancer] prepairs their <img class="inline portal"> [Portal Entre] on squad, then <img class="inline blink"> [Blink]s to the edge of the arena and opens it after [Envy] disappears.
 2. Whoever gets targeted by [Malice] takes the portal and leaves their add on the edge of the arena.
-3. Everyone else spreads horizontally for [Despair], then rolls foreward and focuses on collecting [Gluttony].
+3. Everyone else spreads horizontally for [Despair], then rolls forward and focuses on collecting [Gluttony]. Use <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) or <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 
 <details>
   <summary><img class="inline chrono"> Chronomancer POV</summary>

@@ -9,8 +9,13 @@ grand_parent: Mechanics
 [Previous](despair.html){: .btn } [Next](rage.html){: .btn }
 
 # Crushing Regret
+{: .center}
+
+<img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/regret.gif">
+
+<img class="divider">
 
 Spawns a green circle on a random player that explodes after 5 seconds. If there are less than 5 players in its radius, it will <img class="inline down"> [Downstate] every player and give them a stack of <img class="inline exposed"> [Exposed], and Cerus will gain 5 stacks of <img class="inline empowered"> [Empowered].
 

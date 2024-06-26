@@ -9,8 +9,13 @@ grand_parent: Mechanics
 [Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }
 
 # Envious Gaze
+{: .center}
+
+<img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/envy.gif">
+
+<img class="divider">
 
 Spawns a wall centered on the boss or the Envy add, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, dealing damage and corrupting all boons on allies it hits, pets and minions included.
 

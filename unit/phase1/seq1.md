@@ -8,27 +8,32 @@ grand_parent: UNIT Strat
 
 [Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 
-# [Regret] > [Malice] & [Despair] > [Envy]
+# [Regret], [Malice] & [Despair], [Envy]
 {: .center}
 
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq1.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase1/seq1.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+A simple and straightforward opening sequence. [Malice] needs to be dealth with, and [Despair] needs to be dodged.
+
+## Sequence
 1. Glide into the arena and stack in the green in front of the boss.
 2. Shortly after the green pops, the <img class="inline scourge"> [Scourge] places their <img class="inline sand-swell"> [Sand Swell] a bit south of the boss, going southwards. More distance means more time to DPS the add.
 3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or stack up and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so it will drop in the middle of the squad. Dodge _foreward_ once [Despair] drops.
-4. Stack up behind the add. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
+4. Stack up behind the add and cleave it down while targeting the boss. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
 
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=11&end=40&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
-
 <details>
   <summary><img class="inline virtuoso"> Virtuoso POV</summary>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/71JEURWXLko?si=YroyfB-PRhH9Z4Tv&start=16&end=56&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

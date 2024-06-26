@@ -15,10 +15,16 @@ grand_parent: UNIT Strat
   <source src="../../videos/phase2/seq3.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase2/seq3.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+The first small difficulty spike in the fight. Concentrate on dodging [Despair] correctly, both as practice for the later phases and to leave more space for managing the double <img class="inline empowered_add"> [Envy] that follows.
+
+## Sequence
 1. [Regret] appears while the squad is stacked behind the adds, which should die before it's complete.
 2. A soon as the green pops, spread out with the first [Despair] in a crescent far from the boss.
 3. Dodge forward once Despair drops, and position on the inside of the pools for the second set.
@@ -34,7 +40,7 @@ grand_parent: UNIT Strat
 
 ## Extra Information
 - <img class="inline virtuoso"> [Virtuosos] should provide <img class="inline swiftness"> [Swiftness] with <img class="inline curtain"> [Temporal Curtain] for <img class="inline empowered_add"> [Envy].
-- Support players should be ready to cleanse conditions and re-apply boons after the fast wall, in case anyone failed the jump. Save your skills for this if necessary.
+- After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump.
 
 [Previous](seq2.html){: .btn } [Next](seq4.html){: .btn }
 

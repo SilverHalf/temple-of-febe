@@ -15,13 +15,19 @@ grand_parent: UNIT Strat
   <source src="../../videos/phase2/seq4.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase2/seq4.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+A bit of a breather after the previous sequence. Howerver, the combination of spreading out to collect [Gluttony] at the same time as [Regret]'s green can be very punishing if the squad doesn't handle it correctly.
+
+## Sequence
 1. The <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal] right as <img class="inline empowered_add"> [Envy] is about to end, then they <img class="inline blink"> [Blink] to the southern edge and open their portal.
 2. Whoever is targeted by [Malice] takes the portal and drops their add on the edge.
-3. [Gluttony] will happen at the same time as [Regret]. Each subgroup should follow their marked person to collect, this way there will always be at least five people in the green even when the squad is spread.
+3. [Gluttony] will happen at the same time as [Regret]. Each subgroup should follow their marked person to collect, this way there will always be at least five people in the green even when the squad is spread. Use <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) or <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 
 <details>
   <summary><img class="inline chrono"> Chronomancer POV</summary>

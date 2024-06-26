@@ -9,8 +9,13 @@ grand_parent: Mechanics
 [Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
 # Malicious Intent
+{: .center}
+
+<img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/malice.gif">
+
+<img class="divider">
 
 Targets a random player with a tether. After 5 seconds, the tether will complete, applying a DoT and spawning an add on the player's location.
 

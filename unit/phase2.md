@@ -13,7 +13,8 @@ has_children: true
 Two adds, [Envy] and [Rage], will be <img class="inline empowered_add"> **Empowered**, increasing the challenge posed.
 
 - Avoid <img class="inline empowered"> [Empowered] on the boss. Stacks commonly result from miscommunication during [Gluttony] or [Malice].
-- The double [Despair] followed by double <img class="inline empowered_add"> [Envy] 75 seconds in is the first true difficulty spike of the encounter..
+- The double [Despair] followed by double <img class="inline empowered_add"> [Envy] 75 seconds in is the first true difficulty spike of the encounter.
+- During this phase, an Embodiment will spawn and perform their attack every 20 seconds.
 
 ### Full Timeline
 <div class="smalltext">(Use shift+scroll or swipe if on mobile)</div>

@@ -8,22 +8,28 @@ grand_parent: UNIT Strat
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 
-# [Gluttony]<sup>2</sup> & [Malice]<sup>2</sup> > [Rage]
+# [Gluttony]<sup>2</sup> & [Malice]<sup>2</sup>, [Rage]
 {: .center}
 
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq2.mp4" type="video/mp4">
 </video>
 
+<img class="divider">
+
 <img class="seq-img" src="../../timelines/images/phase2/seq2.svg">
 
-## Sequence
+<img class="divider">
 
+## Description
+Double [Gluttony] and [Malice] give Cerus lots of opportunities for gaining <img class="inline empowered"> [Empowered](https://wiki.guildwars2.com/wiki/Empowered_(Cerus)). Make sure to collect properly and not fail portals.
+
+## Sequence
 1. During <img class="inline empowered_add"> [Envy], the  <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal] on the squad, then once the wall disappears, they <img class="inline blink"> [Blink] out to the eastern edge and open the portal.
-2. Whoever gets targeted by [Malice] takes the portal and drops the add on the edge. The rest of the squad focuses on collecting the two concecutive [Gluttony] mechanics.
+2. Whoever gets targeted by [Malice] takes the portal and drops the add on the edge. The rest of the squad focuses on collecting the two concecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 3. After the last orb is collected, the <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] eastwards, on top of the Malice add.
 4. Whoever gets targeted by the second Malice takes the portal immediately, the rest of the squad takes it as soon as <img class="inline empowered_add"> [Rage] appears.
-5. Stack behind the adds and cleave them down.
+5. Stack behind the adds and cleave them down while targeting the boss.
 
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>

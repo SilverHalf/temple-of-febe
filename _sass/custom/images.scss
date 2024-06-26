@@ -10,8 +10,16 @@
 }
 
 .attack_gif {
-	width: 100%;
+    max-width: 700;
+    width: 100%;
 	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.divider{
+    content: url('../../images/divider.png');
+    display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -163,6 +171,18 @@
 .rebound {
     content: url('../../images/icons/rebound.png');
 }
+.thousand {
+    content: url('../../images/icons/thousand.png');
+}
+.revive {
+    content: url('../../images/icons/revive.png');
+}
+.dragon_elite {
+    content: url('../../images/icons/dragon_elite.png');
+}
+.axe4 {
+    content: url('../../images/icons/axe4.png');
+}
 
 //markers
 .arrow {
@@ -177,6 +197,16 @@
 .heart {
     content: url('../../images/icons/heart.png');
 }
+.swirl {
+    content: url('../../images/icons/spiral.png');
+}
+.square {
+    content: url('../../images/icons/square.png');
+}
+.xmarks {
+    content: url('../../images/icons/xmarks.png');
+}
+
 
 // Other
 .jump{
@@ -217,4 +247,7 @@
 }
 .down {
     content: url('../../images/icons/down.png');
+}
+.glint {
+    content: url('../../images/icons/glint.png');
 }

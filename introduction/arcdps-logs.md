@@ -8,6 +8,7 @@ parent: Introduction
 [Previous](getting-started.html){: .btn } [Next](first-runs.html){: .btn }
 
 # ArcDPS: Combat Logs and Real-Time Data
+{: .center}
 
 ![ArcDPS In-game screenshots](../images/introduction/arcdps.webp)
 
@@ -17,9 +18,10 @@ ArcDPS logs are incredibly useful: they show you exactly how an encounter played
 
 Snowcrows, one of the premier raiding guilds, offers a nice [guide](https://snowcrows.com/guides/getting-started/arc-dps) to installing and setting up ArcDPS.
 
----
+<img class="divider">
 
-## Upload, Archive and Read your Logs
+# Upload, Archive and Read your Logs 
+{: .center}
 
 ![Example Elite Insights image](../images/introduction/ei_image.webp)
 
@@ -27,9 +29,10 @@ ArcDPS logs can be viewed using the [Elite Insights] parser. However, don't go d
 
 If you don't want to go through the hassle of manually uploading all of your logs, I recommend using [Wingman Uploader](https://gw2wingman.nevermindcreations.de/uploader). This tool automatically uploads your logs to the Wingman website, where you can then browse them individually, and compare your performance to other players'. For example, [here](https://gw2wingman.nevermindcreations.de/cerus) you can find the average and top performances for Temple of Febe (make sure to select Challenge Mode!), and you can also view the best performing logs for each patch.
 
----
+<img class="divider">
 
-## Analyse your Logs
+# Analyse your Logs
+{: .center}
 
 ![Example Analyzer image](../images/introduction/log_analysis.webp)
 
