@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Double Drops and Walls II
-nav_order: 5
-parent: Third Phase
+title: Double Rage & Malice
+nav_order: 1
+parent: Phasing to 10%
 grand_parent: UNIT Strat
 ---
 
-[Previous](seq4.html){: .btn } [Next](seq6.html){: .btn }
+[Previous](../phasing.html){: .btn } [Next](seq7.html){: .btn }
 
-# [Malice]<sup>2</sup>, [Despair]<sup>2</sup>, [Envy]<sup>2</sup> & [Gluttony]
+# [Regret], [Rage]<sup>2</sup>, [Malice], [Despair]
 {: .center}
 
 <video class="center" width="90%" controls muted>
-  <source src="../../videos/phase3/seq5.mp4" type="video/mp4">
+  <source src="../../videos/phase3/seq6.mp4" type="video/mp4">
 </video>
 
 <img class="divider">
 
-<img class="seq-img" src="../../timelines/images/phase3/seq5.svg">
+<img class="seq-img" src="../../timelines/images/phasing/seq6.svg">
 
 <img class="divider">
 
-## Description
+<!-- ## Description
 Another pair of <img class="inline empowered_add"> [Despair] need to be placed far from the boss. While placing them, the squad must also deal with a set of <img class="inline empowered_add"> [Malice] (we can avoid the second one with a sneaky trick!).
 
 The sequence also features challenging overlaps between <img class="inline empowered_add"> [Despair] and <img class="inline empowered_add"> [Envy], and [Gluttony] and <img class="inline empowered_add"> [Envy]. Oh and [Regret] is in there too, somewhere.
@@ -57,10 +57,11 @@ The sequence also features challenging overlaps between <img class="inline empow
 - If everyone takes the <img class="inline portal"> [Portal] immediately once it opens, no-one will be in range for the second <img class="inline empowered_add"> [Malice], and you will have to deal with one less mechanic. If some players do get tethers, they should try to place their adds on top of the previous set.
 - Remember that <img class="inline distort"> [Distortion] and <img class="inline dodge"> [Evasion](https://wiki.guildwars2.com/wiki/Evade) only work for the initial <img class="inline empowered_add"> [Despair] damage,  <img class="inline glint_h"> [Infuse Light] however also works on the pools, so the <img class="inline herald"> [Heralds] don't even need to dodge.
 - The <img class="inline scourge"> [Scourge] can spam Interact (default F key) to instantly take their <img class="inline sand-swell"> [Sand Swell] back after casting it.
-- After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump.
+- After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump. -->
 
-[Previous](seq4.html){: .btn } [Next](seq4.html){: .btn }
+[Previous](../phasing.html){: .btn } [Next](seq7.html){: .btn }
 
+[Rage]: ../../mechanics/aspects/despair.html
 [Despair]: ../../mechanics/aspects/despair.html
 [Gluttony]: ../../mechanics/aspects/despair.html
 [Envy]: ../../mechanics/aspects/envy.html

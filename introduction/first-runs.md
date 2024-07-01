@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Your First Runs
-nav_order: 4
+nav_order: 3
 parent: Introduction
 ---
 
-[Previous](arcdps-logs.html){: .btn } [  Next  ](lcm.html){: .btn }
+[Previous](getting-started.html){: .btn } [  Next  ](arcdps-logs.html){: .btn }
 
 # Getting into your first run
 
@@ -26,4 +26,4 @@ As you advance further into the encounter and see more mechanics, you will likel
 
 If you are a dedicated gamer and want to run multiple times a week, you will likely benefit from forming or joining a static group.
 
-[Previous](arcdps-logs.html){: .btn } [   Next   ](lcm.html){: .btn }
+[Previous](getting-started.html){: .btn } [   Next   ](arcdps-logs.html){: .btn }

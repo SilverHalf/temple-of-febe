@@ -5,7 +5,7 @@ nav_order: 5
 parent: Introduction
 ---
 
-[Previous](first-runs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }
+[Previous](arcdps-logs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }
 
 # Legendary Challenge Mode
 
@@ -28,4 +28,4 @@ and it remains to be seen how the meta will evolve and how difficult it will be.
 
 Minas' dedicated guide for the old version of the encounter can be found [here](https://unit-gw2.github.io/eos).
 
-[Previous](first-runs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }
+[Previous](arcdps-logs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }

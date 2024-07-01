@@ -19,9 +19,7 @@
         "seq2":{"start":24, "end":52},
         "seq3":{"start":54, "end":93},
         "seq4":{"start":96, "end":126},
-        "seq5":{"start":122, "end":176},
-        "seq6":{"start":174, "end":202},
-        "seq7":{"start":204, "end":227}
+        "seq5":{"start":122, "end":176}
     },
     "phase4.json":{
         "full":{"start":0, "end":600},
@@ -30,5 +28,10 @@
         "seq3":{"start":24, "end":41},
         "seq4":{"start":39, "end":56},
         "seq5":{"start":54, "end":71}
+    },
+    "phasing.json":{
+        "full":{"start":164, "end":241},
+        "seq6":{"start":164, "end":205},
+        "seq7":{"start":205, "end":242}
     }
 }

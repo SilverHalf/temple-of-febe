@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Setting Up ArcDPS
-nav_order: 3
+nav_order: 4
 parent: Introduction
 ---
 
-[Previous](getting-started.html){: .btn } [Next](first-runs.html){: .btn }
+[Previous](first-runs.html){: .btn } [Next](lcm.html){: .btn }
 
 # ArcDPS: Combat Logs and Real-Time Data
 {: .center}
@@ -40,7 +40,7 @@ If you don't want to go through the hassle of manually uploading all of your log
 
 This tool grades various aspects of your performance, and can be very helpful to understand if you're doing anything wrong. An average score of 5/10 or above is decent, average scores of 8/10 or above are abnormally good. The page also contains useful guidelines for _reading_ a log and understanding what is expected of your role.
 
-[Previous](getting-started.html){: .btn } [Next](first-runs.html){: .btn }
+[Previous](first-runs.html){: .btn } [Next](lcm.html){: .btn }
 
 [ArcDPS]: https://www.deltaconnected.com/arcdps/
 [Elite Insights]: https://github.com/baaron4/GW2-Elite-Insights-Parser

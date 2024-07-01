@@ -8,7 +8,7 @@ has_children: true
 
 [Previous](split2.html){: .btn } [Next](phase3/seq1.html){: .btn }
 
-# Second Phase - 80% to 50%
+# Third Phase - 50% to 10%
 
 Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline empowered_add"> **Empowered**, requiring careful coordination from the entire squad to manage the combined mechanics.
 

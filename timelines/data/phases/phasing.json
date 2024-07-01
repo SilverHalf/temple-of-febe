@@ -1,0 +1,49 @@
+{   
+    "name":"phase3",
+    "duration":241,
+    "label_width":80,
+    "label-args":{
+        "fill":"white",
+        "style":"font-family:Segoe UI;text-anchor:middle"
+    },
+    "timeline-args":{
+        "stroke":"white",
+        "stroke_width":2
+    },
+    "rows":{
+        "Cerus":{
+            "mechanics":[
+                { "name":"gluttony", "start":164 },
+                { "name":"rage", "start":180 },
+                { "name":"malice", "start":190 },
+                { "name":"despair", "start":196 },
+                { "name":"regret", "start":205 },
+                { "name":"envy", "start":216 },
+                { "name":"gluttony", "start":231 }
+            ]
+        },
+        "Aspects":{
+            "mechanics":[
+                { "name":"envy", "start":160 },
+                { "name":"regret", "start":175 },
+                { "name":"rage", "start":190 },
+                { "name":"gluttony", "start":205 },
+                { "name":"malice", "start":220 },
+                { "name":"despair", "start":235 }
+            ]
+        },
+        "Phasing":{
+            "mechanics":[
+                { "name":"early_phase", "start":164 },
+                { "name":"early_phase2", "start":167 },
+                { "name":"cs_portal_phase", "start":180 },
+                { "name":"first_malice_phase", "start":190 },
+                { "name":"gluttony_phase", "start":195 },
+                { "name":"gluttony_cancel_phase", "start":205 },
+                { "name":"second_malice_phase", "start":216 },
+                { "name":"final_phasing", "start":225 },
+                { "name":"fast_despair", "start":230 }
+            ]
+        }
+    }
+}
