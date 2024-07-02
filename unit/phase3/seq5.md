@@ -6,7 +6,7 @@ parent: Third Phase
 grand_parent: UNIT Strat
 ---
 
-[Previous](seq4.html){: .btn } [Next](seq6.html){: .btn }
+[Previous](seq4.html){: .btn } [Next](../phasing.html){: .btn }
 
 # [Malice]<sup>2</sup>, [Despair]<sup>2</sup>, [Envy]<sup>2</sup> & [Gluttony]
 {: .center}
@@ -59,7 +59,7 @@ The sequence also features challenging overlaps between <img class="inline empow
 - The <img class="inline scourge"> [Scourge] can spam Interact (default F key) to instantly take their <img class="inline sand-swell"> [Sand Swell] back after casting it.
 - After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump.
 
-[Previous](seq4.html){: .btn } [Next](seq4.html){: .btn }
+[Previous](seq4.html){: .btn } [Next](../phasing.html){: .btn }
 
 [Despair]: ../../mechanics/aspects/despair.html
 [Gluttony]: ../../mechanics/aspects/despair.html

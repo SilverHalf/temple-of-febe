@@ -16,11 +16,11 @@ Once you finish the second [Double Drops](phase3/seq5.html) sequence, you are wi
 - [Malice] tethers will not disappear, but any adds already present will despawn.
 - Any [Gluttony] orbs already present will despawn.
 
-Based on this, we can divide the final part of the fight into several sections:
+We can divide the final part of the fight into several sections based on phasing convenience:
 
 <img class="seq-img" src="../timelines/images/phasing/full.svg">
 
-- <span style="color:green">Green</span> sections represent periods where the phasing is more convenient. Carried over mechanics will be inconsequential, or difficult mechanics will be cancelled.
+- <span style="color:00d412">Green</span> sections represent periods where the phasing is more convenient. Carried over mechanics will be inconsequential, or difficult mechanics will be cancelled.
 - <span style="color:yellow">Yellow</span> sections have a small amount of added difficulty or deviations from normal strategy that require adaptation on the fly.
 - <span style="color:orange">Orange</span> sections are inconvenent timings that should be avoided, but are not run-ending.
 - <span style="color:red">Red</span> sections represent bad timings that should be avoided at all costs.

@@ -21,43 +21,71 @@ grand_parent: UNIT Strat
 
 <img class="divider">
 
-<!-- ## Description
-Another pair of <img class="inline empowered_add"> [Despair] need to be placed far from the boss. While placing them, the squad must also deal with a set of <img class="inline empowered_add"> [Malice] (we can avoid the second one with a sneaky trick!).
+## Description
+<img class="inline empowered_add"> [Rage] and <img class="inline empowered_add"> [Malice] will both require portals to be managed correctly. This puts some strain on the healers, but the rest of the squad should have it relatively easy.
 
-The sequence also features challenging overlaps between <img class="inline empowered_add"> [Despair] and <img class="inline empowered_add"> [Envy], and [Gluttony] and <img class="inline empowered_add"> [Envy]. Oh and [Regret] is in there too, somewhere.
-
-## Sequence
-1. As soon as <img class="inline empowered_add"> [Malice] chooses targets, everyone quickly takes the <img class="inline portal"> [Portal] to the <img class="inline xmarks"> marker. The players targeted by tethers should drop the adds on top of the portal exit.
-2. Spread with <img class="inline empowered_add"> [Despair] along the northern edge of the arena. Take all the space you need, and then <img class="inline dodge"> dodge forward. You should not be in more than 2/3 spreads at this time.
-3. Stack inside [Regret] while in range of the boss. The adds will walk into your cleave, so there is no need to focus them specifically.
-4. The <img class="inline scourge"> [Scourge], if they don't have the green, can move in front and to the left of the stack. As soon as the second <img class="inline empowered_add"> [Despair] spawns, they <img class="inline sand-swell"> [Sand Swell] behind the boss, immediately taking it back.
-5. The squad stacks to the right of the portal, leaving enough space in front of them for the healers. Prepare to dodge the second set of despair. Virtuosos should use their <img class="inline distort"> [Distortion], Heralds should use <img class="inline glint_h"> [Infuse Light].
-6. The indicator for <img class="inline empowered_add"> [Envy] from the boss will appear on top of the squad  while the it is stacked. Dodge the <img class="inline empowered_add"> [Despair]  to the left, and take the <img class="inline sand-swell"> [Sand Swell] to avoid the wall.
-7. Chase the fast wall around the boss and run back to <img class="inline heart"> Heart in time for the add's <img class="inline empowered_add"> [Envy]. When it spawns, follow the slow wall to <img class="inline arrow"> Arrow and jump the fast wall.
-8. [Gluttony] will happen while the slow wall is still up. You may have to go through the wall to collect orbs.
+## Normal Sequence
+1. Stack in [Regret] south of the boss. When <img class="inline empowered_add"> [Rage] spawns, the <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] towards the <img class="inline circle"> marker, and the whole squad takes it, then takes it back once the AoE pops.
+2. The <img class="inline chrono"> [Chronomancer] opens their <img class="inline cs"> [Continuum Split] and creates a <img class="inline portal"> [Portal] from <img class="inline swirl"> to <img class="inline circle">. Everyone targeted by [Malice] will take this portal and place their add on the edge of the arena.
+3. Everyone who did not get [Malice] should stay outside of the Embodiment's <img class="inline empowered_add"> [Rage].
+4. Before <img class="inline empowered_add"> [Despair] starts, everyone should spread in a semi-circle around the boss. Players who stayed on <img class="inline swirl"> should favor spreading more to the left, leaving space for the Malice players once they get back from the portal.
+5. Dodge <img class="inline empowered_add"> [Despair] towards the boss.
 
 <details>
   <summary><img class="inline chrono"> Chronomancer POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=422&end=475&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=469&end=504&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=426&end=479&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</details>
-<details>
-  <summary><img class="inline herald"> Herald POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/1NhFc7-NlkE?si=DkrrZ457SCPF-Rf5&start=395&end=448&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</details>
-<details>
-  <summary><img class="inline virtuoso"> Virtuoso POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/71JEURWXLko?si=YroyfB-PRhH9Z4Tv&start=435&end=488&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=474&end=509&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
+<img class="divider">
+
+## Phasing
+There are several points where you can phase during this sequence.
+
+### <span style="color:yellow">Early during <img class="inline empowered_add"> Envy</span>
+This will only happen if you have very high damage. In this case, if anybody failed the jump and got stripped by the fast wall, it is likely that the add will maintain <img class="inline alacrity"> [Alacrity](https://wiki.guildwars2.com/wiki/Alacrity) and <img class="inline quickness"> [Quickness](https://wiki.guildwars2.com/wiki/Quickness), resulting in a faster, invisible <img class="inline empowered_add">[Envy] in the beginning of the final phase. Players should be ready and aware.
+
+---
+
+### <span style="color:#00d412">Before <img class="inline empowered_add"> Rage</span>
+High damage groups should aim for this window. Once [Regret] spawns, you will get a green leading into the final phase, but this is very easy to deal with.
+
+---
+
+### <span style="color:yellow">After <img class="inline empowered_add"> Rage</span>
+This requires a small adaptation: the <img class="inline sand-swell"> [Sand Swell] out of the <img class="inline empowered_add"> [Rage] should be replaced by a <img class="inline cs"> [Continuum Split] <img class="inline portal"> [Portal], so that <img class="inline sand-swell"> [Sand Swell] will be available for the start of the final phase.
+If the Embodiment of <img class="inline empowered_add"> [Rage] spawns, remember that it will _always_ cast its attack, even if you phase. Depending on the timing of the attack, it may be convenient to play the start of the final phase from <img class="inline swirl">. It's the commander's call to make, and as usual the squad should follow.
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
+  <video class="center" width="90%" controls muted>
+  <source src="../../videos/phase3/seq6_alt.mp4" type="video/mp4">
+</video>
+</details>
+<details>
+  <summary><img class="inline chrono"> Chronomancer POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/c6C1ttm5shI?si=eRmgZnFVgPIsh3PC&start=443&end=457&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  PSA: in this PoV, the squad dps was not enough to phase during the Rage mechanic, so damage was held in order to phase at the beginning of the following sequence. However, it is a good showcase of the CS portal.
+</details>
+
+---
+
+### <span style="color:red">During <img class="inline empowered_add"> Malice</span>
+If you phase while <img class="inline empowered_add"> [Malice] tethers are active, the tethers will not disappear, and you will get an extra set of adds persisting through to the next phase. This is extremely inconvenient, since usually the squad will not be ready to cleave them, resulting in a full 15 stacks of <img class="inline empowered"> [Empowered] on the boss, and a wipe. You should generally try to phase Cerus before he puts his wings to the floor, or hold damage and try to phase at the start of the next sequence.
+
+---
+
+### <span style="color:orange">After <img class="inline empowered_add"> Malice</span>
+Phasing here will result in the <img class="inline empowered_add"> [Malice] adds despawning. However, you will always get [Gluttony] persisting through the beginning of the final phase. While not catastrophic, this is however a significant increase in difficulty, and should be avoided. You should hold damage and try to phase at the beginning of the next sequence.
+
+<img class="divider">
+
 ## Extra Information
-- If everyone takes the <img class="inline portal"> [Portal] immediately once it opens, no-one will be in range for the second <img class="inline empowered_add"> [Malice], and you will have to deal with one less mechanic. If some players do get tethers, they should try to place their adds on top of the previous set.
-- Remember that <img class="inline distort"> [Distortion] and <img class="inline dodge"> [Evasion](https://wiki.guildwars2.com/wiki/Evade) only work for the initial <img class="inline empowered_add"> [Despair] damage,  <img class="inline glint_h"> [Infuse Light] however also works on the pools, so the <img class="inline herald"> [Heralds] don't even need to dodge.
-- The <img class="inline scourge"> [Scourge] can spam Interact (default F key) to instantly take their <img class="inline sand-swell"> [Sand Swell] back after casting it.
-- After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump. -->
+- _Don't_ use <img class="inline distort"> [Distortion] or <img class="inline glint_h"> [Infuse Light] for <img class="inline empowered_add"> [Despair]: you will need them at the start of the final phase.
+- The <img class="inline portal"> [Portal] can be done both from <img class="inline swirl"> to <img class="inline circle"> or from <img class="inline circle"> to <img class="inline swirl">, choose which suits you best.
+- Players who don't get targeted by <img class="inline empowered_add"> [Malice] should tend to spread left with their <img class="inline empowered_add"> [Despair], leaving more space for their teammates once they come back with the portal.
 
 [Previous](../phasing.html){: .btn } [Next](seq7.html){: .btn }
 
@@ -68,12 +96,11 @@ The sequence also features challenging overlaps between <img class="inline empow
 [Regret]: ../../mechanics/aspects/regret.html
 [Malice]: ../../mechanics/aspects/malice.html
 [Scourge]: https://wiki.guildwars2.com/wiki/Scourge
-[Infuse Light]: https://wiki.guildwars2.com/wiki/Infuse_Light
 [Chronomancer]: https://wiki.guildwars2.com/wiki/Chronomancer
 [Portal]: https://wiki.guildwars2.com/wiki/Portal_Entre
-[Distortion]: https://wiki.guildwars2.com/wiki/Distortion
-[Garish Pillar]: https://wiki.guildwars2.com/wiki/Garish_Pillar
 [Virtuosos]: https://wiki.guildwars2.com/wiki/Virtuoso
-[Heralds]: https://wiki.guildwars2.com/wiki/Herald
-[Thousand Cuts]: https://wiki.guildwars2.com/wiki/Thousand_Cuts
 [Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
+[Continuum Split]: https://wiki.guildwars2.com/wiki/Continuum_Split
+[Infuse Light]: https://wiki.guildwars2.com/wiki/Infuse_Light
+[Distortion]: https://wiki.guildwars2.com/wiki/Distortion
+[Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
