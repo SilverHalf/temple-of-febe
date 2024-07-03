@@ -17,7 +17,7 @@ grand_parent: UNIT Strat
 
 <img class="divider">
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7.svg">
+<img class="seq-img" src="../../timelines/images/phase3/seq7.svg">
 
 <img class="divider">
 
@@ -26,35 +26,41 @@ The final sequence of phase 3. Nothing mechanically difficult, outside of phasin
 
 ## Normal Sequence
 1. After dodging <img class="inline empowered_add"> [Despair], stack on the boss for the green.
-2. Use [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) during [Gluttony] to avoid the boss getting <img class="inline barrier"> [Barrier]. Focus on collecting.
+2. Use [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud) during [Gluttony] to avoid the boss getting <img class="inline barrier"> [Barrier]. Focus on collecting.
 3. When <img class="inline empowered_add"> [Envy] spawns, run to the right, then chase the fast wall around the boss.
 4. Whoever gets targeted by <img class="inline empowered_add"> [Malice] should run out in the space between pools, and drop the adds as far as possible.
-5. Phase as soon as possible after the adds spawn.
-
-<img class="divider">
+5. Phase as soon as possible after the adds spawn. Be ready to break Cerus's <img class="inline defiance"> [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar).
 
 ## Phasing
-There are two points where you can phase during this sequence.
+There are two good points where you can phase during this sequence, and two very bad points.
 
-### <span style="color:#00d412">During Gluttony</span>
+### <img class="inline ok"> During [Gluttony]
 A generally good moment, normal damage groups should aim to phase here, as soon as the green appears. Any [Gluttony] orbs already present on the map will despawn, and both attacks will be invalidated.
 
+<img class="seq-img" src="../../timelines/images/phasing/seq7/1.svg">
+
 ---
 
-### <span style="color:red">During <img class="inline empowered_add"> Envy</span>
+### <img class="inline notok"> During <img class="inline empowered_add"> [Envy]
 The wall appears as soon as the <img class="inline empowered_add"> [Malice] Embodiment spawns. If you phase here, Malice will complete their attack and you will get an extra set of adds persisting through to the next phase. This usually leads to 15 stacks of <img class="inline empowered"> [Empowered] on the boss and a wipe.
 
+<img class="seq-img" src="../../timelines/images/phasing/seq7/2.svg">
+
 ---
 
-### <span style="color:#00d412">After <img class="inline empowered_add"> Malice</span>
+### <img class="inline ok"> After <img class="inline empowered_add"> [Malice]
 This is the final safe phasing point. As soon as the <img class="inline empowered_add"> [Malice] adds spawn, phasing will make them despawn, leading to a safe transition.
 
+<img class="seq-img" src="../../timelines/images/phasing/seq7/3.svg">
+
 ---
 
-### <span style="color:red">Fast <img class="inline empowered_add"> Despair</span>
-Phasing too late after <img class="inline empowered_add"> [Malice] will result in <img class="inline empowered_add"> [Despair] spawning and completing its attack. This will result in an extremely inconvenient set of spreads, usually leading to a wipe. Phasing after the despair is also usually a wipe, since both sets of adds will walk in.
+### <img class="inline notok"> Fast <img class="inline empowered_add"> [Despair]
+Phasing too late after <img class="inline empowered_add"> [Malice] means that <img class="inline empowered_add"> [Despair] will spawn and complete its attack. This results in an extremely inconvenient set of pools that will persist throughout the final phase, usually leading to a wipe. Phasing after the despair is also usually fatal, since at least one set of adds will walk in.
 
-<img class="divider">
+<img class="seq-img" src="../../timelines/images/phasing/seq7/4.svg">
+
+---
 
 [Previous](seq6.html){: .btn } [Next](seq7.html){: .btn }
 

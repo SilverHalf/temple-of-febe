@@ -18,13 +18,7 @@
 <rect x="380" y="50" width="50" height="25" fill="red" />
 <text x="405.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
 <text x="40.0" y="93.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Phasing</text>
-<rect x="80" y="75" width="110" height="25" fill="green" />
-<text x="135.0" y="91.5" font-size="12"></text>
 <rect x="190" y="75" width="90" height="25" fill="red" />
-<text x="235.0" y="91.5" font-size="12"></text>
-<rect x="280" y="75" width="50" height="25" fill="green" />
-<text x="305.0" y="91.5" font-size="12"></text>
-<rect x="330" y="75" width="110" height="25" fill="red" />
 <text x="385.0" y="91.5" font-size="12"></text>
 <path d="M0,25 L450,25" stroke="white" stroke-width="2" />
 <path d="M0,75 L450,75" stroke="white" stroke-width="2" />
