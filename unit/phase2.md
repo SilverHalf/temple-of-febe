@@ -25,9 +25,9 @@ Two adds, [Envy] and [Rage], will be <img class="inline empowered_add"> **Empowe
 
 [Previous](split1.html){: .btn } [Next](phase2/seq1.html){: .btn }
 
-[Envy]: ../mechanics/aspects/envy.md
-[Rage]: ../mechanics/aspects/rage.md
-[Gluttony]: ../mechanics/aspects/gluttony.md
-[Malice]: ../mechanics/aspects/malice.md
+[Envy]: ../mechanics/aspects/envy.html
+[Rage]: ../mechanics/aspects/rage.html
+[Gluttony]: ../mechanics/aspects/gluttony.html
+[Malice]: ../mechanics/aspects/malice.html
 [Despair]: ../mechanics/aspects/despair.html
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

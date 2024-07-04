@@ -23,12 +23,11 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
   <img class="timeline-img" src="../timelines/images/phase3/full.svg">
 </div>
 
-
 [Previous](split2.html){: .btn } [Next](phase3/seq1.html){: .btn }
 
-[Envy]: ../mechanics/aspects/envy.md
-[Rage]: ../mechanics/aspects/rage.md
-[Gluttony]: ../mechanics/aspects/gluttony.md
-[Malice]: ../mechanics/aspects/malice.md
+[Envy]: ../mechanics/aspects/envy.html
+[Rage]: ../mechanics/aspects/rage.html
+[Gluttony]: ../mechanics/aspects/gluttony.html
+[Malice]: ../mechanics/aspects/malice.html
 [Despair]: ../mechanics/aspects/despair.html
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)

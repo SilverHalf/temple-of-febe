@@ -6,7 +6,7 @@ parent: Phasing to 10%
 grand_parent: UNIT Strat
 ---
 
-[Previous](seq6.html){: .btn } [Next](seq7.html){: .btn }
+[Previous](seq6.html){: .btn } [Next](../phase4.html){: .btn }
 
 # [Gluttony] & [Regret], [Envy] & [Malice], [Despair]
 {: .center}
@@ -62,7 +62,7 @@ Phasing too late after <img class="inline empowered_add"> [Malice] means that <i
 
 ---
 
-[Previous](seq6.html){: .btn } [Next](seq7.html){: .btn }
+[Previous](seq6.html){: .btn } [Next](../phase4.html){: .btn }
 
 [Rage]: ../../mechanics/aspects/despair.html
 [Despair]: ../../mechanics/aspects/despair.html

@@ -4,8 +4,6 @@
 <defs>
 </defs>
 <text x="60.0" y="43.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Enraged Smash</text>
-<circle cx="120" cy="37.5" r="6.25" fill="red" />
-<path d="M120,25 L120,50" stroke="red" />
 <circle cx="160" cy="37.5" r="6.25" fill="red" />
 <path d="M160,25 L160,50" stroke="red" />
 <circle cx="200" cy="37.5" r="6.25" fill="red" />

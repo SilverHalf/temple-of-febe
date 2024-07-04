@@ -13,7 +13,6 @@
     "rows":{
         "Enraged Smash":{
             "mechanics":[
-                { "name":"smash", "start":0 },
                 { "name":"smash", "start":4 },
                 { "name":"smash", "start":8 },
                 { "name":"smash", "start":12 },
