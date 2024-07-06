@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Regret], [Despair]<sup>2</sup>, [Envy]<sup>2</sup>
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq3.mp4" type="video/mp4">
 </video>
@@ -39,6 +42,7 @@ The first small difficulty spike in the fight. Concentrate on dodging [Despair] 
 </details> 
 
 ## Extra Information
+- The first set of spreads will no longer deal damage once the Embodiment of Despair disappears. Melee classes can therefore place them closer to the boss to greed for a bit more damage.
 - <img class="inline virtuoso"> [Virtuosos] should provide <img class="inline swiftness"> [Swiftness] with <img class="inline curtain"> [Temporal Curtain] for <img class="inline empowered_add"> [Envy].
 - After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump.
 

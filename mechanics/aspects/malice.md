@@ -8,12 +8,14 @@ grand_parent: Mechanics
 
 [Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
-# Malicious Intent
+# Malice - Malicious Intent
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/malice.gif">
+
+<div class="smalltext center">GIF credit: Snowcrows</div>
 
 <img class="divider">
 

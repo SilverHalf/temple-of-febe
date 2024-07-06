@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Gluttony]<sup>2</sup> & [Rage]<sup>2</sup>
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase3/seq4.mp4" type="video/mp4">
 </video>
@@ -26,11 +29,11 @@ A tricky overlap between <img class="inline empowered_add"> [Rage] and [Gluttony
 
 ## Sequence
 1. The sequence starts with everyone on <img class="inline heart">.
-2. The <img class="inline chrono"> [Chronomancer] prepares a <img class="inline portal"> [Portal] using their <img class="inline cs"> [Continuum Split] to <img class="inline swirl"> Spiral as soon as the Aspect's <img class="inline empowered_add"> [Rage] indicator appears.
+2. The <img class="inline chrono"> [Chronomancer] prepares a <img class="inline portal"> [Portal] using their <img class="inline cs"> [Continuum Split] to <img class="inline swirl"> as soon as the Aspect's <img class="inline empowered_add"> [Rage] indicator appears.
 3. Players should move out of the AoE or take the <img class="inline portal"> [Portal]. Everyone should keep an eye out for any [Gluttony] orbs they can collect on the way out and try to grab as many as possible.
 4. Once <img class="inline empowered_add"> [Rage] pops, players should take the <img class="inline portal"> [Portal] back to the boss to grab any orbs that were not yet fully collected.
-5. The <img class="inline scourge"> [Scourge] should preposition north of the boss, towards the <img class="inline xmarks"> marker. When the boss's <img class="inline empowered_add"> [Rage]'s indicator appears, they should <img class="inline sand-swell"> [Sand Swell] towards the marker.
-6. Everyone takes the <img class="inline sand-swell"> [Sand Swell] before Rage pops. The <img class="inline chrono"> [Chronomancer] runs out and prepares their <img class="inline portal"> [Portal] on the <img class="inline xmarks"> marker.
+5. The <img class="inline scourge"> [Scourge] should preposition north of the boss, towards <img class="inline xmarks">. When the boss's <img class="inline empowered_add"> [Rage]'s indicator appears, they should <img class="inline sand-swell"> [Sand Swell] towards the marker.
+6. Everyone takes the <img class="inline sand-swell"> [Sand Swell] before Rage pops. The <img class="inline chrono"> [Chronomancer] runs out and prepares their <img class="inline portal"> [Portal] on <img class="inline xmarks">.
 7. Everyone takes the <img class="inline sand-swell"> [Sand Swell] back to the boss and quickly collects all orbs. Marked people should call out where they're moving.
 8. As soon as the final orb is collected, the <img class="inline chrono"> [Chronomancer] opens their <img class="inline portal"> [Portal] on the boss.
 

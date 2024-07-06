@@ -8,12 +8,14 @@ grand_parent: Mechanics
 
 [Previous](malice.html){: .btn } [Next](despair.html){: .btn }
 
-# Insatiable Hunger
+# Gluttony - Insatiable Hunger
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/gluttony.gif">
+
+<div class="smalltext center">GIF credit: Snowcrows</div>
 
 <img class="divider">
 
@@ -77,6 +79,9 @@ When <img class="inline empowered_add"> **Empowered**, <img class="inline insati
 This attack is often one of the easiest ways to bleed <img class="inline empowered"> [Empowered] to the boss. It is crucial that the squad spreads out correctly in order to intercept all of the orbs.
 
 One of the most commonly used methods to ensure this is to have two [marked](https://wiki.guildwars2.com/wiki/Commander#Markers) players, one in each subgroup. These people then call out the side of the boss they move to when collecting, and their subgroups follow them. Subgroups can set a [personal target](https://wiki.guildwars2.com/wiki/Call_Target#Set_Personal_Target) on the player they’re supposed to follow to see them better.
+
+Because of the permanent <img class="inline insatiable"> [Insatiable] stacks, Gluttony is never <img class="inline empowered_add"> empowered in LCM runs. Groups will see the <img class="inline empowered_add"> Empowered mechanic at least six times during a normal run, resulting in an average of 9 <img class="inline insatiable"> [Insatiable] stacks per player, if not abusing orb deletion.
+This means an additional ~3k incoming unavoidable damage per second, which is unmanageable without special builds. It remains to be seen if any strategies involving empowering Gluttony emerge for normal CM.
 
 [Previous](malice.html){: .btn } [Next](despair.html){: .btn }
 

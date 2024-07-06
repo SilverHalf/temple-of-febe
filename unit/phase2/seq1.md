@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Regret], [Rage] & [Despair], [Envy]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq1.mp4" type="video/mp4">
 </video>
@@ -27,9 +30,9 @@ An interesting combination of <img class="inline empowered_add"> [Rage] and [Des
 ## Sequence
 1. Run to the south of the boss and stack in [Regret].
 2. After the green pops, start walking out south-westwards to avoid <img class="inline empowered_add"> [Rage]. The <img class="inline scourge"> [Scourge] or <img class="inline chrono"> [Chronomancer] can provide a portal for this, but it is not strictly necessary.
-3. Everyone spreads for [Despair]. Make sure to leave enough space that you can dodge forward without getting hit by Rage.
+3. Everyone spreads for [Despair]. Make sure to leave enough space so that you can dodge forward without getting hit by [Rage].
 4. Run to the boss and stack up to prepare for <img class="inline empowered_add"> [Envy].
-5. Once the indicator for the wall appears, run foreward and to the right of it. After the wall spawns, chase the fast wall around the boss.
+5. Once the indicator for the wall appears, run forward and to the right of it. After the wall spawns, chase the fast wall around the boss.
 
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>

@@ -10,11 +10,10 @@
 }
 
 .attack_gif {
-    max-width: 700;
-    width: 100%;
-	display: flex;
-	margin-left: auto;
-	margin-right: auto;
+    min-width: 80%;
+    height: auto;
+	margin: auto;
+    display: block;
 }
 
 .divider{
@@ -186,6 +185,12 @@
 .axe4 {
     content: url('../../images/icons/axe4.png');
 }
+.defiant {
+    content: url('../../images/icons/defiant.png');
+}
+.reversal {
+    content: url('../../images/icons/reversal.png');
+}
 
 //markers
 .arrow {
@@ -256,4 +261,10 @@
 }
 .glint {
     content: url('../../images/icons/glint.png');
+}
+.star_full {
+    content: url('../../images/icons/star_full.svg');
+}
+.star_empty {
+    content: url('../../images/icons/star_empty.svg');
 }

@@ -8,12 +8,14 @@ grand_parent: Mechanics
 
 [Previous](despair.html){: .btn } [Next](rage.html){: .btn }
 
-# Crushing Regret
+# Regret - Crushing Regret
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/regret.gif">
+
+<div class="smalltext center">GIF credit: Snowcrows</div>
 
 <img class="divider">
 
@@ -62,11 +64,13 @@ Failing a green will instantly defeat the entire squad. Players who recieve two 
   </ul>
 </div>
 
-1. _Only in normal CM_, effects that prevent lethal damage, such as <img class="inline aed"> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class="inline glint_h"> [Infuse Light](https://wiki.guildwars2.com/wiki/Infuse_Light) and <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22) will allow a player to not get downed by a failed green.
+1. _Only in normal CM_, effects that prevent lethal damage (<img class="inline aed"> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22), <img class="inline reversal"> [Reversal of Fortune](https://wiki.guildwars2.com/wiki/Reversal_of_Fortune)) will allow a player to not get downed by a failed green. These effects will not function in case of multiple greens: players will stil down to two greens, and die to three. However, direct damage-to-healing conversion, such as <img class="inline glint_h"> [Infuse Light](https://wiki.guildwars2.com/wiki/Infuse_Light) or <img class="inline defiant"> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), _will_ prevent downing from multiple green failures.
+<div class="smalltext">Thanks to @mashi for helping me test this!</div>
 
 ## Extra Information
 
 - Has a maximum range. If you and the green are on opposite sides of the arena, you won’t die if it fails.
+- In normal CM, current hypothesis is that failed greens deal a massive amount of damage that ignores all forms of invulnerability. This would enable them to ignore the brief invulnerability from going <img class="inline down"> [Downstate], and has the side effect of also invalidating other forms of player invulnerability.
 - **BUG:** the green circle has a visual radius of 240, but its actual radius is 360.
 
 ## Strategy
@@ -78,6 +82,7 @@ The empowered version requires special attention. The most common strategy is to
 In the following image, the first row represents the Anchors, the second the Backups, and the last one the Runners and Floats, while the columns represent individual groups.
 
 ![Green Strategy](../../images/mechanics/green_strat.webp)
+<div class="smalltext center">Image credit: @Luna</div>
 
 The Anchors are usually [marked](https://wiki.guildwars2.com/wiki/Commander#Markers), and spread out to pre-established locations before each green mechanic, with their groups following them. When greens appear, if more than one green spawns inside of a group, the people targeted move to other groups, and the Runners from the other groups move back to cover the resulting gap. Runners should always be the first player to move in case of overlapping greens. Anchors should never move. Backups only move if both they and their Anchor have a green.
 

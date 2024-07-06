@@ -15,7 +15,7 @@ Once you finish the second [Double Drops](phase3/seq5.html) sequence, you are wi
 - Any Aspects that have already spawned will finish casting their ability.
 - <img class="inline empowered_add"> [Malice] tethers will not disappear, but any adds already present will despawn.
 - Any [Gluttony] orbs already present will despawn.
-- Any <img class="inline empowered_add"> [Despair] puddles that were spawned in by the Aspect will persist throughout the final phase. Puddles that were spawned by the boss will instead disappear as soon as he gains his <img class="inline defiance"> [Defiance Bar]
+- Any <img class="inline empowered_add"> [Despair] puddles that were spawned in by the Aspect will persist throughout the final phase. Puddles that were spawned by the boss will instead disappear as soon as he gains his <img class="inline defiance"> [Defiance Bar].
 
 We can divide the final part of the fight into several sections based on phasing convenience:
 
@@ -26,7 +26,7 @@ We can divide the final part of the fight into several sections based on phasing
 - <img class="inline risky"> Orange sections are inconvenent timings that should be avoided, but are not run-ending.
 - <img class="inline notok"> Red sections represent bad timings that should be avoided at all costs.
 
-Over the next few pages we will see the final couple of sequences for the third phase, with added annotations about possible phase timings.
+Over the next few pages we will see the final couple of sequences for the third phase, with added annotations on phase timings.
 
 [Previous](phase3/seq5.html){: .btn } [Next](phasing/seq6.html){: .btn }
 

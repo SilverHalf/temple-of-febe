@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Rage]<sup>2</sup>, [Regret]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq5.mp4" type="video/mp4">
 </video>
@@ -27,7 +30,7 @@ The conclusion of the second phase. Here the most difficult part is choosing whe
 1. The <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] south to the add as soon as the <img class="inline empowered_add"> [Rage] indicator appears.
 2. Everyone stays stacked up behind the add and cleaves it down while targeting the boss.
 3. [Regret]'s green will spawn while everyone is still stacked.
-4. You should be phasing shortly after the green. Otherwise, you will have to play a final [Despair]
+4. You should be phasing shortly after the green. Otherwise, you will have to play a final [Despair].
 
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>

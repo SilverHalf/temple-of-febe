@@ -11,10 +11,10 @@ has_children: true
 
 This section contains a detailed description of the various attacks and mechanics present in ToF CM. The basic gameplay of the encounter is centered around keeping Cerus's attacks as manageable as possible while staying inside of the enrage timer. The fight **becomes progressively more difficult and unforgiving**, due to two important mechanics:
 
-- In later stages of the fight, some of Cerus's recurring attacks will be <img class="inline empowered_add"> **Empowered**. The mechanism for which attacks are selected is deterministic, allowing the group to choose which skills get strengthened and enabling various different strategies.
-- On failing certain mechanics, Cerus will gain stacks of <img class="inline empowered"> [Empowered], which permanently buff his damage, and make managing the final phases much more difficult.
+- Cerus's will <img class="inline empowered_add"> **Empowered** some of his recurring attacks, greatly increasing the challenge they pose. The mechanism for which attacks are selected is deterministic, allowing the group to choose which skills get strengthened and enabling various different strategies.
+- On failing certain mechanics, Cerus will gain stacks of <img class="inline empowered"> [Empowered], which permanently buff his damage for the rest of the fight.
 
-Minimising and mitigating the effects of these two mechanics is the most crucial aspect of the fight.
+Minimising and mitigating the effects of these two mechanics is the most crucial aspect of the encounter.
 
 ## Mitigation Tables
 
@@ -53,7 +53,7 @@ Whenever an attack directly affects the players, we will highlight how various s
     </li>
   </ul>
 </div>
-The top header represents various skills, buffs and abilities:  <img class="inline distort"> [Distortion], Herald's <img class="inline glint_h"> [Infuse Light], <img class="inline feedback"> [Feedback] and other projectile mitigation, <img class="inline dodge"> [Evasion], <img class="inline jump"> Jumping, <img class="inline protection"> [Protection], <img class="inline block"> [Blocking]/[Aegis] and <img class="inline barrier"> [Barrier].
+The top header represents various skills, buffs and abilities:  <img class="inline distort"> [Distortion], damage-to-healing conversion such as <img class="inline glint_h"> [Infuse Light], <img class="inline feedback"> [Feedback] and other projectile mitigation, <img class="inline dodge"> [Evasion], <img class="inline jump"> Jumping, <img class="inline protection"> [Protection], <img class="inline block"> [Blocking]/[Aegis] and <img class="inline barrier"> [Barrier].
 
 The following row represents levels of mitigation for the normal attack. <img class="inline ok"> means that the corresponding skill is effective against the attack if used correctly, <img class="inline kinda"> means the attack can be at least partially mitigated, and <img class="inline notok"> means the skill has no effect whatsoever on the attack. The second row, if present, represents the same but for the _empowered_ version of the skill (more on this later).
 

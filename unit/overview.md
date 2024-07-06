@@ -9,7 +9,7 @@ has_children: true
 
 # UNIT Strat
 
-This strategy was developed for accessibility and role compression in LCM runs by having the two healers manage most of the mehcanics, at the cost of more squad movement and less dps uptime.
+This strategy was developed by the homonymous for accessibility and role compression in LCM runs. In involves having the two healers manage most of the mechanics, at the cost of more squad movement and less dps uptime.
 UNIT is one of the most commonly used strategies for LCM, since it is easy to fill groups, it is overall more forgiving to mistakes, and it frees up strong defensive options for the DPS players.
 
 On the other hand, the entire strategy is built around <img class="inline virtuoso"> [Condition Virtuoso], allowing little freedom to play other DPS builds.

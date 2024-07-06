@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Despair], [Envy], [Rage]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase4/seq1.mp4" type="video/mp4">
 </video>

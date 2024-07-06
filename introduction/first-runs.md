@@ -16,7 +16,7 @@ Starting is actually very simple! Hop over to the progression LFG channels on th
 Most commanders will only require that you have an appropriate build for your role, and that you know how to play your class. Just sign up for runs and follow the commander’s calls, and you will have a blast!
 
 {: .warning }
-ToF CM is still one of the most challenging endgame encounters! You should have some experience in other endgame content before joining any runs.
+ToF CM is still one of the most challenging endgame encounters! You should have some experience in other endgame content and a decent build before joining any runs.
 
 # Getting into more runs
 
@@ -24,6 +24,6 @@ As you advance further into the encounter and see more mechanics, you will likel
 
 ![Example of a more advanced signup](../images/introduction/signup2.webp)
 
-If you are a dedicated gamer and want to run multiple times a week, you will likely benefit from forming or joining a static group.
+If you are a dedicated gamer and want to run multiple times a week, you will likely benefit from forming or joining a static group. Most servers will have a dedicated channel where you can find groups looking for new members.
 
 [Previous](getting-started.html){: .btn } [   Next   ](arcdps-logs.html){: .btn }

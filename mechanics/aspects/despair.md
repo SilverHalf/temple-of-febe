@@ -8,16 +8,18 @@ grand_parent: Mechanics
 
 [Previous](gluttony.html){: .btn } [Next](regret.html){: .btn }
 
-# Wail of Despair
+# Despair - Wail of Despair
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/despair.gif">
 
+<div class="smalltext center">GIF credit: Snowcrows</div>
+
 <img class="divider">
 
-This attack has two components: the first is a set of small circular AoEs that target all players and take 5 seconds to fill, dealing damage when complete. Players will take damage from all AoEs they are in.
+This attack has two components: the first is a set of "spreads": small circular AoEs that target all players and take 5 seconds to fill, dealing damage when complete. Players will take damage from all AoEs they are in.
 
 Successively, every AoE will leave a lingering pool where it drops, which deals damage and applies <img class="inline torment"> [Torment] to all players in it. The pools persist for 120 seconds or until phase end. Similarly to the initial damage, pool damage also scales based on the number of overlapping pools.
 

@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Regret], [Malice] & [Despair], [Envy]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq1.mp4" type="video/mp4">
 </video>
@@ -22,12 +25,12 @@ grand_parent: UNIT Strat
 <img class="divider">
 
 ## Description
-A simple and straightforward opening sequence. [Malice] needs to be dealth with, and [Despair] needs to be dodged.
+A simple and straightforward opening sequence. A [Malice] add needs to be placed far from the boss, and [Despair] needs to be dodged.
 
 ## Sequence
 1. Glide into the arena and stack in the green in front of the boss.
 2. Shortly after the green pops, the <img class="inline scourge"> [Scourge] places their <img class="inline sand-swell"> [Sand Swell] a bit south of the boss, going southwards. More distance means more time to DPS the add.
-3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or stack up and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so it will drop in the middle of the squad. Dodge _foreward_ once [Despair] drops.
+3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or remain on the portal exit and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so that their add drops in the middle of the squad. <img class="inline dodge"> Dodge _foreward_ once [Despair] drops.
 4. Stack up behind the add and cleave it down while targeting the boss. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
 
 <details>
@@ -40,18 +43,20 @@ A simple and straightforward opening sequence. [Malice] needs to be dealth with,
 </details> 
 
 ## Extra Information
-- If the exit of the <img class="inline sand-swell"> [Sand Swell] is placed too far to the east, the add will do some strange pathfinding that will make it more difficult to cleave (see [Malice] for more information). If in doubt, place the portal more towards <img class="inline star"> Star.
+- If the exit of the <img class="inline sand-swell"> [Sand Swell] is placed too far to the east, the add will do some strange pathfinding that will make it more difficult to cleave (see [Malice] for more information). If in doubt, place the portal more towards <img class="inline star">.
 - <img class="inline herald"> [Heralds](https://wiki.guildwars2.com/wiki/Herald) can return to the boss to deal some additional damage after the spread, if cleave is good enough. Otherwise they should stay at range and help kill the add.
 - Healers should be ready to condition cleanse and re-apply boons in case someone gets hit by the wall.
 
 ## Variants
-If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and then <img class="inline blink"> [Blink] to open a <img class="inline portal"> [Portal] to the edge of the arena (usually on the nort-eastern to abuse pathfinding) for the player who is targeted by [Malice].
-<details>
-  <summary>Example</summary>
+If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and <img class="inline blink"> [Blink] to open their <img class="inline portal"> [Portal] on the edge of the arena (usually on the north-eastern edge to abuse pathfinding) for the player who is targeted by [Malice].
+
+This has the advantage of being much easier and more melee-friendly for the DPS players, at the cost of a small skill check for the healers: <img class="inline chrono"> [Chronomancer] for the portal and <img class="inline scourge"> [Scourge] to <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) with <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact).
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
-    <source src="../../videos/phase1/seq1_alt.mp4" type="video/mp4">
-  </video>
-</details> 
+  <source src="../../videos/phase1/seq1_alt.mp4" type="video/mp4">
+</video>
+</details>
 
 [Previous](../phase1.html){: .btn } [Next](seq2.html){: .btn }
 

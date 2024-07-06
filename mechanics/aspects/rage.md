@@ -8,12 +8,14 @@ grand_parent: Mechanics
 
 [Previous](regret.html){: .btn } [Next](../other-attacks.html){: .btn }
 
-# Cry of Rage
+# Rage - Cry of Rage
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/rage.gif">
+
+<div class="smalltext center">GIF credit: Snowcrows</div>
 
 <img class="divider">
 

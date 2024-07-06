@@ -32,7 +32,7 @@ The six Aspect mechanics are, in no particular order:
 
 More information will be presented for each of these mechanics later.
 
-Since the boss and his aspects always execute their attacks at the same instants each run, the encounter is overall very deterministic. Through practice, most players will eventually memorize the sequences of mechanics, and should be prepared to execute them. The squad leader should also proactively call out the next mechanic before it happens.
+Since the boss and his aspects always execute their attacks at the same instants each run, the encounter is overall very deterministic. Through practice, most players will eventually memorize the sequences, and should be prepared to execute them.
 
 ## Split Phases and Empowered Aspects
 
@@ -40,8 +40,8 @@ At the beginning of each split phase at 80% and 50%, Cerus will gain a <img clas
 
 Three Aspects will gain the <img class="inline empowered_add"> **Empowered** effect (which is different from the <img class="inline empowered"> [Empowered] effect). These can be quickly identified due to being noticeably larger than normal.
 
-- Envy, Rage and Regret will always empower in the 80% split phase.
-- Despair, Gluttony and Malice will always empower in the 50% split phase.
+- [Envy](aspects/envy.html), [Rage](aspects/rage.html) and [Regret](aspects/regret.html) will always empower in the 80% split phase.
+- [Despair](aspects/despair.html), [Gluttony](aspects/gluttony.html) and [Malice](aspects/malice.html) will always empower in the 50% split phase.
 
 <img class="inline empowered_add"> **Empowered buffs the Aspect's characteristic skill**, making it more much difficult to deal with. The only way to make an Aspect lose <img class="inline empowered_add"> Empowered is by killing it during a split phase. Vice versa, Aspects will *gain* <img class="inline empowered_add"> Empowered if you kill their de-powered version. Killing an aspect during a split phase will not stop it from doing its attacks as usual.
 
@@ -51,17 +51,13 @@ Since <img class="inline empowered_add"> Empowered skills affect the squad in a 
 
 ### First Split Phase Choice
 
-In the first split phase, [Rage] isn't a compelling choice, since its difficulty does not increase much when empowered, so it comes down to eiter [Envy] or [Regret].
+In the first split, [Rage] isn't a compelling choice, since its difficulty does not increase much when empowered, so it comes down to eiter [Envy] or [Regret].
 Strategies that kill [Envy] are usually called _Triple Green_ strategies, since they have to deal with the punishing <img class="inline empowered_add"> [Empowered Regret](aspects/regret.html) mechanic.
 Strategies that instead kill [Regret] are called _Double Wall_ strategies, since they will play the <img class="inline empowered_add"> [Empowered Envy](aspects/envy.html) mechanic. [UNIT](../unit/overview.html) strat, one of the most common strategies used by PUG groups, is a Double Wall strategy.
 
 ### Second Split Phase Choice
 
-In the second split phase, most CM and LCM groups will choose to kill <img class="inline empowered_add"> [Empowered Gluttony](aspects/gluttony.html), beacuse of the permanent <img class="inline insatiable"> [Insatiable] stacks.
-Groups will see [Gluttony] at least six times during a normal run, resulting in an average of 9 <img class="inline insatiable"> [Insatiable] stacks per player, if not abusing orb deletion.
-This would result in an additional ~3k incoming unavoidable damage per second, which is unmanageable without special builds.
-
-In normal CM, it remains to be seen if it is worth leaving Gluttony alive to kill another aspect.
+In the second split phase, LCM groups will choose to kill <img class="inline empowered_add"> [Empowered Gluttony](aspects/gluttony.html). For various reasons, Gluttony is far too punishing to be left aside, since it permanently accumulates unavoidable damage on the entire squad. In normal CM, it remains to be seen if it is worthwil leaving Gluttony alive to kill another aspect.
 
 [Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
 

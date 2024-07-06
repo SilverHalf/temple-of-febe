@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Malice], [Despair] & [Gluttony]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq2.mp4" type="video/mp4">
 </video>
@@ -22,6 +25,7 @@ grand_parent: UNIT Strat
 <img class="divider">
 
 ## Description
+
 This first [Gluttony] is most often where the squad starts getting <img class="inline empowered"> [Empowered](https://wiki.guildwars2.com/wiki/Empowered_(Cerus)). Focus on collecting properly and not failing portals.
 
 ## Sequence
@@ -35,9 +39,9 @@ This first [Gluttony] is most often where the squad starts getting <img class="i
 </details>
 
 ## Variants
-Recently, many squads place this portal to the northwest, to abuse pathfinding. This is because often DPS is enough to phase the boss before the add becomes relevant, and there is always <img class="inline scourge"> [Scourge]'s  <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) for <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) if necessary.
-<details>
-  <summary>Example</summary>
+Recently, many squads place this portal to the northwest to abuse pathfinding. This is because often DPS is enough to phase the boss before the add becomes relevant. There is always <img class="inline scourge"> [Scourge]'s  <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) for <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) if necessary.
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
     <source src="../../videos/phase1/seq2_alt.mp4" type="video/mp4">
   </video>

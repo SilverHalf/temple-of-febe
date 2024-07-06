@@ -11,6 +11,10 @@ grand_parent: UNIT Strat
 # [Gluttony]<sup>2</sup>, [Malice], [Rage]
 {: .center}
 
+
+Difficulty: <img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase3/seq2.mp4" type="video/mp4">
 </video>
@@ -25,7 +29,7 @@ grand_parent: UNIT Strat
 Requires some coordination to collect all [Gluttony] orbs as usual. Otherwise use this sequence to pump damage and psychologically prepare for the following, much more difficult sequence.
 
 ## Sequence
-1. During the <img class="inline empowered_add"> [Envy] in the previous sequence, the <img class="inline chrono"> [Chronomancer] can run out and prepare their portal on <img class="inline triangle"> Triangle.
+1. During the <img class="inline empowered_add"> [Envy] in the previous sequence, the <img class="inline chrono"> [Chronomancer] can run out and prepare their portal on <img class="inline triangle">.
 2. Each subgroup follows their marker to collect all orbs during the two consecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 3. Once players get targeted by <img class="inline empowered_add"> [Malice] the <img class="inline chrono"> [Chronomancer] opens their portal on the boss. All tethered players take the portal and drop the adds on the exit. 
 4. Everyone takes the portal once the indicator for <img class="inline empowered_add"> [Rage] appears, and stack behind the adds, cleaving them down while targeting the boss.

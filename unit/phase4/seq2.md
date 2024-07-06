@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # All Aspect Attacks
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_full">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase4/seq2.mp4" type="video/mp4">
 </video>
@@ -35,7 +38,19 @@ A very difficult part of the fight. The squad will naturally tend to separate an
 
 <details>
   <summary><img class="inline chrono"> Chronomancer POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=559&end=573&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=559&end=589&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+<details>
+  <summary><img class="inline scourge"> Scourge POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=563&end=593&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+<details>
+  <summary><img class="inline herald"> Herald POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/1NhFc7-NlkE?si=DkrrZ457SCPF-Rf5&start=512&end=542&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+<details>
+  <summary><img class="inline virtuoso"> Virtuoso POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/71JEURWXLko?si=YroyfB-PRhH9Z4Tv&start=572&end=602&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Extra Information

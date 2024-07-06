@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Rage], [Regret] & [Envy], [Despair] 
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase1/seq3.mp4" type="video/mp4">
 </video>
@@ -39,21 +42,21 @@ Final sequence of the phase, with some alternatives on positioning and dealing w
 Based on where the Malice was placed in the previous sequence, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
 
 If the add was placed directly east, then the squad can stay at range behind the add and cleave it down while targeting the boss (As shown in the POV).
-<details>
-  <summary>Example</summary>
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
     <source src="../../videos/phase1/seq3_alt2.mp4" type="video/mp4">
   </video>
 </details>
 
 Alternatively, the squad can "ignore" the add and return to the boss after Rage, overall increasing melee uptime and therefore DPS.
-<details>
-  <summary>Example</summary>
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
     <source src="../../videos/phase1/seq3_alt1.mp4" type="video/mp4">
   </video>
 </details>
-The <img class="inline scourge"> [Scourge] can then <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add if necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (dagger 3).
+The <img class="inline scourge"> [Scourge] should always <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add when necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (dagger 3).
 
 
 

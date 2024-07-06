@@ -12,7 +12,7 @@ has_children: true
 
 Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline empowered_add"> **Empowered**, requiring careful coordination from the entire squad to manage the combined mechanics.
 
-- Large difficulty spikes come from the double <img class="inline empowered_add"> [Despair] into double <img class="inline empowered_add"> [Envy], 55s and 130s into the phase. Surviving these sequences intact will determine if you get to 10%.
+- Large difficulty spikes come from double <img class="inline empowered_add"> [Despair] into double <img class="inline empowered_add"> [Envy], 55s and 130s into the phase. Surviving these sequences intact will determine if you get to 10%.
 - <img class="inline empowered_add"> [Rage] & [Gluttony] 100s into the phase, known as "bad collection", is one of the harder mechanics to do correctly, and may result in many stacks on the boss if failed.
 - Transitioning into the final 10% is best done at certain specific moments, otherwise some attacks risk carrying over to the final phase, potentially screwing up the entire run.
 - During this phase, an Embodiment will spawn and perform their attack every 15 seconds.

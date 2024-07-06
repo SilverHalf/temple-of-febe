@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Gluttony], [Malice], [Despair]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_full"><img class="inline star_empty">
+{: .center}
+
 <img class="divider">
 
 <img class="seq-img" src="../../timelines/images/phase4/seq3.svg">

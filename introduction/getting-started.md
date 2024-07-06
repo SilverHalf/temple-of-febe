@@ -10,7 +10,7 @@ has_children: true
 
 Temple of Febe Challenge Mode is one of the most difficult encounters in Guild Wars 2, but it is also one of the most fun encounters, and is overall very satisfying and rewarding when played correctly.
 
-Similarly to other challenging endgame encounters, it can be difficult if not downright impossble to find a group for ToF CM in the public LFG. The complexity of the fight mandates voice chat, and most people interested in running it congregate in external online communities, primarily on [discord](https://discord.com/).
+Similarly to other challenging endgame content, it can be difficult if not downright impossble to find a group for ToF CM in the public LFG. The complexity of the fight mandates voice chat, and most people interested in running it congregate in external online communities, primarily on [discord](https://discord.com/).
 
 There are two communities that regularly host public runs:
 

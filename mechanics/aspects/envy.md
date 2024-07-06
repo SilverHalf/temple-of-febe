@@ -8,16 +8,18 @@ grand_parent: Mechanics
 
 [Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }
 
-# Envious Gaze
+# Envy - Envious Gaze
 {: .center}
 
 <img class="divider">
 
 <img class="attack_gif" src="../../images/mechanics/envy.gif">
 
+<div class="smalltext center">GIF credit: Snowcrows</div>
+
 <img class="divider">
 
-Spawns a wall centered on the boss or the Envy add, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, dealing damage and corrupting all boons on allies it hits, pets and minions included.
+Spawns a wall centered on the boss or the Embodiment of Envy, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, dealing damage and corrupting all boons on allies it hits, pets and minions included.
 
 {: .empowered_description }
 A second wall spawns opposite to the first one, and rotates in the same direction at double the speed. The enemy casting the wall also gains all boons that are corrupted, except for <img class="inline alacrity"> [Alacrity] and <img class="inline quickness"> [Quickness].
@@ -75,7 +77,7 @@ With the empowered version, dealing with the walls is one of the main problems o
 
 Often with empowered walls it is necessary to avoid the fast wall. Jump-dodging the wall with the correct timing will avoid both the damage and the boon corrupt, however, since the damage is usually trivial, most people prefer to just jump. Try to jump while running towards the wall, so your overall clearance is greater. With practice, this becomes very consistent.
 
-Stripping the boons from the boss is very important in case someone get hit by the empowered wall. Common skills for this are <img class="inline revenant"> [Revenant] <img class="inline banish"> [Banish Enchantment] and <img class="inline scourge"> [Scourge]'s <img class="inline necro_three_dagger"> [Dark Pact] (dagger 3) and <img class="inline gorge"> [Gorge] (sword 3 flip skill).
+Stripping the boons from the boss is very important in case someone get hit by the empowered wall. Common skills for this are <img class="inline revenant"> [Revenant]'s <img class="inline banish"> [Banish Enchantment] and <img class="inline scourge"> [Scourge]'s <img class="inline necro_three_dagger"> [Dark Pact] (dagger 3) and <img class="inline gorge"> [Gorge] (sword 3 flip skill).
 
 [Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }
 

@@ -8,7 +8,10 @@ grand_parent: UNIT Strat
 
 [Previous](seq6.html){: .btn } [Next](../phase4.html){: .btn }
 
-# [Gluttony] & [Regret], [Envy] & [Malice], [Despair]
+# [Gluttony] & [Regret], [Envy] & [Malice] ([Despair])
+{: .center}
+
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
 {: .center}
 
 <video class="center" width="90%" controls muted>
@@ -22,7 +25,7 @@ grand_parent: UNIT Strat
 <img class="divider">
 
 ## Description
-The final sequence of phase 3. Nothing mechanically difficult, outside of phasing with the correct timings.
+The final sequence of phase 3. There is nothing mechanically difficult here, but the added challenge of potentially having to hold damage to phase at the right moment should not be underestimated.
 
 ## Normal Sequence
 1. After dodging <img class="inline empowered_add"> [Despair], stack on the boss for the green.

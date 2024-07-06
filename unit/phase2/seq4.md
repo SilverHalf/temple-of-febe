@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Malice], [Gluttony] & [Regret]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq4.mp4" type="video/mp4">
 </video>

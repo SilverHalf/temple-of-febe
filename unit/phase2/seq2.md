@@ -11,6 +11,9 @@ grand_parent: UNIT Strat
 # [Gluttony]<sup>2</sup> & [Malice]<sup>2</sup>, [Rage]
 {: .center}
 
+Difficulty: <img class="inline star_full"><img class="inline star_full"><img class="inline star_empty"><img class="inline star_empty"><img class="inline star_empty">
+{: .center}
+
 <video class="center" width="90%" controls muted>
   <source src="../../videos/phase2/seq2.mp4" type="video/mp4">
 </video>
@@ -26,7 +29,7 @@ Double [Gluttony] and [Malice] give Cerus lots of opportunities for gaining <img
 
 ## Sequence
 1. During <img class="inline empowered_add"> [Envy], the  <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal] on the squad, then once the wall disappears, they <img class="inline blink"> [Blink] out to the eastern edge and open the portal.
-2. Whoever gets targeted by [Malice] takes the portal and drops the add on the edge. The rest of the squad focuses on collecting the two concecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
+2. Whoever gets targeted by [Malice] takes the portal and drops the add on the edge. The rest of the squad focuses on collecting the two consecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/FeedbCorrosive_Poison_Cloudack) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
 3. After the last orb is collected, the <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] eastwards, on top of the Malice add.
 4. Whoever gets targeted by the second Malice takes the portal immediately, the rest of the squad takes it as soon as <img class="inline empowered_add"> [Rage] appears.
 5. Stack behind the adds and cleave them down while targeting the boss.
@@ -52,8 +55,8 @@ Double [Gluttony] and [Malice] give Cerus lots of opportunities for gaining <img
 ## Variants
 It is possible for a <img class="inline chrono"> [Chronomancer] to cover both portals for this sequence, by using <img class="inline cs"> [Continuum Split] on the first one. Since <img class="inline portal"> [Portal] lasts longer than <img class="inline sand-swell"> [Sand Swell], the squad can greed DPS in melee range until Rage is almost complete. Furthermore, the player targeted by [Malice] has an easier time of finding the portal, since it can be opened directly on the boss and is generally more visible.
 
-<details>
-  <summary>Example</summary>
+<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
+  <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
     <source src="../../videos/phase2/seq2_alt.mp4" type="video/mp4">
   </video>
