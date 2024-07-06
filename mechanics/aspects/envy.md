@@ -67,6 +67,7 @@ A second wall spawns opposite to the first one, and rotates in the same directio
 
 - When Cerus casts this ability, the wall will target a random player. When Envy casts it, it will target the boss, except in split phases, where it will target the player who opened the instance. This player can and should bait the wall off the squad to ensure the group is not inconvenienced.
 - The boss's hitbox will deal damage but won't corrupt boons. You can dodge through it if necessary.
+- When Cerus does this attack he will use the voice lines: _"Run... Run..."_ or _"Do not look away."_
 - **BUG:** if cast from the add, the fast wall *will* steal <img class="inline alacrity"> [Alacrity] and <img class="inline quickness"> [Quickness]. This can result in faster, invisible add walls, if the boons don’t run out in time. This usually only happens in groups with very high damage or that are attempting the Embodiment of Sin achievement.
 
 ## Strategy

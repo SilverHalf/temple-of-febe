@@ -71,6 +71,7 @@ Failing a green will instantly defeat the entire squad. Players who recieve two 
 
 - Has a maximum range. If you and the green are on opposite sides of the arena, you won’t die if it fails.
 - In normal CM, current hypothesis is that failed greens deal a massive amount of damage that ignores all forms of invulnerability. This would enable them to ignore the brief invulnerability from going <img class="inline down"> [Downstate], and has the side effect of also invalidating other forms of player invulnerability.
+- This is the only one of Cerus's attacks that does not have any associated voice lines.
 - **BUG:** the green circle has a visual radius of 240, but its actual radius is 360.
 
 ## Strategy

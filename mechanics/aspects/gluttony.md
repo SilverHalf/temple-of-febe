@@ -72,6 +72,7 @@ When <img class="inline empowered_add"> **Empowered**, <img class="inline insati
 - Small orbs give 250-300k <img class="inline barrier"> [Barrier] total. This means that if no other reflect sources are available, a squad would gain more damage from a <img class="inline virtuoso"> [Virtuoso] taking <img class="inline feedback"> [Feedback] over <img class="inline illusions"> [Signet of Illusions].
 - If reflected, small orbs will give <img class="inline barrier"> [Barrier] to players instead of the boss.
 - Dodging through a large orb will not count as a body-block.
+- When Cerus does this attack he will use the voice lines: _"Come to me..."_, _"I feed..."_ or _(laughs)_.
 - **BUG:** if two orbs are collected in rapid succession (within 0.8 seconds), one of the two will despawn without giving <img class="inline insatiable"> [Insatiable]. This can be done relatively easily by a <img class="inline mesmer"> [Mesmer] with <img class="inline blink"> [Blink], but can also be done with other movement skills, such as a <img class="inline scourge"> [Scourge]'s <img class="inline necro_three"> [Path of Gluttony] (sword 3).
 
 ## Strategy

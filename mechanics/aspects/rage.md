@@ -61,6 +61,9 @@ The AoE is much larger.
   </ul>
 </div>
 
+## Extra Information
+- When Cerus does this attack he will use the voice lines: _(screams)_ or _"Back!"_
+
 ## Strategy
 
 Portals are used to move the squad out of the attack’s area of effect, usually either <img class="inline sand-swell"> [Sand Swell] on <img class="inline scourge"> [Scourge] or <img class="inline portal"> [Portal Entre] on <img class="inline mesmer"> [Mesmer].

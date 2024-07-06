@@ -7,21 +7,24 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This website is currently a work in progress! Lots of content is still waiting to be moved over from the old guide.
-If you want to see the old version, you can find it [here](https://templeoffebe.tiiny.site/).
+This page contains a guide to the Temple of Febe Challenge Mode in Guild Wars 2. The objective of this guide is to be both a launch point for players just starting to get into the encounter, and a reference for more experienced players who want to increase their knowledge.
 
-The objective of this guide is to be both a launch point for players just starting to get into the encounter, and a reference for more experienced players who want to increase their knowledge.
+Feel free to search for whatever you're interested in, but the entire guide can also be read sequentially, like a book. Start by clicking the buttons below...
 
-There are four main sections:
+<a href="introduction/getting-started.html">
+<button class="button intro-button" role="link">Getting Started</button>
+</a>
 
-1. An introduction with information about how to get into ToF CM, including communities and tips for getting into your first run.
-2. A full description of every mechanic present in the fight, including effects, mitigation, common strategies, and other useful or interesting information.
-3. A detailed play-by-play breakdown of UNIT strat, one of the most used strategies in PUG groups.
+<a href="mechanics/mechanics.html">
+<button class="button mechanics-button" role="link">Mechanics Reference</button>
+</a>
 
-Feel free to search or navigate to whatever you are interested in, or just:
-
-[Start reading!](introduction/getting-started.html){: .btn .center }
+<a href="unit/overview.html">
+<button class="button strategy-button" role="link">Strategy Guide</button>
+</a>
 
 ### Feedback and Contributions
 
-This guide was made thanks to the help of multiple members of the community, and is open-source! If you feel anything is incorrect or can be made better, you can open an issue [here](https://github.com/SilverHalf/temple-of-febe/issues)! If you have anything you want to contribute, feel free contact me on github or discord.
+This guide was made thanks to the help of multiple members of the community, and is open-source! If you feel anything is incorrect or can be made better, please open an issue [here](https://github.com/SilverHalf/temple-of-febe/issues)! If you have anything you want to contribute, feel free contact me on github or discord.
+
+![Cerus is waiting.](images/TofCroptransparent.png)

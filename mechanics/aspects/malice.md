@@ -81,6 +81,7 @@ Adds have increased health and toughness.
 - Adds are affected by all forms of soft crowd control once <img class="inline resistance"> [Resistance] runs out.
 - Players will receive a sound cue and their screen border will become purple-white when targeted by the tether. Additionally, the remaining time before the tether completes is shown as a timer above their heads.
 - This attack has a maximum range, and if no-one is in it, no tethers will be applied and no adds will spawn.
+- When Cerus does this attack he will use the voice lines: _"To me, return..."_ or _"I hunger for power..."_
 
 ## Strategy
 

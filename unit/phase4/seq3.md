@@ -6,7 +6,7 @@ parent: Final Phase
 grand_parent: UNIT Strat
 ---
 
-[Previous](seq2.html){: .btn }
+[Previous](seq2.html){: .btn } [Useful Links](../../references.html){: .btn }
 
 # [Gluttony], [Malice], [Despair]
 {: .center}
@@ -30,7 +30,7 @@ Here it's do or die: most squads will wipe soon after the final <img class="inli
 3. If <img class="inline empowered_add"> [Despair] spawns: spread, dps, pray.
 4. [You are dead.](https://www.youtube.com/watch?v=dNQs_Bef_V8)
 
-[Previous](seq3.html){: .btn }
+[Previous](seq2.html){: .btn } [Useful Links](../../references.html){: .btn }
 
 [Gluttony]: ../../mechanics/aspects/gluttony.html
 [Malice]: ../../mechanics/aspects/malice.html

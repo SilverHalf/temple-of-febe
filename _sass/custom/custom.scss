@@ -1,6 +1,7 @@
 @import 'mechtable.scss';
 @import 'timeline.scss';
 @import 'images.scss';
+@import 'buttons.scss';
 
 .inline { height: 1em; }
 
@@ -64,5 +65,7 @@ summary::marker {
 	color: $phase2;
 	font-size: 1.2em;
 }
-  
-  
+
+.site-logo {
+    background-position: right center;
+  }

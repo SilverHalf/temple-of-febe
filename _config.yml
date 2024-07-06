@@ -11,6 +11,7 @@ aux_links:
 aux_links_new_tab: true
 
 favicon_ico: "/images/favicon.ico"
+logo: "/images/TofCroptransparent.png"
 
 callouts:
   empowered_description:
