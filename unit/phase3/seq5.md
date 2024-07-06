@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Double Drops and Walls II
+title: T-Drop
 nav_order: 5
 parent: Third Phase
 grand_parent: UNIT Strat
@@ -22,9 +22,9 @@ grand_parent: UNIT Strat
 <img class="divider">
 
 ## Description
-Another pair of <img class="inline empowered_add"> [Despair] need to be placed far from the boss. While placing them, the squad must also deal with a set of <img class="inline empowered_add"> [Malice] (we can avoid the second one with a sneaky trick!).
+Another pair of <img class="inline empowered_add"> [Despair] need to be placed far from the boss, usually in a T shape. While placing them, the squad must also deal with a set of <img class="inline empowered_add"> [Malice].
 
-The sequence also features challenging overlaps between <img class="inline empowered_add"> [Despair] and <img class="inline empowered_add"> [Envy], and [Gluttony] and <img class="inline empowered_add"> [Envy]. Oh and [Regret] is in there too, somewhere.
+The sequence also features challenging overlaps between <img class="inline empowered_add"> [Despair] and <img class="inline empowered_add"> [Envy], and [Gluttony] and <img class="inline empowered_add"> [Envy].
 
 ## Sequence
 1. As soon as <img class="inline empowered_add"> [Malice] chooses targets, everyone quickly takes the <img class="inline portal"> [Portal] to the <img class="inline xmarks"> marker. The players targeted by tethers should drop the adds on top of the portal exit.

@@ -11,7 +11,8 @@ OUTPUT_DIR = os.path.join(current_dir, "images")
 def main():
     sequences = load_json(SEQUENCES_FILE)
     for filename, seq, in sequences.items():
-        create_timelines(filename, seq)
+        if filename == "phase4.json":
+            create_timelines(filename, seq)
 
 def create_timelines(filename: str, sequences: dict):
     output_dir = os.path.join(OUTPUT_DIR, filename.removesuffix(".json"))
