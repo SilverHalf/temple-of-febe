@@ -72,9 +72,9 @@ The AoEs and pools double in radius. Pools additionally ignore <img class="inlin
 
 ## Strategy
 
-Wait until the AoE indicator is almost full, then dodge. If done correctly, this will result in the pool dropping at the start of the dodge, and the you will not take any damage. **Make sure not to dodge early**. Early dodges place your pool where your teammates finish their own dodge, potentially killing them! Alternatively, you can use the orbs above your head as a cue: try to dodge when they fall.
+Wait until the AoE indicator is almost full, then dodge. If done correctly, this will result in the pool dropping at the start of the dodge, and you will not take any damage. **Make sure not to dodge early**. Early dodges place your pool where your teammates finish their own dodge, potentially killing them! Alternatively, you can use the orbs above your head as a cue: try to dodge when they fall.
 
-<img class="inline mesmer"> [Mesmer] can use <img class="inline distort"> [Distortion] to avoid both components of the attack when unempowered. When <img class="inline empowered_add"> Empowered, <img class="inline distort"> [Distortion] does not work on the pools, so instead use it to stop the initial damage, walk a bit and then roll out of the pools, taking advantage of the delay before the first pulse. 
+<img class="inline mesmer"> [Mesmer] can use <img class="inline distort"> [Distortion] to avoid both components of the attack when unempowered. When <img class="inline empowered_add"> Empowered, <img class="inline distort"> [Distortion] does not work on the pools, so instead use it to stop the initial damage, walk a bit and then roll out, taking advantage of the delay before the first pulse. 
 
 Other classes can emulate this by dodging the initial damage, and then using a mobility skill to quickly get out of the pools before taking any damage.
 

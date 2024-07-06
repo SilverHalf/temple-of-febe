@@ -14,7 +14,7 @@ Similarly to other challenging endgame content, it can be difficult if not downr
 
 There are two communities that regularly host public runs:
 
-- The <img class="inline tof_icon"> [Temple of Febe CM](https://discord.gg/GBWkn3Az){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
+- The <img class="inline tof_icon"> [Temple of Febe CM](https://discord.gg/tofcm){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
 
 - The <img class="inline vl_icon"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700}  discord server, created originally for Harvest Temple Challenge Mode, has since expanded also to ToF CM.
 
