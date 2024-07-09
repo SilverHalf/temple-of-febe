@@ -9,11 +9,10 @@ has_children: true
 
 # UNIT Strat
 
-This strategy was developed by the homonymous for accessibility and role compression in LCM runs. In involves having the two healers manage most of the mechanics, at the cost of more squad movement and less dps uptime.
+This strategy was developed by the homonymous guild for accessibility and role compression in LCM runs. In involves having the two healers manage most of the mechanics, at the cost of more squad movement and less dps uptime.
 UNIT is one of the most commonly used strategies for LCM, since it is easy to fill groups, it is overall more forgiving to mistakes, and it frees up strong defensive options for the DPS players.
 
-On the other hand, the entire strategy is built around <img class="inline virtuoso"> [Condition Virtuoso], allowing little freedom to play other DPS builds.
-
+On the other hand, the entire strategy is built around <img class="inline virtuoso"> [Condition Virtuoso], making it stand head and shoulders above other DPS builds on this encounter, due to its unparalleled ranged cleave and defensive utility.
 ## General Concepts
 
 Portals throughout the fight are usually done by a heal <img class="inline scourge"> [Scourge] with <img class="inline sand-swell"> [Sand Swell] and by a <img class="inline chrono"> [Chronomancer] with <img class="inline portal"> [Portal Entre].
@@ -35,7 +34,7 @@ Second subgroup:
 - Another <img class="inline quickness"> [QuickDPS](https://wiki.guildwars2.com/wiki/Quickness) as above.
 - Three more <img class="inline virtuoso"> [Condition Virtuoso].
 
-<img class="inline virtuoso"> [Condition Virtuoso] is _by far_ the best DPS build for this encounter, both for utility and for damage (R.I.P <img class="inline deadeye"> [Deadeye](https://wiki.guildwars2.com/wiki/Deadeye), you will be [missed](https://gw2wingman.nevermindcreations.de/log/29895-20240510-212219_tmplfeb_kill)). While you can use other builds, and it [can work](https://gw2wingman.nevermindcreations.de/log/YgJz-20240426-202340_cerus), make sure that you know what you are doing!
+Again, <img class="inline virtuoso"> [Condition Virtuoso] is _by far_ the best DPS build for this encounter, both for utility and for damage (R.I.P <img class="inline deadeye"> [Deadeye](https://wiki.guildwars2.com/wiki/Deadeye), you will be [missed](https://gw2wingman.nevermindcreations.de/log/29895-20240510-212219_tmplfeb_kill)). This does not mean you cannot use [other builds](https://gw2wingman.nevermindcreations.de/log/YgJz-20240426-202340_cerus), however, it is best that you gain confidence with the fight before attempting to do so.
 
 A final note on <img class="inline virtuoso"> [Condition Virtuoso]: most people will want to use a [modified version](http://en.gw2skills.net/editor/?PiwAgy3lVwQYKsEmLW6WdxdA-DyQY/o9oLrEaJzxoQaFvA89CIIBx2/tQ/DGUB-e) of the [normal build](https://snowcrows.com/builds/raids/mesmer/condition-virtuoso), which is optimized to use <img class="inline peppercorn"> [Spherified Peppercorn-Spiced Oyster Soup](https://wiki.guildwars2.com/wiki/Spherified_Peppercorn-Spiced_Oyster_Soup) for added survivability. This is extremely important, especially for the final 10% phase in LCM.
 

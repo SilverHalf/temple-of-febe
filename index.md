@@ -7,12 +7,12 @@ nav_order: 1
 # Welcome!
 {: .center}
 
-This page contains a guide to the Temple of Febe Challenge Mode in Guild Wars 2. The objective of this guide is to be both a launch point for players just starting to get into the encounter, and a reference for more experienced players who want to increase their knowledge.
+This website contains a guide to the Temple of Febe Challenge Mode in Guild Wars 2. The objective of this guide is to be both a launch point for players just starting to get into the encounter, and a reference for more experienced players who want to increase their knowledge.
 
-Feel free to search for whatever you're interested in, but the entire guide can also be read sequentially, like a book. Start by clicking the buttons below...
+The entire guide can be read sequentially using the "Previous" and "Next" buttons present on most pages, but feel free to search or navigate to whatever most interests you.
 
 <a href="introduction/getting-started.html">
-<button class="button intro-button" role="link">Getting Started</button>
+<button class="button intro-button" role="link">Start Reading</button>
 </a>
 
 <a href="mechanics/mechanics.html">

@@ -30,7 +30,7 @@ A simple and straightforward opening sequence. A [Malice] add needs to be placed
 ## Sequence
 1. Glide into the arena and stack in the green in front of the boss.
 2. Shortly after the green pops, the <img class="inline scourge"> [Scourge] places their <img class="inline sand-swell"> [Sand Swell] a bit south of the boss, going southwards. More distance means more time to DPS the add.
-3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or remain on the portal exit and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so that their add drops in the middle of the squad. <img class="inline dodge"> Dodge _foreward_ once [Despair] drops.
+3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or remain on the portal exit and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so that their add drops in the middle of the squad. <img class="inline dodge"> Dodge _forward_ once [Despair] drops.
 4. Stack up behind the add and cleave it down while targeting the boss. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
 
 <details>
@@ -43,7 +43,7 @@ A simple and straightforward opening sequence. A [Malice] add needs to be placed
 </details> 
 
 ## Extra Information
-- If the exit of the <img class="inline sand-swell"> [Sand Swell] is placed too far to the east, the add will do some strange pathfinding that will make it more difficult to cleave (see [Malice] for more information). If in doubt, place the portal more towards <img class="inline star">.
+- If the exit of the <img class="inline sand-swell"> [Sand Swell] is placed too far to the east, the add will do some strange pathfinding that will make it more difficult to cleave (see [Malice] for more information). If in doubt, aim the portal more towards <img class="inline star">.
 - <img class="inline herald"> [Heralds](https://wiki.guildwars2.com/wiki/Herald) can return to the boss to deal some additional damage after the spread, if cleave is good enough. Otherwise they should stay at range and help kill the add.
 - Healers should be ready to condition cleanse and re-apply boons in case someone gets hit by the wall.
 

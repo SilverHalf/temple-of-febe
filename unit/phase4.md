@@ -15,8 +15,8 @@ The most difficult part of the fight. Ever-increasing damage superimposed on rel
 - Cerus will start casting his [Enraged Smash] every four seconds, progressively gaining more stacks of <img class="inline empowered"> [Empowered]. Meanwhile, a new Aspect will spawn and perform their mechanic every 5 seconds.
 - The superposition of other damage sources with the [Enraged Smash] is one of the most common reason for downs. Most commonly this happens with [Regret] or <img class="inline empowered_add"> [Malice].
 - Large difficulty spikes come from the <img class="inline empowered_add"> [Despair] stacks, 5 and 35 seconds into the phase. Failing a dodge here means death for the offender.
-- 65-70 seconds is usually the limit for concluding this phase: beyond this point, the combination of a third Despair, adds walkind in and the boss usually having 50+ <img class="inline empowered"> [Empowered] is almost always a wipe.
-- Detailed rotations for healing this phase for many classes are available in Minas's [spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1DLKL0aOoxAxW7RoQwaEpQCWjzMpPoqugMgocI53ARGM/edit%23gid%3D316003762&sa=D&source=editors&ust=1720029091297141&usg=AOvVaw06F124pJ6zsN9mc72J2zzb).
+- 65-70 seconds is usually the limit for concluding this phase: beyond this point, the combination of a third Despair, adds walking in and the boss usually having more than 50 <img class="inline empowered"> [Empowered] is almost always a wipe.
+- Detailed rotations for healing this phase with many classes are available in Minas's [spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1DLKL0aOoxAxW7RoQwaEpQCWjzMpPoqugMgocI53ARGM/edit%23gid%3D316003762&sa=D&source=editors&ust=1720029091297141&usg=AOvVaw06F124pJ6zsN9mc72J2zzb).
 - <img class="inline virtuoso"> [Virtuosos](https://wiki.guildwars2.com/wiki/Virtuoso) should not use their healing skill during this phase: the passive healing is more important than the phantasm reset. Only use it if you need the active heal.
 
 ### Full Timeline

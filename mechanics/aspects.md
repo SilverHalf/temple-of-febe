@@ -59,7 +59,7 @@ Strategies that instead kill [Regret] are called _Double Wall_ strategies, since
 
 In the second split phase, LCM groups will choose to kill <img class="inline empowered_add"> [Empowered Gluttony](aspects/gluttony.html). Gluttony is far too punishing to be left alive, since it permanently accumulates unavoidable damage on the entire squad.
 
-In normal CM, it remains to be seen if it is worthwile leaving Gluttony alive to kill another aspect.
+In normal CM, it remains to be seen if it is worthwhile leaving Gluttony alive to kill another aspect.
 
 [Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
 
