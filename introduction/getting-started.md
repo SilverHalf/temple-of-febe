@@ -18,7 +18,7 @@ Being full of players who regularly play the encounter, these communities are _i
 
 - The <img class="inline tof_icon"> [Temple of Febe CM](https://discord.gg/tofcm){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
 
-- The <img class="inline vl_icon"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700}  discord server, created originally for Harvest Temple Challenge Mode, has since expanded also to ToF CM.
+- The <img class="inline vl_icon"> [Void Lounge](https://discord.gg/voidlounge){: .text-purple-000 .fw-700}  discord server, created originally for Harvest Temple Challenge Mode, has since expanded also to ToF CM.
 
 I highly recommend joining one or both of these servers.
 
