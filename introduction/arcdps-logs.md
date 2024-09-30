@@ -36,8 +36,7 @@ If you don't want to go through the hassle of manually uploading all of your log
 
 ![Example Analyzer image](../images/introduction/log_analysis.webp)
 
-<img class="inline vl_icon"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700} has made publicly available a tool for analysing ToF logs, which can be found [here](https://www.canva.com/design/DAGGnJ1LIB4/HoUWoNJyV-EO01MweQL0Aw/view).
-
+<img class="inline vl_icon"> [Void Lounge](https://discord.gg/UXmjTayf){: .text-purple-000 .fw-700} has made publicly available a tool for analysing ToF logs, which can be found [here](https://www.canva.com/design/DAGQNkGsYKI/mS7L-t1w5Of_kzcPNqMuxQ/view?utm_content=DAGQNkGsYKI)
 This tool grades various aspects of your performance, and can be very helpful to understand if you're doing anything wrong. An average score of 5/10 or above is decent, average scores of 8/10 or above are abnormally good. The page also contains useful guidelines for _reading_ a log and understanding what is expected of your role.
 
 [Previous](getting-started.html){: .btn } [Next](lcm.html){: .btn }
