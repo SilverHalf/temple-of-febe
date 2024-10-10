@@ -1,31 +1,26 @@
-.intro-button {
-    background-image: url(../../images/intro.webp); 
+.index-button {
     background-size: cover;
     border-radius: 15px;
     border-color: #ff9090;
     width: 100%;
-    height: 200px; 
-    font-size: 2rem;
-    color: rgb(255, 255, 255);
-}
-
-.mechanics-button {
-    background-image: url(../../images/library.webp); 
-    background-size: cover;
-    border-radius: 15px;
-    border-color: #ff9090;
-    width: 100%; 
-    height: 200px; 
-    font-size: 2rem;
-}
-
-.strategy-button {
-    background-image: url(../../images/strategy.webp); 
-    background-size: cover;
-    border-radius: 15px;
-    border-color: #ff9090;
-    width: 100%; 
-    height: 200px; 
+    height: 200px;
     font-size: 2rem;
     color: white;
+}
+
+.index-button:hover {
+    cursor: pointer;
+    border-color: white;
+}
+
+.intro-index {
+    background-image: url(../../images/intro.webp); 
+}
+
+.mechanics-index {
+    background-image: url(../../images/library.webp); 
+}
+
+.strategy-index {
+    background-image: url(../../images/strategy.webp); 
 }
