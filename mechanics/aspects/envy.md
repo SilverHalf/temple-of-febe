@@ -71,11 +71,11 @@ A second wall spawns opposite to the first one, and rotates in the same directio
 
 ## Strategy
 
-When cast from the boss, tt is important that the squad is stacked tightly before this mechanic, so as to consistently bait it towards the same direction. Avoiding the attack in its normal version then becomes as simple as sidestepping it to the left, and then following it around the boss. 
+When cast from the boss, it's important to stack tightly before the mechanic, so as to consistently bait it towards the same direction. Avoiding the attack in its normal version then becomes as simple as sidestepping it to the left, and then following it around the boss. 
 
 With the empowered version, dealing with the walls is one of the main problems of encounter strategy, and the solution varies based on the instant in the fight where the mechanic occurs.
 
-Often with empowered walls it is necessary to avoid the fast wall. Jump-dodging the wall with the correct timing will avoid both the damage and the boon corrupt, however, since the damage is usually trivial, most people prefer to just jump. Try to jump while running towards the wall, so your overall clearance is greater. With practice, this becomes very consistent.
+With empowered walls, jump-dodging the wall with the correct timing will avoid both the damage and the boon corrupt. However, since the damage is usually trivial, most people prefer to just jump. Try to jump while running towards the wall, so your overall clearance is greater. With practice, this becomes very consistent.
 
 In case someone get hit by the empowered wall, players should be ready to remove boons from the boss. Common skills for this are <img class="inline revenant"> [Revenant]'s <img class="inline banish"> [Banish Enchantment] and <img class="inline scourge"> [Scourge]'s <img class="inline necro_three_dagger"> [Dark Pact] (dagger 3) and <img class="inline gorge"> [Gorge] (sword 3 flip skill). Supports should also be prepared to cleanse conditions and re-apply boons to their subgroups.
 
