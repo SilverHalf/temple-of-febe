@@ -15,13 +15,12 @@ parent: UNIT Strat
 
 <img class="divider">
 
-Cerus will separate into his Aspects, which will start doing attacks. The first attack will almost always be [Gluttony], while the second one and on are random.
+Cerus will separate into his Aspects, which will start doing attacks. The first attack will almost always be [Gluttony], while the second and further are random.
 - The squad should kill <img class="inline empowered_add">[Regret], so as to disable the Triple Green mechanic.
 - Do your full DPS rotation on the add, _never_ skillsave. With enough damage, the squad can skip the second mechanic, which can be crucial in case the mechanic is <img class="inline empowered_add">[Regret] (see Scourge/Chrono PoV for an example).
 - The two healers and a quickness should go collect Gluttony. Sort out which quickness goes beforehand.
-- <img class="inline feedback"> [Feedback] or  <img class="inline cpc"> [Corrosive Poison Cloud] can be used on Gluttony, stopping Cerus from respawning with a small amount of barrier.
 - Whoever opened instance should stand _west_ of the squad to bait <img class="inline empowered_add"> [Envy], in case it performs its attack. The rest of the squad should be ready to jump the fast wall.
-- The <img class="inline scourge"> [Scourge] can <img class="inline sand-swell"> [Sand Swell] from the center of the arena to Regret while returning from collecting. Everyone can then take it back once the add is killed.
+- <img class="inline sand-swell"> [Sand Swell] can be used from the center of the arena to Regret. Everyone can then take it back once the add is killed.
 
 <details>
   <summary><img class="inline chrono"> Chronomancer POV</summary>

@@ -38,8 +38,8 @@ This first [Gluttony] is most often where the squad starts getting <img class="i
   <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=38&end=63&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
-## Variants
-Recently, many squads place this portal to the northwest to abuse pathfinding. This is because often DPS is enough to phase the boss before the add becomes relevant. There is always <img class="inline scourge"> [Scourge]'s  <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) for <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) if necessary.
+## Advanced Version
+If the squad played the advanced version for the previous sequence, the <img class="inline chrono"> [Chronomancer] can place their second portal in the same place where they place their first. During the spreads, the  <img class="inline scourge"> [Scourge] should weapon swap to dagger, and use <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) to <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the Malice add coming from the north of the arena.
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>

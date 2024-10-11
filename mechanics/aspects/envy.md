@@ -68,17 +68,16 @@ A second wall spawns opposite to the first one, and rotates in the same directio
 - When Cerus casts this ability, the wall will target a random player. When Envy casts it, it will target the boss, except in split phases, where it will target the player who opened the instance. This player can and should bait the wall off the squad to ensure the group is not inconvenienced.
 - The boss's hitbox will deal damage but won't corrupt boons. You can dodge through it if necessary.
 - When Cerus does this attack he will use the voice lines: _"Run... Run..."_ or _"Do not look away."_
-- **BUG:** if cast from the add, the fast wall *will* steal <img class="inline alacrity"> [Alacrity] and <img class="inline quickness"> [Quickness]. This can result in faster, invisible add walls, if the boons don’t run out in time. This usually only happens in groups with very high damage or that are attempting the Embodiment of Sin achievement.
 
 ## Strategy
 
-With the normal version, avoiding this attack is as simple as sidestepping it to the left, and then following it around the boss.
+When cast from the boss, tt is important that the squad is stacked tightly before this mechanic, so as to consistently bait it towards the same direction. Avoiding the attack in its normal version then becomes as simple as sidestepping it to the left, and then following it around the boss. 
 
 With the empowered version, dealing with the walls is one of the main problems of encounter strategy, and the solution varies based on the instant in the fight where the mechanic occurs.
 
 Often with empowered walls it is necessary to avoid the fast wall. Jump-dodging the wall with the correct timing will avoid both the damage and the boon corrupt, however, since the damage is usually trivial, most people prefer to just jump. Try to jump while running towards the wall, so your overall clearance is greater. With practice, this becomes very consistent.
 
-Stripping the boons from the boss is very important in case someone get hit by the empowered wall. Common skills for this are <img class="inline revenant"> [Revenant]'s <img class="inline banish"> [Banish Enchantment] and <img class="inline scourge"> [Scourge]'s <img class="inline necro_three_dagger"> [Dark Pact] (dagger 3) and <img class="inline gorge"> [Gorge] (sword 3 flip skill).
+In case someone get hit by the empowered wall, players should be ready to remove boons from the boss. Common skills for this are <img class="inline revenant"> [Revenant]'s <img class="inline banish"> [Banish Enchantment] and <img class="inline scourge"> [Scourge]'s <img class="inline necro_three_dagger"> [Dark Pact] (dagger 3) and <img class="inline gorge"> [Gorge] (sword 3 flip skill). Supports should also be prepared to cleanse conditions and re-apply boons to their subgroups.
 
 [Previous](../aspects.html){: .btn } [Next](malice.html){: .btn }
 

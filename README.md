@@ -18,7 +18,10 @@ The built site is stored in the directory `_site`.
 
 ## Contributing
 
-If you are interested in adding information to the guide or fixing current information, please contact me here or on Discord (silverhalf).
+If you are interested in adding information to the guide or fixing current information, please contact me here or on Discord (silverhalf). Possible additions include:
+
+[] Detailed guides for certain builds and roles in UNIT strat.
+[] Detailed guide for EoS (UNIT variant)
 
 ## Licensing and Attribution
 
@@ -35,3 +38,5 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [Bundler]: https://bundler.io
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
+[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
+[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE

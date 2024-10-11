@@ -11,14 +11,14 @@ has_children: true
 
 This section contains a detailed description of the various attacks and mechanics present in ToF CM. The basic gameplay of the encounter is centered around keeping Cerus's attacks as manageable as possible while staying inside of the enrage timer. The fight **becomes progressively more difficult and unforgiving**, due to two important mechanics:
 
-- Cerus will <img class="inline empowered_add"> **Empowered** some of his recurring attacks, greatly increasing the challenge they pose. The mechanism for which attacks are selected is deterministic, allowing the group to choose which skills get strengthened and enabling various different strategies.
+- Cerus will <img class="inline empowered_add"> **Empower** some of his recurring attacks, greatly increasing the challenge they pose. The mechanism for which attacks are selected is deterministic, allowing the group to choose which skills get strengthened and enabling various different strategies.
 - On failing certain mechanics, Cerus will gain stacks of <img class="inline empowered"> [Empowered], which permanently buff his damage for the rest of the fight.
 
 Minimising and mitigating the effects of these two mechanics is the most crucial aspect of the encounter.
 
 ## Mitigation Tables
 
-Whenever an attack directly affects the players, we will highlight how various skills mitigate its effect using a _Mitigation Table_ such as the following one.
+Whenever an attack directly affects the players, we will highlight how various skills interact with its effects using a table such as the following one.
 <div>
   <ul class="mechtable">
     <li class="table-header">

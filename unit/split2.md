@@ -16,7 +16,7 @@ parent: UNIT Strat
 <img class="divider">
 
 Cerus will again separate into his Aspects, which will start doing attacks. The first attack will almost always be <img class="inline empowered_add"> [Gluttony], while the second one and on are random.
-- Kill <img class="inline empowered_add"> [Gluttony], so as to not deal with permanent <img class="inline insatiable"> [Insatiable] stacks.
+- Kill <img class="inline empowered_add"> [Gluttony].
 - Do your full DPS rotation on the add, _never_ skillsave.
 - In Legendary Mode, you _should not_ collect orbs. Any <img class="inline empowered"> [Empowered] gained by Gluttony will be lost once it dies. In normal CM, you instead _should_ collect, since the <img class="inline insatiable"> [Insatiable] will wear off before it becomes an issue.
 - In LCM, Healers can delete orbs and use <img class="inline feedback"> [Feedback] or  <img class="inline cpc"> [Corrosive Poison Cloud] to reduce the amount of <img class="inline barrier"> [Barrier] gained by Cerus.

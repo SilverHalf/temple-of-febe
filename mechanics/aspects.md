@@ -10,7 +10,7 @@ has_children: true
 
 # Aspects of Cerus
 
-Cerus has six aspects: **Envy**, **Malice**, **Gluttony**, **Despair**, **Rage** and **Regret**. Each aspect corresponds to an add that can spawn throughout the fight in fixed locations, shown in the figure below. Adds resemble miniature versions of Cerus, and are **invulnerable**, except during split phases.
+Cerus has six aspects: **Envy**, **Malice**, **Gluttony**, **Despair**, **Rage** and **Regret**. Each aspect corresponds to an add that can spawn throughout the fight in fixed locations, shown in the figure below. Adds resemble miniature versions of Cerus, and are <img class="inline determined"> [Invulnerable](https://wiki.guildwars2.com/wiki/Invulnerability), except during split phases.
 
 <img class="arena_image" width="80%" src="../images/mechanics/embodiments.webp" />
 
@@ -32,11 +32,11 @@ The six Aspect mechanics are, in no particular order:
 
 More information will be presented for each of these mechanics later.
 
-Since the boss and his aspects always execute their attacks at the same instants each run, the encounter is overall very deterministic. Through practice, most players will eventually memorize these sequences.
+Since the boss and his aspects always execute their attacks at the same instants each run, the encounter is overall very deterministic. Through practice, players should eventually memorize these sequences and be prepared to react to them.
 
 ## Split Phases and Empowered Aspects
 
-At the beginning of each split phase at 80% and 50%, Cerus will gain a <img class="inline defiance"> [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar). Once this is completed, he will disappear and all his Aspects will become visibe and vulnerable in their usual positions. Cerus will not reappear until the squad kills one of them.
+At 80% and 50% health, Cerus will gain a <img class="inline defiance"> [Defiance Bar](https://wiki.guildwars2.com/wiki/Defiance_bar). Once this is broken, he will disappear and all his Aspects will become visible and vulnerable in their usual positions. Cerus will not reappear until the squad kills one of them.
 
 Three Aspects will gain the <img class="inline empowered_add"> **Empowered** effect (which is different from the <img class="inline empowered"> [Empowered] effect). These can be quickly identified due to being noticeably larger than usual.
 
@@ -53,13 +53,11 @@ Since <img class="inline empowered_add"> Empowered skills affect the squad in a 
 
 In the first split, [Rage] isn't a compelling choice, since its difficulty does not increase much when empowered, so it comes down to eiter [Envy] or [Regret].
 Strategies that kill [Envy] are usually called _Triple Green_ strategies, since they have to deal with the punishing <img class="inline empowered_add"> [Empowered Regret](aspects/regret.html) mechanic.
-Strategies that instead kill [Regret] are called _Double Wall_ strategies, since they will play the <img class="inline empowered_add"> [Empowered Envy](aspects/envy.html) mechanic. [UNIT](../unit/overview.html) strat, one of the most common strategies used by PUG groups, is a Double Wall strategy.
+Strategies that instead kill [Regret] are called _Double Wall_ strategies, since they will play the <img class="inline empowered_add"> [Empowered Envy](aspects/envy.html) mechanic. [UNIT](../unit/overview.html) strat, the ubiquitous strategy used by PUG groups, is a Double Wall strategy.
 
 ### Second Split Phase Choice
 
-In the second split phase, LCM groups will choose to kill <img class="inline empowered_add"> [Empowered Gluttony](aspects/gluttony.html). Gluttony is far too punishing to be left alive, since it permanently accumulates unavoidable damage on the entire squad.
-
-In normal CM, it remains to be seen if it is worthwhile leaving Gluttony alive to kill another aspect.
+In the second split phase, almost all groups will choose to kill <img class="inline empowered_add"> [Empowered Gluttony](aspects/gluttony.html). Gluttony is far too punishing to be left alive, since it permanently accumulates unavoidable damage on the entire squad.
 
 [Previous](empowered.html){: .btn } [Next](aspects/envy.html){: .btn }
 

@@ -39,9 +39,9 @@ Final sequence of the phase, with some alternatives on positioning and dealing w
 </details>
 
 ## Variants
-Based on where the Malice was placed in the previous sequence, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
+Based on whether the squad played the previous variants, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
 
-If the add was placed directly east, then the squad can stay at range behind the add and cleave it down while targeting the boss (As shown in the POV).
+If the squad did not play any variants and DPS is low, then the squad can stay at range behind the add and cleave it down while targeting the boss (As shown in the POV). This allows for a bit more time to phase.
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
@@ -49,7 +49,7 @@ If the add was placed directly east, then the squad can stay at range behind the
   </video>
 </details>
 
-Alternatively, the squad can "ignore" the add and return to the boss after Rage, overall increasing melee uptime and therefore DPS.
+Alternatively, if the squad played advanced version of the previous sequences and has enough DPS, they should return to the boss after Rage, overall increasing melee uptime, and phase the boss before the adds reach it. Most experienced groups will manage this with relative ease.
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>

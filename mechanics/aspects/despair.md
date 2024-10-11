@@ -25,7 +25,7 @@ Successively, every AoE will leave a lingering pool where it drops, which deals 
 
 
 {: .empowered_description }
-The AoEs and pools double in radius. Pools additionally ignore <img class="inline distort"> [Distortion] and <img class="inline dodge"> [Evasion], and last until the phase ends. 
+The AoEs and pools double in radius. Pools additionally ignore all forms of <img class="inline determined"> [Invulnerability] and <img class="inline dodge"> [Evasion], and last until the phase ends. 
 
 <div>
   <ul class="mechtable">
@@ -72,18 +72,19 @@ The AoEs and pools double in radius. Pools additionally ignore <img class="inlin
 
 ## Strategy
 
-Wait until the AoE indicator is almost full, then dodge. If done correctly, this will result in the pool dropping at the start of the dodge, and you will not take any damage. **Make sure not to dodge early**. Early dodges place your pool where your teammates finish their own dodge, potentially killing them! Alternatively, you can use the orbs above your head as a cue: try to dodge when they fall.
+It is possible to avoid both the initial drop and the resulting pool by dodging when the AoE is almost full. If done correctly, this will result in the pool dropping at the start of the dodge, and the player not taking any damage. However, the timing is not generous: late dodges will result in the player getting hit by the drop, while early dodges wil place the pool where the teammates finish their own dodge, potentially killing them.
 
-<img class="inline mesmer"> [Mesmer] can use <img class="inline distort"> [Distortion] to avoid both components of the attack when unempowered. When <img class="inline empowered_add"> Empowered, <img class="inline distort"> [Distortion] does not work on the pools, so instead use it to stop the initial damage, walk a bit and then roll out, taking advantage of the delay before the first pulse. 
+Players can use <img class="inline distort"> [Distortion] and other forms of <img class="inline determined"> [Invulnerability] to avoid both components of the attack when unempowered. When <img class="inline empowered_add"> Empowered, <img class="inline determined"> [Invulnerability] does not work on the pools, so the established strategy is to use it to stop the initial damage, and then roll out of the resulting pool during the delay before it first pulses damage. 
 
-Other classes can emulate this by dodging the initial damage, and then using a mobility skill to quickly get out of the pools before taking any damage.
+Other classes can emulate this by dodging the initial drop earlier than usual, and then using a mobility skill to quickly get out of the pools before taking any damage.
 
-<img class="inline virtuoso"> [Virtuoso] can reset the cooldown of their <img class="inline distort"> [Distortion] using <img class="inline illusions"> [Signet of Illusions], ensuring they have it ready for every despair in the fight.
+<img class="inline virtuoso"> [Virtuoso] players can reset the cooldown of their <img class="inline distort"> [Distortion] using <img class="inline illusions"> [Signet of Illusions], ensuring they have it ready for every occurrence of this mechanic.
 
 When <img class="inline empowered_add"> Empowered, the pools take a _huge_ amount of space. Common strategies to keep the arena free involve placing them in organized formations, usually in lines far from the boss.
 
 [Previous](gluttony.html){: .btn } [Next](regret.html){: .btn }
 
+[Invulnerability]: https://wiki.guildwars2.com/wiki/Invulnerability
 [Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
 [Torment]: https://wiki.guildwars2.com/wiki/Torment
 [Distortion]: https://wiki.guildwars2.com/wiki/Distortion

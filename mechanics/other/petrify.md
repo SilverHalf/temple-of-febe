@@ -12,7 +12,7 @@ grand_parent: Mechanics
 
 This attack is performed whenever Cerus gains a <img class="inline defiance"> [Defiance Bar], at 80%, 50% and 10% HP.
 
-Cerus will tether to each player, applying a stack of <img class="inline petrify"> [Petrify], with an additional stack applied 0.7 seconds for 7 seconds. Stacks have individual duration, and reduce outgoing damage, speed and casting speed by 10% for 7 seconds. At 10 stacks, players are stunned for 8 seconds. This stun cannot be impeded or broken.
+Cerus will tether to each player, applying a stack of <img class="inline petrify"> [Petrify], with an additional stack applied every 0.7 seconds for 7 seconds. Stacks have individual duration, and reduce outgoing damage, speed and casting speed by 10% for 7 seconds. At 10 stacks, players are stunned for 8 seconds. This stun cannot be impeded or broken.
 
 The attack can be interrupted by breaking Cerus’ <img class="inline defiance"> [Defiance Bar]. This removes the two stacks with the longest duration remaining.
 

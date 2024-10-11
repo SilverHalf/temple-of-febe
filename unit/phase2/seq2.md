@@ -52,15 +52,17 @@ Double [Gluttony] and [Malice] give Cerus lots of opportunities for gaining <img
 - <img class="inline sand-swell"> [Sand Swell] should generally be opened early to let the player targeted by [Malice] more easily find the entrance,and it will likely despawn before the Rage wind-up animation is finished. Some <img class="inline scourge"> [Scourge] players will call out the remaining time in voice chat, but generally its best to take the portal the moment Rage appears.
 - The player targeted by the second [Malice] should try to drop their add on top of the previous one, to make cleaving them together easier.
 
-## Variants
-It is possible for a <img class="inline chrono"> [Chronomancer] to cover both portals for this sequence, by using <img class="inline cs"> [Continuum Split] on the first one. Since <img class="inline portal"> [Portal] lasts longer than <img class="inline sand-swell"> [Sand Swell], the squad can greed DPS in melee range until Rage is almost complete. Furthermore, the player targeted by [Malice] has an easier time of finding the portal, since it can be opened directly on the boss and is generally more visible.
+## Advanced Version
+It is possible for a <img class="inline chrono"> [Chronomancer] to cover both portals for this sequence, by using <img class="inline cs"> [Continuum Split] on the first one. Since <img class="inline portal"> [Portal] lasts longer than <img class="inline sand-swell"> [Sand Swell], the squad can greed DPS in melee range until Rage is almost complete. Furthermore, the player targeted by [Malice] has an easier time of finding the portal, since it can be opened directly on the boss and is generally more visible. Most experienced groups will use this strategy.
 
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
     <source src="../../videos/phase2/seq2_alt.mp4" type="video/mp4">
   </video>
-</details> 
+</details>
+
+Confident <img class="inline chrono"> [Chronomancer]s can delay opening their portal as much as possible: this allows melee players to take it back after the [Rage] and increase their damage uptime. 
 
 [Previous](seq1.html){: .btn } [Next](seq3.html){: .btn }
 

@@ -65,7 +65,6 @@ Once the Despair have been placed, the squad must then deal with a double <img c
 - For the first set of spreads, the <img class="inline chrono"> [Chronomancer] can stack far off group and then <img class="inline blink"> [Blink] to <img class="inline square"> after they drop, giving a bit more space to the others.
 - After the second dodge, the pools on the left facing the boss are purely visual. Don't hesitate to walk through them to cleave the <img class="inline empowered_add"> [Malice].
 - The adds will die relatively easily in normal CM. In Legendary Mode, it is crucial that all <img class="inline virtuoso"> [Virtuosos] save their <img class="inline thousand"> [Thousand Cuts] and use it on the second set of Malices. Similarly it is also extremely important that everyone stacks precisely on <img class="inline square"> so that they are neatly stacked far from the boss.
-- <img class="inline scourge"> [Scourge] players can cast their <img class="inline revive"> [Garish Pillar] immediately after the second dodge to save anyone who downed in the pools.
 - After jumping the fast wall, support players should cleanse conditions, strip boons from Cerus and re-apply boons on the squad in case anyone failed their jump.
 
 [Previous](seq2.html){: .btn } [Next](seq4.html){: .btn }

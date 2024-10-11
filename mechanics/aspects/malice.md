@@ -19,16 +19,14 @@ grand_parent: Mechanics
 
 <img class="divider">
 
-Targets a random player with a tether. After 5 seconds, the tether will complete, applying a DoT and spawning an add on the player's location.
+Targets a random player with a tether. After 5 seconds, the tether will complete, applying a damage-over-time effect and spawning an add on the player's location.
 
 The add will start walking toward Cerus. If it reaches him, it will be sacrificed, and Cerus will gain 5 stacks of <img class="inline empowered"> [Empowered] and 95k <img class="inline barrier"> [Barrier].
 
-Adds are immune to hard crowd control, and spawn with <img class="inline resistance"> [Resistance] that cannot be corrupted or removed, and lasts  for 30 seconds.
-
-Adds take more power damage due to having reduced toughness.
+Adds are immune to hard crowd control, and spawn with <img class="inline resistance"> [Resistance] that cannot be corrupted or removed. The <img class="inline resistance"> [Resistance] lasts for 30 seconds, expiring just before the add reaches the boss.
 
 {: .empowered_description }
-Three people will be targeted by tethers, resulting in three adds spawning.
+Three players will be targeted by tethers, resulting in three adds spawning.
 
 {: .legendary}
 Adds have increased health and toughness.
@@ -73,25 +71,26 @@ Adds have increased health and toughness.
 
 ## Extra Information
 
-- The behaviour with <img class="inline resistance"> [Resistance] running out before the adds reach the boss has been confirmed as intended.
-- Adds have 2252 toughness in normal CM, giving power damage a +15.3% damage boost. In legendary CM, they instead have the normal 2597 toughness, making condition damage as effective as power.
+- Adds have 2252 toughness in normal CM, compared to the global standard of 2597, meaning that power damage is +15.3% more effective. In legendary CM, they instead have standard toughness.
 - Adds have 630'960  HP in normal CM. In legendary CM, they instead have 1 million HP.
 - If placed in certain areas on the east side of the platform, adds will pathfind to a point just north or south of the boss, instead of directly towards it, as shown in the figure.
 <img class="arena_image" width="70%" src="../../images/mechanics/pathing.webp" />
-- Adds are affected by all forms of soft crowd control once <img class="inline resistance"> [Resistance] runs out.
+- Adds are affected by all forms of soft crowd control once their <img class="inline resistance"> [Resistance] runs out.
 - Players will receive a sound cue and their screen border will become purple-white when targeted by the tether. Additionally, the remaining time before the tether completes is shown as a timer above their heads.
 - This attack has a maximum range, and if no-one is in it, no tethers will be applied and no adds will spawn.
 - When Cerus does this attack he will use the voice lines: _"To me, return..."_ or _"I hunger for power..."_
 
 ## Strategy
 
-Malice is usually dealt with by using portals, usually either a <img class="inline scourge"> [Scourge]'s <img class="inline sand-swell"> [Sand Swell] or a <img class="inline mesmer"> [Mesmer]'s <img class="inline portal"> [Portal Entre], to drop the adds far from the boss.
+Malice is dealt with by spawning the adds far from the boss, usually using portals such as <img class="inline scourge"> [Scourge]'s <img class="inline sand-swell"> [Sand Swell] or a <img class="inline mesmer"> [Mesmer]'s <img class="inline portal"> [Portal Entre].
 
-Some strategies place the adds on the edge of the arena, and wait for their <img class="inline resistance"> [Resistance] to expire while they are walking to the boss. This way they can <img class="inline immobile"> [Immobilize] and kill them in melee while maintaining DPS uptime. In this case, placing the adds within the zones depicted above, as much to the east as possible, will ensure that they are as far as possible from the boss when they lose their <img class="inline resistance"> [Resistance], giving the squad more time to comfortably kill them.
+Once placed on the edge of the arena, the adds will start walking towards the center, and can be <img class="inline immobile"> [Immobilized] and killed in melee once their <img class="inline resistance"> [Resistance] expires. Placing the adds within the zones depicted above, on the eastern edge of the platform, will ensure that they are as far as possible from the boss when they lose their <img class="inline resistance"> [Resistance], giving the squad more time to comfortably kill them.
 
-Other strategies proactively position the squad so that the adds die before they even reach the boss.
+In some situations it's instead convenient to proactively position the squad so that the adds are cleaved down before they can pose a problem.
 
-<img class="inline" src="../../images/icons/block.png" valign="middle"> [Blocking](https://wiki.guildwars2.com/wiki/Block) the DoT effect is recommended, especially in the final 10% when the healers are already under pressure.
+With decent DPS, it is often possible to phase the boss so that the adds despawn without requiring further action on the squad's behalf.
+
+<img class="inline" src="../../images/icons/block.png" valign="middle"> [Blocking](https://wiki.guildwars2.com/wiki/Block) the damage over time effect is recommended, especially in the final 10% when the healers are already under pressure.
 
 [Previous](envy.html){: .btn } [Next](gluttony.html){: .btn }
 
@@ -102,4 +101,4 @@ Other strategies proactively position the squad so that the adds die before they
 [Sand Swell]: https://wiki.guildwars2.com/wiki/Sand_Swell
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
 [Portal Entre]: https://wiki.guildwars2.com/wiki/Portal_Entre
-[Immobilize]: https://wiki.guildwars2.com/wiki/Immobile
+[Immobilized]: https://wiki.guildwars2.com/wiki/Immobile

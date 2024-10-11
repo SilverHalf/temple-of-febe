@@ -49,12 +49,12 @@ Cerus will gain three <img class="inline empowered"> [Empowered] stacks whenever
 
 ## Strategy
 
-This skill's existence imposes a soft limit on the number of <img class="inline empowered"> [Empowered] stacks you can let Cerus gain before getting to the final phase. This is much more pronounced in legendary CM, where it becomes extremely difficult to keep the squad alive if the final phase begins with 10 or more stacks.
+This skill's existence imposes a soft limit on the number of <img class="inline empowered"> [Empowered] stacks you can let Cerus gain before getting to the final phase. This is especially pronounced in legendary CM, where it becomes extremely difficult to keep the squad alive if the final phase begins with 10 or more stacks.
 
 ![Enraged Smash Damage](../../images/mechanics/smash.svg)
 {: .center}
 
-The figure above shows the minimum survival time in the final LCM phase for two damage builds: a normal, raid-ready <img class="inline virtuoso"> [Condition Virtuoso](https://snowcrows.com/builds/raids/mesmer/condition-virtuoso), and a modified [version](http://en.gw2skills.net/editor/?PiwAgy3lVwQYKsEmLW6WdxdA-DyQY/o9oLrEaJzxoQaFvA89CIIBx2/tQ/DGUB-e) of the same build that is running <img class="inline peppercorn"> [Spherified Peppercorn-Spiced Oyster Soup](https://wiki.guildwars2.com/wiki/Spherified_Peppercorn-Spiced_Oyster_Soup) for more survivability. There is about a +/-5% variance in the damage dealt by each smash, so each build starts running the risk of getting oneshot at 45 and 53 <img class="inline empowered"> [Empowered] respectively. With the Peppercorn build, if starting at 0 stacks, this means around 68 seconds into the phase. If starting at 10 <img class="inline empowered"> [Empowered], this is lowered to 52 seconds, a much tighter interval.
+The figure above shows the minimum survival time in the final LCM phase for two DPS builds: a normal, raid-ready <img class="inline virtuoso"> [Condition Virtuoso](https://snowcrows.com/builds/raids/mesmer/condition-virtuoso), and a modified [version](http://en.gw2skills.net/editor/?PiwAgy3lVwQYKsEmLW6WdxdA-DyQY/o9oLrEaJzxoQaFvA89CIIBx2/tQ/DGUB-e) of the same build that is running <img class="inline peppercorn"> [Spherified Peppercorn-Spiced Oyster Soup](https://wiki.guildwars2.com/wiki/Spherified_Peppercorn-Spiced_Oyster_Soup) for more survivability. There is about a +/-5% variance in the damage dealt by each smash, so each build starts running the risk of getting oneshot at 45 and 53 <img class="inline empowered"> [Empowered] respectively. With the Peppercorn build, if starting at 0 stacks, this means around 68 seconds into the phase. If starting at 10 <img class="inline empowered"> [Empowered], this is lowered to 52 seconds, a much tighter interval.
 
 [Previous](petrify.html){: .btn } [Next](../../unit/overview.html){: .btn }
 

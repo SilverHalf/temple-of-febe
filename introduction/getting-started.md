@@ -8,13 +8,9 @@ has_children: true
 
 # Getting Started
 
-Similarly to other challenging endgame content, it can seem daunting to start progressing ToF. How does one find resources? Training runs? Other people to play with? Well, I'm here to tell you that it's easier than it looks. 
+ToF CM is one of those encounters where it is difficult, if not downright impossible, to find groups in the public LFG. This is due in part to the woeful inadequacy of the LFG, but mostly due to the necessity for voice communication: the fight is difficult to call out or organize via in-game chat, and requires experience and knowledge of specific roles. Therefore, most people interested in running it congregate in external online communities, primarily on [discord](https://discord.com/).
 
-## Online Communities
-
-ToF CM is one of those encounters where it is difficult, if not downright impossible, to find groups in the public LFG. This is due in part to the woeful inadequacy of the LFG, but mostly due to the necessity for voice communications. The fight is difficult to call out or organize via in-game chat, so most people interested in running it congregate in external online communities, primarily on [discord](https://discord.com/).
-
-Being full of players who regularly play the encounter, these communities are _incredible_ resources for players looking to get started. There are two communities that regularly host public runs:
+Being full of players who regularly play the encounter, these communities are _incredible_ resources for players looking to get started. There are two discord servers that regularly host public runs:
 
 - The <img class="inline tof_icon"> [Temple of Febe CM](https://discord.gg/tofcm){: .text-red-300 .fw-700} discord server, born after the introduction of the bossfight, and exclusively dedicated to the encounter.
 

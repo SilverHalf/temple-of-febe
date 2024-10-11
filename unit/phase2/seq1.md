@@ -30,8 +30,8 @@ An interesting combination of <img class="inline empowered_add"> [Rage] and [Des
 ## Sequence
 1. Run to the south of the boss and stack in [Regret].
 2. After the green pops, start walking out south-westwards to avoid <img class="inline empowered_add"> [Rage]. The <img class="inline scourge"> [Scourge] or <img class="inline chrono"> [Chronomancer] can provide a portal for this, but it is not strictly necessary.
-3. Everyone spreads for [Despair]. Make sure to leave enough space so that you can dodge forward without getting hit by [Rage].
-4. Run to the boss and stack up to prepare for <img class="inline empowered_add"> [Envy].
+3. Spread for [Despair]. Make sure to leave enough space so that you can dodge forward without getting hit by [Rage].
+4. Run to the boss and stack up to prepare for <img class="inline empowered_add"> [Envy]. Alternatively, if a portal has been provided, you can dodge into the portal.
 5. Once the indicator for the wall appears, run forward and to the right of it. After the wall spawns, chase the fast wall around the boss.
 
 <details>
@@ -40,7 +40,7 @@ An interesting combination of <img class="inline empowered_add"> [Rage] and [Des
 </details>
 
 ## Extra Information
-Most squad compositions will have limited access to <img class="inline swiftness"> [Swiftness] among the support players. It is important that <img class="inline virtuoso"> [Virtuosos] provide it via <img class="inline curtain"> [Temporal Curtain] (focus 4) during <img class="inline empowered_add"> [Envy].
+Some squad compositions will have limited access to <img class="inline swiftness"> [Swiftness] among the support players. It is important that <img class="inline virtuoso"> [Virtuosos] provide it via <img class="inline curtain"> [Temporal Curtain] (focus 4) during <img class="inline empowered_add"> [Envy].
 
 [Previous](../phase2.html){: .btn } [Next](seq2.html){: .btn }
 

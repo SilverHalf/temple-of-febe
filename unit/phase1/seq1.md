@@ -47,10 +47,10 @@ A simple and straightforward opening sequence. A [Malice] add needs to be placed
 - <img class="inline herald"> [Heralds](https://wiki.guildwars2.com/wiki/Herald) can return to the boss to deal some additional damage after the spread, if cleave is good enough. Otherwise they should stay at range and help kill the add.
 - Healers should be ready to condition cleanse and re-apply boons in case someone gets hit by the wall.
 
-## Variants
-If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline chrono"> [Chronomancer] would use <img class="inline cs"> [Continuum Split] and <img class="inline blink"> [Blink] to open their <img class="inline portal"> [Portal] on the edge of the arena (usually on the north-eastern edge to abuse pathfinding) for the player who is targeted by [Malice].
+## Advanced Version
+If squad damage is high enough, the squad can "ignore" the malice add. In this case, the <img class="inline sand-swell"> [Sand Swell] is replaced by  a <img class="inline portal"> [Portal] that the <img class="inline chrono"> [Chronomancer] prepares using <img class="inline cs"> [Continuum Split] from the boss to the north-east edge of the arena, abusing pathfinding.
 
-This has the advantage of being much easier and more melee-friendly for the DPS players, at the cost of a small skill check for the healers: <img class="inline chrono"> [Chronomancer] for the portal and <img class="inline scourge"> [Scourge] to <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) with <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact).
+This has the advantage of being much easier (you no longer need to stack spreads) and more melee-friendly for the DPS players, at the cost of a small skill check for the healers: <img class="inline chrono"> [Chronomancer] for the portal and <img class="inline scourge"> [Scourge] to <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) with <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact). For these reasons, this variant is standard in experienced runs.
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>

@@ -27,6 +27,8 @@ Difficulty: <img class="inline star_full"><img class="inline star_empty"><img cl
 ## Description
 A bit of a breather after the previous sequence. Howerver, the combination of spreading out to collect [Gluttony] at the same time as [Regret]'s green can be very punishing if the squad doesn't handle it correctly.
 
+Squads with high DPS can phase during this sequence, often before [Gluttony].
+
 ## Sequence
 1. The <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal] right as <img class="inline empowered_add"> [Envy] is about to end, then they <img class="inline blink"> [Blink] to the southern edge and open their portal.
 2. Whoever is targeted by [Malice] takes the portal and drops their add on the edge.

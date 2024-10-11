@@ -23,7 +23,7 @@ The encounter consists of **four phases** and **two split phases**.
 	<div class="timeline-item" date-is='100%'>
 		<h2>First Phase</h2>
 		<p>
-			A relatively simple and unpunishing beginning, groups will have no issues here. Make sure you don't fail mechanics and try to phase as fast as possible.
+			A relatively simple and unpunishing beginning. Make sure you don't fail mechanics and try to phase as fast as possible.
 		</p>
 	</div>
 	<div class="timeline-item" date-is='80% - First defiance bar and split phase'>
@@ -41,7 +41,7 @@ The encounter consists of **four phases** and **two split phases**.
     <div class="timeline-item" date-is='10% - Final defiance bar'>
 		<h2>Final Phase</h2>
 		<p>
-			The most extreme part of the fight. The squad is hammered by continuous, increasing, unavoidable damage while having to manage a barrage of relentless attacks.
+			The most extreme part of the fight. The squad is hammered by increasing, unavoidable damage while having to manage a barrage of relentless attacks.
 		</p>
 	</div>
 </div>
@@ -54,8 +54,8 @@ The location in which you fight Cerus is the Temple of Febe. It is accessible fr
 
 Cerus will spawn in the center of this arena, and never moves from there.
 
-In Challenge Mode, any player that falls off the arena is instantly defeated, differently from Normal Mode, where they only take massive damage.
+In Challenge Mode, any player that falls off the arena is instantly defeated.
 
-The arena is not one single collision mesh, but many combined. This creates some strange issues with pathfinding, both when dealing with moving [adds](aspects/malice.html) that spawn throughout the fight, but also when using skills that require an uninterrupted path, such as <img class="inline blink"> [Blink](https://wiki.guildwars2.com/wiki/Blink). These skills may not function properly when cast towards or from certain areas of the arena.
+The arena is not a single collision mesh, but many combined. This creates some strange issues with pathfinding, both when dealing with moving [adds](aspects/malice.html) that spawn throughout the fight, but also when using skills that require an uninterrupted path, such as <img class="inline blink"> [Blink](https://wiki.guildwars2.com/wiki/Blink). These skills may not function properly when cast towards or from certain areas of the arena.
 
 [Previous](mechanics.html){: .btn } [Next](empowered.html){: .btn }
