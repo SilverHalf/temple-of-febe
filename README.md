@@ -20,8 +20,8 @@ The built site is stored in the directory `_site`.
 
 If you are interested in adding information to the guide or fixing current information, please contact me here or on Discord (silverhalf). Possible additions include:
 
-[] Detailed guides for certain builds and roles in UNIT strat.
-[] Detailed guide for EoS (UNIT variant)
+- [ ] Detailed guides for certain builds and roles in UNIT strat.
+- [ ] Detailed guide for EoS (UNIT variant)
 
 ## Licensing and Attribution
 
