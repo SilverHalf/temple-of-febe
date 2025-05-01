@@ -21,5 +21,7 @@ nav_order: 99
 ## Credits
 
 This guide was inspired by Mimi's [complete guide to HTCM](https://docs.google.com/presentation/d/1muhszb0eEqLpIm0hp37nS4bEMZHnXGUJp-8O_Ooqscg/edit#slide=id.g210d508f5d7_0_0).
+The animations for sequences were generated using [Elite Insights](https://github.com/baaron4/GW2-Elite-Insights-Parser).
+The backgrounds for the boss arena were created by Linus.
 
 A huge thank-you to Stina for letting me use her art, to UNIT for all the work that went into their strategy, and to all the people on VL/ToF discord who helped proofread and make this guide possible.
