@@ -54,6 +54,13 @@ The most difficult part of this sequence is a very punishing dodge at the start.
   <iframe class="youtube-video" src="https://www.youtube.com/embed/71JEURWXLko?si=YroyfB-PRhH9Z4Tv&start=542&end=572&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
+## Alternative: North-East Portal
+An alternative way of playing this first sequence is by portaling towards the North-East, as shown in the image below, then dodging forwards. This has the advantage of immediately placing the group in melee with the boss, but can be difficult to play in certain situations, such as when the [Rage] add is casting right after the phase transition.
+
+In this situation, the <img class='inline chrono'> [Chronomancer] should prepare their portal during, <img class="inline empowered_add"> [Rage], while the entire group is moving out of the center.
+
+<img src='../../images/ne-portal.webp' style='width:70%' class='center'>
+
 ## Extra Information
 - Any players who go down due to <img class="inline empowered_add"> [Despair] and aren't immediately revived should /gg. This will avoid you getting targeted by [Regret] , which usually means a wipe.
 - If the <img class="inline chrono"> [Chronomancer] didn't use <img class="inline cs"> [Continuum Split] to place the final portal of the previous phase, they will not have their portal available now, and will have to <img class="inline blink"> [Blink] out and place it in the following sequence.
