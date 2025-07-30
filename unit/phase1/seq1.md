@@ -29,7 +29,7 @@ A simple and straightforward opening sequence. A [Malice] add needs to be placed
 
 ## Sequence
 1. Glide into the arena and stack in the green in front of the boss.
-2. Shortly after the green pops, the <img class="inline chrono"> [Chronomancer] opens their <img class="inline cs"> [Continuum Split], prepares a <img class="inline portal"> [Portal] on the group, <img class='inline blink'> [Blinks](https://wiki.guildwars2.com/wiki/Blink) to the North-East corner of the arena, and opens their portal before exiting <img class="inline cs"> [Continuum Split].
+2. Shortly after the green pops, the <img class="inline chrono"> [Chronomancer] activates their <img class="inline cs"> [Continuum Split], prepares a <img class="inline portal"> [Portal] on the group, <img class='inline blink'> [Blinks](https://wiki.guildwars2.com/wiki/Blink) to the North-East corner of the arena, and opens their portal before exiting <img class="inline cs"> [Continuum Split].
 3. Everyone spreads to the south with [Despair], and dodges inwards. Whoever is targeted by [Malice] takes the portal and places their add on the edge of the arena, then takes it back after dropping their [Despair].
 4. Stack up and sidestep [Envy] to the left once its indicator appears.
 <details>
@@ -57,7 +57,7 @@ This was the original form of UNIT strat, which did not rely on any <img class="
 4. Stack up behind the add and cleave it down while targeting the boss. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
 
 <details>
-  <summary><img class="inline scourge"> Scourge POV</summary>
+  <summary><img class="inline scourge"> Legacy Scourge POV</summary>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=11&end=40&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 

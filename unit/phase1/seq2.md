@@ -48,7 +48,7 @@ In the original form of this strategy, the <img class="inline chrono"> [Chronoma
 </details> 
 
 <details>
-  <summary><img class="inline chrono"> Chronomancer POV</summary>
+  <summary><img class="inline chrono"> Legacy Chronomancer POV</summary>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/OA3tzmAsea0?si=ytuj9FtN2UTVK0Zw&start=38&end=63&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 

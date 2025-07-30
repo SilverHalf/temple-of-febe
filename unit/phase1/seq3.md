@@ -51,7 +51,7 @@ In the original form of UNIT strat, the [Malice] add would be walking in directl
 </details>
 
 <details>
-  <summary><img class="inline scourge"> Scourge POV</summary>
+  <summary><img class="inline scourge"> Legacy Scourge POV</summary>
   <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=66&end=105&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
