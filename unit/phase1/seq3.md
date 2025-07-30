@@ -32,16 +32,17 @@ Final sequence of the phase, with some alternatives on positioning and dealing w
 2. The squad takes the portal back and stacks for [Regret] on the eastern side of the boss, so as to avoid [Envy].
 3. Once [Regret] pops, walk through the boss to the other side and drop [Despair].
 4. If squad DPS is low or you're playing LCM, you may have to play a second [Envy]. Just sidestep it to the left.
-
 <details>
   <summary><img class="inline scourge"> Scourge POV</summary>
-  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=66&end=105&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/6D6xMNLI84I?si=VCh6w5hiCAFD_cwh&start=69&end=86&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
-## Variants
-Based on whether the squad played the previous variants, there are two ways of playing the <img class="inline sand-swell"> [Sand Swell].
+## Extra Information
+Throughout this phase, the The <img class="inline scourge"> [Scourge] should always <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add when necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact). 
 
-If the squad did not play any variants and DPS is low, then the squad can stay at range behind the add and cleave it down while targeting the boss (As shown in the POV). This allows for a bit more time to phase.
+## Legacy Version
+In the original form of UNIT strat, the [Malice] add would be walking in directly from the East. The squad would therefore portal in that direction for Rage, and stack behind the add until it was dead. This meant that they would also already be in the safe area for [Envy] when it started.
+
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>
@@ -49,14 +50,10 @@ If the squad did not play any variants and DPS is low, then the squad can stay a
   </video>
 </details>
 
-Alternatively, if the squad played advanced version of the previous sequences and has enough DPS, they should return to the boss after Rage, overall increasing melee uptime, and phase the boss before the adds reach it. Most experienced groups will manage this with relative ease.
-<details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
-  <summary>View Animation</summary>
-  <video class="center" width="90%" controls muted>
-    <source src="../../videos/phase1/seq3_alt1.mp4" type="video/mp4">
-  </video>
+<details>
+  <summary><img class="inline scourge"> Scourge POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/PxAi-bWHTsg?si=96CSuM_yvkiQjOEv&start=66&end=105&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
-The <img class="inline scourge"> [Scourge] should always <img class="inline immobile"> [Immobilize](https://wiki.guildwars2.com/wiki/Immobile) the add when necessary using <img class="inline necro_three_dagger">[Dark Pact](https://wiki.guildwars2.com/wiki/Dark_Pact) (dagger 3).
 
 
 
