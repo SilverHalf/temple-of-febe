@@ -43,6 +43,20 @@ DPS isn't extremely important outside of the legendary mode, however, the strate
 
 Most groups will run with 4-6 virtuosos, since their cleave is required to kill [Malice] adds safely.
 
+## Marker Pack
+All markers referenced in this guide can be set up with the [Commander Markers](https://blishhud.com/modules/?module=Manlaan.CommanderMarkers) module for [Blish HUD](https://blishhud.com/), using the marker pack provided below.
+
+<Details>
+    <Summary>Click to view markers</Summary>
+    <contents>
+        <img class="center" width="60%" src="../images/mechanics/background.webp" />
+        <div>Paste the following code into Commander Markers to use this marker pack:</div>
+        <code class="wrap">
+        eyJlbmFibGVkIjp0cnVlLCJuYW1lIjoiUHVnIFN0cmF0IiwiZGVzY3JpcHRpb24iOiJkZXNjcmlwdGlvbiIsIm1hcElkIjoxNTIwLCJ0cmlnZ2VyIjp7IngiOjAuMCwieSI6MC4wLCJ6IjowLjB9LCJtYXJrZXJzIjpbeyJpIjoxLCJkIjoibWFya2VyIG5hbWUiLCJ4IjotNC44MjQ2NjEsInkiOi0xMDcuNzc0NzEyLCJ6IjoxNzguNjcxNH0seyJpIjozLCJkIjpudWxsLCJ4Ijo2LjQ3MDMyMiwieSI6LTEwMC40MTkxMjEsInoiOjE3OC42NzE2fSx7ImkiOjYsImQiOm51bGwsIngiOi05LjQ2MTc1MSwieSI6LTExMS44Njg0LCJ6IjoxNzguNjcxNDQ4fSx7ImkiOjUsImQiOm51bGwsIngiOi04Ljk4NjU3OSwieSI6LTEzMi42Njk3ODUsInoiOjE3OC42NzE0NDh9LHsiaSI6MiwiZCI6bnVsbCwieCI6MjcuNjA4MjI2OCwieSI6LTE0OC4wNzI4NzYsInoiOjE3OC42Njk4fSx7ImkiOjcsImQiOm51bGwsIngiOjM0LjU3NjY3NTQsInkiOi0xMDMuNDM1ODA2LCJ6IjoxNzguNjcxNjE2fSx7ImkiOjQsImQiOm51bGwsIngiOjI4LjEwNjk5LCJ5IjotOTQuMjAxODcsInoiOjE3OC42NzE2MTZ9LHsiaSI6OCwiZCI6bnVsbCwieCI6NC40MTk4OTEzNiwieSI6LTU1LjkxNDcwNzIsInoiOjE3OC42NzE2fV19
+        </code>
+        </contents>
+</Details>
+
 ## Full Step-By-Step Visualization
 The following pages will contain a full playthrough of UNIT strat, where we will provide detailed information covering everything about the strategy.
 
