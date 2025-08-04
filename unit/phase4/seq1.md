@@ -61,6 +61,11 @@ In this situation, the <img class='inline chrono'> [Chronomancer] should prepare
 
 <img src='../../images/ne-portal.webp' style='width:70%' class='center'>
 
+<details>
+  <summary><img class="inline scourge"> NE Portal POV</summary>
+  <iframe class="youtube-video" src="https://www.youtube.com/embed/nt8ziWTG6TE?si=LTkOmjl7v6DcAzFx&start=420&end=445&mute=1 " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
+
 ## Extra Information
 - Any players who go down due to <img class="inline empowered_add"> [Despair] and aren't immediately revived should /gg. This will avoid you getting targeted by [Regret] , which usually means a wipe.
 - If the <img class="inline chrono"> [Chronomancer] didn't use <img class="inline cs"> [Continuum Split] to place the final portal of the previous phase, they will not have their portal available now, and will have to <img class="inline blink"> [Blink] out and place it in the following sequence.
