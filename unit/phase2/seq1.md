@@ -40,7 +40,7 @@ An interesting combination of <img class="inline empowered_add"> [Rage] and [Des
 </details>
 
 ## Extra Information
-Some squad compositions will have limited access to <img class="inline swiftness"> [Swiftness] among the support players. It is important that <img class="inline virtuoso"> [Virtuosos] provide it via <img class="inline curtain"> [Temporal Curtain] (focus 4) during <img class="inline empowered_add"> [Envy].
+If the group has limited access to <img class="inline swiftness"> [Swiftness], it becomes important for <img class="inline virtuoso"> [Virtuosos] for provide it via <img class="inline curtain"> [Temporal Curtain] during <img class="inline empowered_add"> [Envy].
 
 [Previous](../phase2.html){: .btn } [Next](seq2.html){: .btn }
 
