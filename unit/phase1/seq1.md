@@ -53,7 +53,7 @@ This was the original form of UNIT strat, which did not rely on any <img class="
 
 1. Glide into the arena and stack in the green in front of the boss.
 2. Shortly after the green pops, the <img class="inline scourge"> [Scourge] places their <img class="inline sand-swell"> [Sand Swell] a bit south of the boss, going southwards. More distance means more time to DPS the add.
-3. Everyone takes the portal once [Despair] spreads appear. Spread horizonally, or remain on the portal exit and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so that their add drops in the middle of the squad. <img class="inline dodge"> Dodge _forward_ once [Despair] drops.
+3. Everyone takes the portal once [Despair] spreads appear. Spread horizontally, or remain on the portal exit and use  <img class="inline distort"> [Distortion]/<img class="inline glint_h"> [Infuse Light]. Whoever was targeted by [Malice] should stay on the portal exit, so that their add drops in the middle of the squad. <img class="inline dodge"> Dodge _forward_ once [Despair] drops.
 4. Stack up behind the add and cleave it down while targeting the boss. Once [Envy] appears, sidestep the wall to the left, then move back behind the add and cleave it down.
 
 <details>

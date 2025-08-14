@@ -10,7 +10,7 @@ has_children: true
 
 # First Phase - 100% to 80%
 
-Mechanics are relatively simple and unpunishing. Use this time to do as much damage as possible.
+Mechanics are relatively simple and forgiving. Use this time to do as much damage as possible.
 
 - Avoid <img class="inline empowered"> [Empowered] on the boss. Stacks commonly result from miscommunication during [Gluttony](../../mechanics/aspects/gluttony.html) or [Malice](../../mechanics/aspects/malice.html). You should be ending this phase with zero <img class="inline empowered"> [Empowered] stacks.
 - Practice the timing of dodging [Despair](../../mechanics/aspects/despair.html) spreads with little or no consequences.

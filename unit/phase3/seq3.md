@@ -60,7 +60,7 @@ Once the Despair have been placed, the squad must then deal with a double <img c
 
 ## Extra Information
 - Remember that <img class="inline distort"> [Distortion] and <img class="inline dodge"> [Evasion](https://wiki.guildwars2.com/wiki/Evade) only work for the initial <img class="inline empowered_add"> [Despair] damage. 
-- DO NOT DODGE EARLY! Early dodges will leave your pool at the end of your dodge, potentially killing your teammates. Wait for the spreads to drop, using your defensive skills on the inital damage, and then use your dodge to get out of the pool faster. You have about a second to get out before you down.
+- DO NOT DODGE EARLY! Early dodges will leave your pool at the end of your dodge, potentially killing your teammates. Wait for the spreads to drop, using your defensive skills on the initial damage, and then use your dodge to get out of the pool faster. You have about a second to get out before you down.
 - <img class="inline glint_h"> [Infuse Light] also works on the pools, so heralds can be even more patient. They don't even need to dodge.
 - For the first set of spreads, the <img class="inline chrono"> [Chronomancer] can stack far off group and then <img class="inline blink"> [Blink] to <img class="inline square"> after they drop, giving a bit more space to the others.
 - After the second dodge, the pools on the left facing the boss are purely visual. Don't hesitate to walk through them to cleave the <img class="inline empowered_add"> [Malice].

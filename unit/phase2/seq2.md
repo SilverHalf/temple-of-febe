@@ -45,7 +45,7 @@ Double [Gluttony] and [Malice] give Cerus lots of opportunities for gaining <img
 - Confident <img class="inline chrono"> [Chronomancer]s can delay opening their portal as much as possible: this allows melee players to take it back after the [Rage] and increase their damage uptime.
 
 ## Legacy Version
-Originally this sequence was done by having the <img class='inline scourge'> [Scourge] handle the second portal out of [Rage]. On the one hand this made life easier for the <img class="inline chrono"> [Chronomancer] as they would not have to do a "CS portal", but on the other it also meant less overall melee uptime for the damage dealers. Furhtermore, <img class="inline portal"> [Portal] is also much easier to find on the fly than <img class="inline sand-swell"> [Sand Swell], leading to less misplays.
+Originally this sequence was done by having the <img class='inline scourge'> [Scourge] handle the second portal out of [Rage]. On the one hand this made life easier for the <img class="inline chrono"> [Chronomancer] as they would not have to do a "CS portal", but on the other it also meant less overall melee uptime for the damage dealers. Furthermore, <img class="inline portal"> [Portal] is also much easier to find on the fly than <img class="inline sand-swell"> [Sand Swell], leading to less misplays.
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="90%" controls muted>

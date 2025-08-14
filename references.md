@@ -15,7 +15,7 @@ nav_order: 99
 - [Link](https://wiki.guildwars2.com/wiki/Strike_Mission:_Temple_of_Febe) - The official wiki's page on the Temple of Febe Strike mission.
 - [Link](https://snowcrows.com/guides/strikes/secrets-of-the-obscure/temple-of-febe-guide) - Snowcrow's guide on the Temple of Febe Strike mission, and their [extra details](https://snowcrows.com/guides/strikes/secrets-of-the-obscure/temple-of-febe-extra-detail) page.
 - [Link](https://unit-gw2.github.io/eos) - UNIT Embodiment of Sin guide by Minas.
-- [Link](https://github.com/HasKha/gw2-timers) - HasKha's Blishude timer for ToF CM.
+- [Link](https://github.com/HasKha/gw2-timers) - HasKha's Blish Hud timer for ToF CM.
 - [Link](https://cdn.discordapp.com/attachments/1219006517395591259/1235454408247218226/Febe_Empowered_Walls_Timers.zip?ex=668a1f94&is=6688ce14&hm=803b75dc076402bff460bbd3e6958e24e050f4873e9bcbdacc22ec8b48a69ec9&) - Kadenar's marker + timer pack for ToF beginners.
 
 ## Credits

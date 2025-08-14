@@ -11,13 +11,13 @@ has_children: true
 
 UNIT, named after the guild who originally developed it, is the ubiquitous strategy for ToF CM. It was designed to facilitate PUG runs, since it requires few specialized roles, is relatively forgiving to mistakes, and it frees up strong defensive options for DPS players.
 
-The downside of this strategy is that it forces most of the squad to play certain predifined builds, without much space for alternative playstyles.
+The downside of this strategy is that it forces most of the squad to play certain predefined builds, without much space for alternative playstyles.
 
 ## General Concepts
 
 UNIT compresses almost all mechanics into the two heal roles, which are usually covered by a <img class="inline scourge"> [Scourge] and <img class="inline chrono"> [Chronomancer]. Both of these classes bring strong utility that is used to manage many of Cerus's attacks:
 
-- <img class='inline empowered'> [Rage] is avoided by transporing the squad out of range using <img class="inline sand-swell"> [Sand Swell] and <img class="inline portal"> [Portal Entre].
+- <img class='inline empowered'> [Rage] is avoided by transporting the squad out of range using <img class="inline sand-swell"> [Sand Swell] and <img class="inline portal"> [Portal Entre].
 - <img class='inline empowered'> [Malice] is mitigated by dropping the adds on the edge of the arena using portals, then either killing them, immobilizing them using <img class="inline necro_three_dagger"> [Dark Pact], or phasing before they become an issue.
 - <img class='inline empowered'> [Regret] is killed during the first split phase so that it becomes trivial.
 - <img class='inline empowered'> [Gluttony] is killed during the second split phase, and projectile reflection is provided by <img class="inline cpc"> [Corrosive Poison Cloud] and <img class="inline feedback"> [Feedback]. Additionally, both healers can delete orbs using <img class="inline blink"> [Blink](https://wiki.guildwars2.com/wiki/Blink) and <img class='inline necro_three'> [Path of Gluttony](https://wiki.guildwars2.com/wiki/Path_of_Gluttony).

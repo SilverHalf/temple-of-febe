@@ -11,7 +11,7 @@ parent: Introduction
 
 Temple of Febe is the first encounter in Guild Wars 2 to introduce a Legendary Challenge Mode.
 When this is activated, the boss' HP increases by about 24 million, reaching over 130 million HP, and several
-mechanics recieve additional buffs that make them much more difficult to manage.
+mechanics receive additional buffs that make them much more difficult to manage.
 
 Cerus LCM is extremely challenging, due to the tight damage check introduced by Cerus' extra survivability, and the difficult healing
 check in the final phase. A successful clear of the LCM requires minimal errors in the entire fight, all the way up to the end. 

@@ -72,7 +72,7 @@ Portals are used to move the squad out of the attack’s area of effect, usually
 
 <img class="inline sand-swell"> [Sand Swell]'s range is less than the radius of the empowered attack. When the situation calls for it, the <img class="inline scourge"> [Scourge] should pre-position at the correct distance from the boss so that the portal clears the outer edge of the AoE.
 
-Since <img class="inline sand-swell"> [Sand Swell] is not as easily visible as <img class="inline portal"> [Portal Entre], it is common practice to place a marker on the <img class="inline scourge"> [Scourge], who by positioning pre-emptively facilitates the other players' finding the portal entrance.
+Since <img class="inline sand-swell"> [Sand Swell] is not as easily visible as <img class="inline portal"> [Portal Entre], it is common practice to place a marker on the <img class="inline scourge"> [Scourge], who by positioning preemptively facilitates the other players' finding the portal entrance.
 
 
 [Previous](regret.html){: .btn } [Next](../other-attacks.html){: .btn }
