@@ -6,7 +6,7 @@ This website is build using [Jekyll] and the [Just the Docs] theme, enabling it 
 
 ## Viewing the site locally
 
-You will need to install [Ruby](https://www.ruby-lang.org) and [Jekyll], and possibly [Bundler].
+You will need to install [Ruby](https://www.ruby-lang.org) and [Bundler].
 
 1.  Clone this repository, and change your working directory to its root directory.
 
@@ -18,10 +18,10 @@ The built site is stored in the directory `_site`.
 
 ## Contributing
 
-If you are interested in adding information to the guide or fixing current information, please contact me here or on Discord (silverhalf). Possible additions include:
+If you are interested in adding information to the guide or fixing current information, please contact me here or on Discord (silverhalf). Currently work is being done on:
 
-- [ ] Detailed guides for certain builds and roles in UNIT strat.
-- [ ] Detailed guide for EoS (UNIT variant)
+- [ ] Detailed guides for Flower Strat.
+- [ ] Detailed guide for EoS.
 
 ## Licensing and Attribution
 
