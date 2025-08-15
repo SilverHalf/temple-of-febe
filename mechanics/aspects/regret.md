@@ -24,10 +24,10 @@ Spawns a green circle on a random player that explodes after 5 seconds. If there
 The green also deals a small amount of unavoidable squad-wide damage, and applies a stack of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] for 3 seconds. 
 
 {: .empowered_description }
-Three greens will spawn, targeting random different players. Each green is functionally identical to the unempowered version, except it requires at least three people instead of five. Players who recieve two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] due to being in two greens at the same time will be put into <img class="inline down"> [Downstate]. People who take three stacks due to being in three greens will be instantly defeated.
+Three greens will spawn, targeting random different players. Each green is functionally identical to the unempowered version, except it requires at least three people instead of five. Players who receive two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] due to being in two greens at the same time will be put into <img class="inline down"> [Downstate]. People who take three stacks due to being in three greens will be instantly defeated.
 
 {: .legendary}
-Failing a green will instantly defeat the entire squad. Players who recieve two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] will be instantly defeated.
+Failing a green will instantly defeat the entire squad. Players who receive two stacks of <img class="inline extreme_vulnerability"> [Extreme Vulnerability] will be instantly defeated.
 
 <div>
   <ul class="mechtable">
@@ -64,7 +64,7 @@ Failing a green will instantly defeat the entire squad. Players who recieve two 
   </ul>
 </div>
 
-1. _Only in normal CM_, effects that prevent lethal damage (<img class="inline aed"> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22), <img class="inline reversal"> [Reversal of Fortune](https://wiki.guildwars2.com/wiki/Reversal_of_Fortune)) will allow a player to not get downed by a failed green. These effects will not function in case of multiple failed greens: players will stil down to two, and die to three. However, direct damage-to-healing conversion, such as <img class="inline glint_h"> [Infuse Light](https://wiki.guildwars2.com/wiki/Infuse_Light) or <img class="inline defiant"> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), _will_ prevent downing from multiple green failures.
+1. _Only in normal CM_, effects that prevent lethal damage (<img class="inline aed"> [A.E.D.](https://wiki.guildwars2.com/wiki/A.E.D.), <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22), <img class="inline reversal"> [Reversal of Fortune](https://wiki.guildwars2.com/wiki/Reversal_of_Fortune)) will allow a player to not get downed by a failed green. These effects will not function in case of multiple failed greens: players will still down to two, and die to three. However, direct damage-to-healing conversion, such as <img class="inline glint_h"> [Infuse Light](https://wiki.guildwars2.com/wiki/Infuse_Light) or <img class="inline defiant"> [Defiant Stance](https://wiki.guildwars2.com/wiki/Defiant_Stance), _will_ prevent downing from multiple green failures.
 <div class="smalltext">Thanks to @mashi for helping me test this!</div>
 
 ## Extra Information
@@ -91,7 +91,7 @@ The Anchors are usually [marked](https://wiki.guildwars2.com/wiki/Commander#Mark
 - **Backups** - If they have a green and their anchor has a green, they move to a stack where there is no green. Otherwise, they remain with their stack.
 - **Float** - If they have a green, they move to a stack with no green. Otherwise, they can back up for a dead or unavailable player, or provide additional security in case of confused situations.
 
-Proper prepositioning before each green is crucial for this strategy to work, as any confusion regarding which green belongs to which group can be fatal.
+Proper pre-positioning before each green is crucial for this strategy to work, as any confusion regarding which green belongs to which group can be fatal.
 
 An emerging strategy is to have multiple [Tempests] using <img class="inline rebound"> [Rebound!](https://wiki.guildwars2.com/wiki/%22Rebound!%22) as backup for failed greens, especially in the final 10% phase. Players can then stack multiple greens and survive.
 

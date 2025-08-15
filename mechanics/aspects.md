@@ -51,7 +51,7 @@ Since <img class="inline empowered_add"> Empowered skills affect the squad in a 
 
 ### First Split Phase Choice
 
-In the first split, [Rage] isn't a compelling choice, since its difficulty does not increase much when empowered, so it comes down to eiter [Envy] or [Regret].
+In the first split, [Rage] isn't a compelling choice, since its difficulty does not increase much when empowered, so it comes down to either [Envy] or [Regret].
 Strategies that kill [Envy] are usually called _Triple Green_ strategies, since they have to deal with the punishing <img class="inline empowered_add"> [Empowered Regret](aspects/regret.html) mechanic.
 Strategies that instead kill [Regret] are called _Double Wall_ strategies, since they will play the <img class="inline empowered_add"> [Empowered Envy](aspects/envy.html) mechanic. [UNIT](../unit/overview.html) strat, the ubiquitous strategy used by PUG groups, is a Double Wall strategy.
 

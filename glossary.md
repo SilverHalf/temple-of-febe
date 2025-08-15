@@ -35,7 +35,7 @@ Acronym for **D**amage **o**ver **T**ime. An effect that deals consistent damage
 Acronym for **D**amage **P**er **S**econd. Can also refer to damage-oriented roles in a squad, or damage-oriented classes.
 
 ### EoS {#glossary:EoS}
-Acronym for **E**mbodiment **o**f **S**in. A title gained after completing the [Apathetic](https://wiki.guildwars2.com/wiki/Secrets_of_the_Obscure_(achievements)) achievment, which requires killing the CM with all of Cerus's aspects <img class="inline empowered_add"> Empowered.
+Acronym for **E**mbodiment **o**f **S**in. A title gained after completing the [Apathetic](https://wiki.guildwars2.com/wiki/Secrets_of_the_Obscure_(achievements)) achievement, which requires killing the CM with all of Cerus's aspects <img class="inline empowered_add"> Empowered.
 
 ### HP {#glossary:HP}
 Acronym for **H**it **P**oints. The health of a character in-game.

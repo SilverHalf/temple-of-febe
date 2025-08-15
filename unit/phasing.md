@@ -23,7 +23,7 @@ We can divide the final part of the fight into several sections based on phasing
 
 - <img class="inline ok"> Green sections represent periods where the phasing is more convenient. Carried over mechanics will be inconsequential, or mechanics will be cancelled by the transition.
 - <img class="inline kinda"> Yellow sections have a small amount of added difficulty or deviations from normal strategy that require adaptation on the fly.
-- <img class="inline risky"> Orange sections are inconvenent timings that should be avoided, but are not run-ending.
+- <img class="inline risky"> Orange sections are inconvenient timings that should be avoided, but are not run-ending.
 - <img class="inline notok"> Red sections represent bad timings that should be avoided at all costs.
 
 Over the next few pages we will see the final couple of sequences for the third phase, with added annotations on phase timings.

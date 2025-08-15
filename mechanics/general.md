@@ -23,7 +23,7 @@ The encounter consists of **four phases** and **two split phases**.
 	<div class="timeline-item" date-is='100%'>
 		<h2>First Phase</h2>
 		<p>
-			A relatively simple and unpunishing beginning. Make sure you don't fail mechanics and try to phase as fast as possible.
+			A relatively simple and forgiving start. Make sure you don't fail mechanics and try to phase as fast as possible.
 		</p>
 	</div>
 	<div class="timeline-item" date-is='80% - First defiance bar and split phase'>
@@ -35,7 +35,7 @@ The encounter consists of **four phases** and **two split phases**.
 	<div class="timeline-item" date-is='50% - Second defiance bar and split phase'>
 		<h2>Third Phase</h2>
 		<p>
-			A series of difficult sequences that require careful positioning and timing. Mistakes are often fatal, or severly impact the run.
+			A series of difficult sequences that require careful positioning and timing. Mistakes are often fatal, or severely impact the run.
 		</p>
 	</div>
     <div class="timeline-item" date-is='10% - Final defiance bar'>

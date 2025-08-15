@@ -22,7 +22,7 @@ Difficulty: <img class="inline star_full"><img class="inline star_full"><img cla
 
 ## Description
 This sequence is identical to the Gluttony, Malice, Despair at the start of the [previous](seq2.html) sequence.
-Here it's do or die: most squads will wipe soon after the final <img class="inline empowered_add"> [Despair], due to the incredible damage pressure and the inavailablity of portals.
+Here it's do or die: most squads will wipe soon after the final <img class="inline empowered_add"> [Despair], due to the incredible damage pressure and the unavailability of portals.
 
 ## Sequence
 1. Focus on collecting [Gluttony]. Use <img class="inline feedback"> [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud) on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier). Avoid barrier at all costs: one single orb going in means 4-5 more seconds of dps. That's an extra smash to deal with: often the difference between a kill and a wipe.

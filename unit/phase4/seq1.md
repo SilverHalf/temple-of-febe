@@ -55,7 +55,7 @@ The most difficult part of this sequence is a very punishing dodge at the start.
 </details>
 
 ## Alternative: North-East Portal
-An alternative way of playing this first sequence is by portaling towards the North-East, as shown in the image below, then dodging forwards. This has the advantage of immediately placing the group in melee with the boss, but can be difficult to play in certain situations, such as when the [Rage] add is casting right after the phase transition.
+An alternative way of playing this first sequence is by casting the first <img class="inline sand-swell"> [Sand Swell] towards the North-East, as shown in the image below, then dodging forwards. This has the advantage of immediately placing the group in melee with the boss, but can be difficult to play in certain situations, such as when the [Rage] add is casting right after the phase transition.
 
 In this situation, the <img class='inline chrono'> [Chronomancer] should prepare their portal during, <img class="inline empowered_add"> [Rage], while the entire group is moving out of the center.
 

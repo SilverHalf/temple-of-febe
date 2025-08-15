@@ -25,7 +25,7 @@ Difficulty: <img class="inline star_full"><img class="inline star_empty"><img cl
 <img class="divider">
 
 ## Description
-A bit of a breather after the previous sequence. Howerver, the combination of spreading out to collect [Gluttony] at the same time as [Regret]'s green can be very punishing if the squad doesn't handle it correctly.
+A bit of a breather after the previous sequence. However, the combination of spreading out to collect [Gluttony] at the same time as [Regret]'s green can be very punishing if the squad doesn't handle it correctly.
 
 Squads with high DPS can phase during this sequence, often before [Gluttony].
 
