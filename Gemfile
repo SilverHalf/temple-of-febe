@@ -7,3 +7,9 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem "kramdown", "2.4.0"
+
+# TODO: Remove when this gets fixed in Jekyll
+gem "erb"
+gem "csv"
+gem "base64"
+gem "logger"
