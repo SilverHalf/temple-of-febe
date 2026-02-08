@@ -1,6 +1,6 @@
 # Temple of Febe CM Guide
 
-This is a website that contains a guide to the [Temple of Febe](https://wiki.guildwars2.com/wiki/Temple_of_Febe) Challenge Mode strike encounter in [Guild Wars 2](https://www.guildwars2.com).
+This is a website that contains a guide to the [Temple of Febe](https://wiki.guildwars2.com/wiki/Temple_of_Febe) Challenge Mode encounter in [Guild Wars 2](https://www.guildwars2.com).
 
 This website is build using [Jekyll] and the [Just the Docs] theme, enabling it to be previewed locally and then published on [GitHub Pages] using the [GitHub Pages / Actions workflow].
 
