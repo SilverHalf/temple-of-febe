@@ -48,7 +48,7 @@ The encounter consists of **four phases** and **two split phases**.
 
 ## Arena - the Temple of Febe
 
-The location in which you fight Cerus is the Temple of Febe. It is accessible from the Strike Mission portal in the [Wizard's Tower](https://wiki.guildwars2.com/wiki/The_Wizard%27s_Tower), and can be accessed freely once the [Treachery](https://wiki.guildwars2.com/wiki/Treachery) story step is completed.
+The location in which you fight Cerus is the Temple of Febe. It is accessible from the portal in the [Wizard's Tower](https://wiki.guildwars2.com/wiki/The_Wizard%27s_Tower), and can be accessed freely once the [Treachery](https://wiki.guildwars2.com/wiki/Treachery) story step is completed.
 
 ![Arena](../images/mechanics/Temple_of_Febe.webp)
 
