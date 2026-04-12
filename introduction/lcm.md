@@ -24,6 +24,6 @@ and building familiarity with them is extremely useful for progressing.
 EoS is the title run for Temple of Febe, requiring that players kill the Challenge Mode with all
 of Cerus's aspects empowered. This is the hardest encounter in the game, much harder than LCM, and is usually faced with specialized builds and modified strategies.
 
-Minas' dedicated guide for the old version of the encounter can be found [here](https://unit-gw2.github.io/eos).
+Minas' dedicated guide for the old version of the encounter can be found [here](https://minas-gw2.github.io/eos). His strategy however is relatively dated so newer resources should be searched.
 
 [Previous](arcdps-logs.html){: .btn } [Next](../mechanics/mechanics.html){: .btn }
