@@ -12,7 +12,7 @@ parent: Mechanics
 
 <img src="../images/mechanics/Cerus.webp" />
 
-| **Health** | 106,174,800 (CM) or 130,064,136 (LCM) |
+| **Health** | 95'557'328 (CM) or 117'057'712 (LCM) |
 | **Armor** |  2597 (standard) |
 | **Instance**| Day |
 | **Enrage Timer** | 10 minutes - kills all players on running out. |
