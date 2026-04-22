@@ -72,7 +72,7 @@ Adds have increased health and toughness.
 ## Extra Information
 
 - Adds have 2252 toughness in normal CM, compared to the global standard of 2597, meaning that power damage is +15.3% more effective. In legendary CM, they instead have standard toughness.
-- Adds have 630'960  HP in normal CM. In legendary CM, they instead have 1 million HP.
+- Adds have 630'960  HP in normal CM. In legendary CM, they instead have 946'440 HP (50% more).
 - If placed in certain areas on the east side of the platform, adds will pathfind to a point just north or south of the boss, instead of directly towards it, as shown in the figure.
 <img class="arena_image" width="70%" src="../../images/mechanics/pathing.webp" />
 - Adds are affected by all forms of soft crowd control once their <img class="inline resistance"> [Resistance] runs out.
