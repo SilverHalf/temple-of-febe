@@ -3,23 +3,23 @@
      width="290" height="100" viewBox="0 0 290 100">
 <defs>
 </defs>
-<text x="60.0" y="43.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Enraged Smash</text>
+<text x="60.0" y="43.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Enraged Smash</text>
 <circle cx="140" cy="37.5" r="6.25" fill="red" />
-<path d="M140,25 L140,50" stroke="red" />
+<path d="M140,25 L140,50" stroke="red" rx="6" ry="6" />
 <circle cx="180" cy="37.5" r="6.25" fill="red" />
-<path d="M180,25 L180,50" stroke="red" />
+<path d="M180,25 L180,50" stroke="red" rx="6" ry="6" />
 <circle cx="220" cy="37.5" r="6.25" fill="red" />
-<path d="M220,25 L220,50" stroke="red" />
+<path d="M220,25 L220,50" stroke="red" rx="6" ry="6" />
 <circle cx="260" cy="37.5" r="6.25" fill="red" />
-<path d="M260,25 L260,50" stroke="red" />
-<text x="60.0" y="68.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Aspects</text>
-<rect x="180" y="50" width="50" height="25" fill="black" />
-<text x="205.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
-<rect x="230" y="50" width="50" height="25" fill="red" />
-<text x="255.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
-<text x="60.0" y="93.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle"></text>
-<rect x="130" y="75" width="100" height="25" fill="purple" />
-<text x="180.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
+<path d="M260,25 L260,50" stroke="red" rx="6" ry="6" />
+<text x="60.0" y="68.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Emb.</text>
+<rect x="180" y="54" width="50" height="21" fill="black" rx="6" ry="6" />
+<text x="205.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Malice</text>
+<rect x="230" y="54" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
+<text x="255.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
+<text x="60.0" y="93.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle"></text>
+<rect x="130" y="79" width="100" height="21" fill="purple" rx="6" ry="6" />
+<text x="180.0" y="91.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Gluttony</text>
 <path d="M0,25 L290,25" stroke="white" stroke-width="2" />
 <path d="M120,0 L120,100" stroke="white" stroke-width="2" />
 <path d="M130,20.0 L130,25" stroke="white" stroke-width="0.5" />
@@ -28,7 +28,7 @@
 <path d="M160,22.5 L160,white" stroke="white" stroke-width="0.3" />
 <path d="M170,22.5 L170,white" stroke="white" stroke-width="0.3" />
 <path d="M180,15.0 L180,25" stroke="white" stroke-width="1.5" />
-<text x="180.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">60</text>
+<text x="180.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">60</text>
 <path d="M190,22.5 L190,white" stroke="white" stroke-width="0.3" />
 <path d="M200,22.5 L200,white" stroke="white" stroke-width="0.3" />
 <path d="M210,22.5 L210,white" stroke="white" stroke-width="0.3" />
