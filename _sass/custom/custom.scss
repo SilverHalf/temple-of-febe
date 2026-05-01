@@ -1,5 +1,4 @@
 @import 'mechtable.scss';
-@import 'timeline.scss';
 @import 'images.scss';
 @import 'buttons.scss';
 
@@ -23,6 +22,12 @@ $link-color: #ff9090;
 }
 .h3 {
 	color: $link-color;
+}
+
+.bordered {
+    border: 3px outset;
+    border-radius: 15px;
+    border-color: $link-color;
 }
 
 .intro {
