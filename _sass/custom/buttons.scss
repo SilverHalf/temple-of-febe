@@ -24,3 +24,10 @@
 .strategy-index {
     background-image: url(../../images/strategy.webp); 
 }
+
+.fixed {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+}

@@ -25,6 +25,10 @@ callouts:
   warning:
     title: Warning
     color: red
+  
+  note:
+    title: note
+    color: gray
 
 color_scheme: dark_cerus
 
