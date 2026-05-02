@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mechanics
+title: Mechanical Reference
 nav_order: 6
 has_children: true
 ---
@@ -8,7 +8,7 @@ has_children: true
 [Return to Home](index.html){: .btn }
 {: .center}
 
-# Cerus, the Glaive of House Nephus
+## Cerus, the Glaive of House Nephus
 {: .center .no_toc}
 
 <img class='center bordered' width='80%' src="../images/mechanics/Cerus.webp" />
@@ -37,7 +37,32 @@ This section contains a detailed description of the various attacks and mechanic
 - On failing certain mechanics, Cerus will gain stacks of <img class="inline empowered"> [Empowered], which permanently buff his damage for the rest of the fight.
 - The final 10% is a dangerous healing check.
 
-<img class="divider">
+---
+
+### Legendary Mode
+
+Temple of Febe was the first encounter in Guild Wars 2 to introduce a Legendary Challenge Mode. When this is activated, the boss’ HP increases from 95'557'328 to 117'057'712. Furthermore, several mechanics receive additional buffs that make them much more difficult to manage:
+
+- <img class='inline insatiable'> [Insatiable] stacks become permanent when [Gluttony] becomes <img class='inline empowered_add'> [Empowered](#-empowered-1.)
+- Adds spawned in from [Malice] have increased health and toughness.
+- Failing [Regret] will instantly kill the entire squad, and <img class="inline extreme_vulnerability"> [Extreme Vulnerability] will instantly defeat players upon gaining two stacks.
+- [Enraged Smash] will grant three stacks of <img class='inline empowered'> [Empowered] instead of two.
+
+The result is an extremely punishing encounter with a tight damage and healing check. A successful clear of the LCM requires minimal errors in the entire fight, all the way up to the end.
+
+IIt is strongly recommended to clear the normal CM before attempting LCM: mechanics are very similar, and building familiarity with them is extremely useful. All strategies using in CM are equally viable in LCM.
+
+---
+
+### Embodiment of Sin
+
+Embodiment of Sin is a title obtained upon completing the <img class=inline src='https://wiki.guildwars2.com/images/thumb/c/cd/AP.png/30px-AP.png'> [Apathetic](https://wiki.guildwars2.com/wiki/Secrets_of_the_Obscure_(achievements)#achievement7820) achievement. This requires killing Cerus CM while all of his [Aspects] are <img class='inline empowered_add'> [Empowered](#-empowered-1).
+
+This introduces significant difficulties, as it forces groups to deal with <img class='inline empowered_add'> [Gluttony] and <img class='inline empowered_add'> [Regret] mechanics that are usually not seen in regular runs.
+
+EoS kills are usually progressed in static groups using different strategies and compositions than standard runs.
+
+<img class=divider>
 
 ## Arena - the Temple of Febe
 
