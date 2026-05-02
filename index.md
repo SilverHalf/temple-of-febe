@@ -11,7 +11,7 @@ This website contains a guide to the Temple of Febe Challenge Mode in Guild Wars
 
 The guide can be read sequentially using the "Previous" and "Next" buttons present on most pages, but feel free to search or navigate to whatever most interests you.
 
-<a href="introduction/getting-started.html">
+<a href="getting-started.html">
 <button class="button index-button intro-index" role="link">Start Reading</button>
 </a>
 
