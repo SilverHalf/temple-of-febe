@@ -15,7 +15,7 @@ The guide can be read sequentially using the "Previous" and "Next" buttons prese
 <button class="button index-button intro-index" role="link">Start Reading</button>
 </a>
 
-<a href="mechanics/mechanics.html">
+<a href="mechanics.html">
 <button class="button index-button mechanics-index" role="link">Mechanics Reference</button>
 </a>
 

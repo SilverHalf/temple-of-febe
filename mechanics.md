@@ -5,7 +5,8 @@ nav_order: 6
 has_children: true
 ---
 
-[Previous](../introduction/lcm.html){: .btn } [Next](general.html){: .btn }
+[Return to Home](index.html){: .btn }
+{: .center}
 
 # Cerus, the Glaive of House Nephus
 {: .center .no_toc}
@@ -42,7 +43,7 @@ This section contains a detailed description of the various attacks and mechanic
 
 The location in which you fight Cerus is the Temple of Febe. It is accessible from the portal in the [Wizard's Tower](https://wiki.guildwars2.com/wiki/The_Wizard%27s_Tower), and can be entered freely once the [Treachery](https://wiki.guildwars2.com/wiki/Treachery) story step is completed.
 
-<img class='center bordered' width='100%' src="../images/mechanics/Temple_of_Febe.webp" />
+<img class='center bordered' width='100%' src="./images/mechanics/Temple_of_Febe.webp" />
 
 Cerus will spawn in the center of this arena, and never moves from there.
 
@@ -71,8 +72,8 @@ Furthermore, Cerus will summon in individual [Embodiments] at consistent interva
 <details>
 <summary><b>View Timeline</b></summary>
 <div>
-  <img class="timeline-img" src="../timelines/images/phase1/row1.svg">
-  <img class="timeline-img" src="../timelines/images/phase1/row2.svg">
+  <img class="timeline-img" src="./timelines/images/phase1/row1.svg">
+  <img class="timeline-img" src="./timelines/images/phase1/row2.svg">
 </div>
 </details>
 This is the simplest phase, where mechanics are still relatively unforgiving. Cerus will spawn in an [Embodiment] every 30 seconds.
@@ -82,12 +83,12 @@ This is the simplest phase, where mechanics are still relatively unforgiving. Ce
 <details>
 <summary><b>View Timeline</b></summary>
 <div>
-  <img class="timeline-img" src="../timelines/images/phase2/row1.svg">
-  <img class="timeline-img" src="../timelines/images/phase2/row2.svg">
-  <img class="timeline-img" src="../timelines/images/phase2/row3.svg">
+  <img class="timeline-img" src="./timelines/images/phase2/row1.svg">
+  <img class="timeline-img" src="./timelines/images/phase2/row2.svg">
+  <img class="timeline-img" src="./timelines/images/phase2/row3.svg">
 </div>
 </details>
-In this phase, at least two [Aspects] will be <img class="inline empowered_add"> **Empowered**, increasing the challenge posed. [Embodiments] will start spawning in every 20 seconds.
+In this phase, at least two [Aspects] will be <img class="inline empowered_add"> [Empowered](#-empowered-1), increasing the challenge posed. [Embodiments] will start spawning in every 20 seconds.
 {: .no_toc}
 
 #### Third Phase - 50% to 10%
@@ -95,14 +96,14 @@ In this phase, at least two [Aspects] will be <img class="inline empowered_add">
 <details>
 <summary><b>View Timeline</b></summary>
 <div>
-  <img class="timeline-img" src="../timelines/images/phase3/row1.svg">
-  <img class="timeline-img" src="../timelines/images/phase3/row2.svg">
-  <img class="timeline-img" src="../timelines/images/phase3/row3.svg">
-  <img class="timeline-img" src="../timelines/images/phase3/row4.svg">
-  <img class="timeline-img" src="../timelines/images/phase3/row5.svg">
+  <img class="timeline-img" src="./timelines/images/phase3/row1.svg">
+  <img class="timeline-img" src="./timelines/images/phase3/row2.svg">
+  <img class="timeline-img" src="./timelines/images/phase3/row3.svg">
+  <img class="timeline-img" src="./timelines/images/phase3/row4.svg">
+  <img class="timeline-img" src="./timelines/images/phase3/row5.svg">
 </div>
 </details>
-At least four [Aspects] will be <img class="inline empowered_add"> **Empowered**, bringing noticeable difficulty. [Embodiments] will start spawning in every 15 seconds.
+At least four [Aspects] will be <img class="inline empowered_add"> [Empowered](#-empowered-1), bringing noticeable difficulty. [Embodiments] will start spawning in every 15 seconds.
 
 
 #### Final Phase - 10% to 0%
@@ -110,7 +111,7 @@ At least four [Aspects] will be <img class="inline empowered_add"> **Empowered**
 <details>
 <summary><b>View Timeline</b></summary>
 <div>
-  <img class="timeline-img" src="../timelines/images/phase4/full.svg">
+  <img class="timeline-img" src="./timelines/images/phase4/full.svg">
 </div>
 </details>
 The most difficult part of the fight. This phase starts with a <img class='inline defiance'> [Defiance Bar] and [Petrify] attack. Once this is done, Cerus will start casting [Enraged Smash] every four seconds, progressively gaining stacks of <img class="inline empowered"> [Empowered]. Meanwhile, a new [Embodiment] will spawn in every 5 seconds.
@@ -121,7 +122,7 @@ The most difficult part of the fight. This phase starts with a <img class='inlin
 
 The first and second split phase occur at 80% and 50% HP respectively. Each split phase begins with a <img class="inline defiance"> [Defiance Bar] and the [Petrify] attack, after which Cerus will disappear and all six [Embodiments] will spawn onto the platform in their standard positions.
 
-Three [Embodiments] will gain the <img class="inline empowered_add"> **Empowered** effect. These can be identified due to being noticeably larger than usual.
+Three [Embodiments] will gain the <img class="inline empowered_add"> [Empowered](#-empowered-1) effect. These can be identified due to being noticeably larger than usual.
 
 - [Envy], [Rage] and [Regret] will always empower at 80%.
 - [Despair], [Gluttony] and [Malice] will always empower at 50%.
@@ -131,9 +132,9 @@ After the beginning of the split phase proper, an [Embodiment] will perform the 
 Killing an Embodiment will complete the split phase and resummon Cerus, beginning the next [main phase]. Furthermore **all living Aspects will transfer their unique buffs to Cerus**. This includes both types of <img class="inline empowered"> <img class="inline empowered_add"> **Empowered**.
 
 {: .note}
-Killing an <img class="inline empowered_add"> **Empowered** Embodiment will result in the corresponding attack not being <img class="inline empowered_add"> **Empowered** on Cerus. However, the opposite is also true: killing an un-empowered Embodiment will result in the corresponding attack becoming <img class="inline empowered_add"> **Empowered**. This is usually only done on Embodiment of Sin runs.
+Killing an <img class="inline empowered_add"> [Empowered](#-empowered-1) Embodiment will result in the corresponding attack not being <img class="inline empowered_add"> [Empowered](#-empowered-1) on Cerus. However, the opposite is also true: killing an un-empowered Embodiment will result in the corresponding attack becoming <img class="inline empowered_add"> [Empowered](#-empowered-1). This is usually only done on Embodiment of Sin runs.
 
-The practical result is that at the end of the 80% split, at least two of Cerus's skills will be <img class="inline empowered_add"> **Empowered**, increasing to at least four under 50%.
+The practical result is that at the end of the 80% split, at least two of Cerus's skills will be <img class="inline empowered_add"> [Empowered](#-empowered-1), increasing to at least four under 50%.
 
 ---
 
@@ -180,7 +181,7 @@ When summoned during by Cerus during one of his [main phases](#main-phases), Emb
 
 This attack has two components: the first is a set of "spreads": small circular AoEs that target all players and take 5 seconds to fill, dealing damage when complete. Players will take damage from all AoEs they are in.
 
-<img class="attack_gif bordered" src="../../images/mechanics/despair.gif">
+<img class="attack_gif bordered" src="./images/mechanics/despair.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -245,11 +246,11 @@ It is possible to avoid both the initial damage and the resulting pool by dodgin
 
 [Flower] is relatively forgiving with dodge timings, but in [UNIT] early dodges wil place the pool where your teammates finish their own dodge, potentially killing them.
 
-Players can use <img class="inline distort"> [Distortion] and other forms of <img class="inline determined"> [Invulnerability] to avoid both components of the attack when un-Empowered. When <img class="inline empowered_add"> Empowered, <img class="inline determined"> [Invulnerability] does not work on the pools, so an established strategy is to use it to stop the initial damage, and then dodge out of the resulting pool before its first damage tick (~1 second). 
+Players can use <img class="inline distort"> [Distortion] and other forms of <img class="inline determined"> [Invulnerability] to avoid both components of the attack when un-Empowered. When <img class="inline empowered_add"> [Empowered](#-empowered-1), <img class="inline determined"> [Invulnerability] does not work on the pools, so an established strategy is to use it to stop the initial damage, and then dodge out of the resulting pool before its first damage tick (~1 second). 
 
 An equally valid strategy is to dodge the initial drop earlier than usual, and then use a mobility skill to quickly get out of the pools before taking any damage.
 
-When <img class="inline empowered_add"> Empowered, the AoEs from this attack take up a large amount of space. Common strategies to keep the arena clear involve placing them in organized formations far from the boss.
+When <img class="inline empowered_add"> [Empowered](#-empowered-1), the AoEs from this attack take up a large amount of space. Common strategies to keep the arena clear involve placing them in organized formations far from the boss.
 
 <img class=divider>
 
@@ -257,7 +258,7 @@ When <img class="inline empowered_add"> Empowered, the AoEs from this attack tak
 
 Spawns a wall centered on the boss or the Embodiment of Envy, depending on who cast it. The wall completes a full rotation counterclockwise before disappearing, dealing damage and corrupting all boons on allies it hits, pets and minions included.
 
-<img class="attack_gif bordered" src="../../images/mechanics/envy.gif">
+<img class="attack_gif bordered" src="./images/mechanics/envy.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -320,7 +321,7 @@ A second wall spawns opposite to the first one, and rotates in the same directio
 
 When cast from the boss, it's important to stack tightly before the mechanic, so as to consistently bait it towards the same direction. Avoiding the attack in its normal version then becomes as simple as sidestepping it to the left, and then following it around the boss. 
 
-With the empowered version, dealing with the walls is one of the main problems of encounter strategy, and the solution varies based on the instant in the fight where the mechanic occurs.
+With the <img class='inline empowered_add'> [Empowered](#-empowered-1) version, dealing with the walls is one of the main problems of encounter strategy, and the solution varies based on the instant in the fight where the mechanic occurs.
 
 It is possible to jump-dodge the fast wall: with the correct timing this will avoid both the damage and the boon corrupt. However, since the damage is usually trivial, most people prefer to just jump. Try to jump while running towards the wall, so your overall clearance is greater. With practice, this becomes very consistent.
 
@@ -332,7 +333,7 @@ In case someone get hit by the empowered wall, players should be ready to strip 
 
 Three large orbs and several smaller ones will spawn randomly around the edge of the platform, and start moving towards the caster, whether it be Cerus or the [Embodiment] of Gluttony. Each large orb must be body-blocked by three different players to be destroyed. Blocking any large orb will give a stack of <img class="inline insatiable"> [Insatiable], which deals a constant damage every second.
 
-<img class="attack_gif bordered" src="../../images/mechanics/gluttony.gif">
+<img class="attack_gif bordered" src="./images/mechanics/gluttony.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -342,7 +343,7 @@ If any orbs reach Cerus, they will give him <img class="inline barrier"> [Barrie
 Five orbs spawn, instead of three. <img class="inline insatiable"> [Insatiable] stacks last for longer.
 
 {: .legendary }
-When <img class="inline empowered_add"> **Empowered**, <img class="inline insatiable"> [Insatiable] stacks are permanent.
+When <img class="inline empowered_add"> [Empowered](#-empowered-1), <img class="inline insatiable"> [Insatiable] stacks are permanent.
 
 #### Extra Information
 {: .no_toc}
@@ -403,7 +404,7 @@ This attack is often one of the easiest ways to bleed <img class="inline empower
 
 One of the most commonly used methods to ensure this is to have two [marked](https://wiki.guildwars2.com/wiki/Commander#Markers) players, one in each subgroup. These people then call out the side of the boss they move to when collecting, and their subgroups follow them. Subgroups can set a [personal target](https://wiki.guildwars2.com/wiki/Call_Target#Set_Personal_Target) on the player they’re supposed to follow to see them better. Since there are five people per subgroup, this also makes it simpler to collect during overlaps with the [Regret] mechanic.
 
-Because of the permanent <img class="inline insatiable"> [Insatiable] stacks, Gluttony is almost never <img class="inline empowered_add"> Empowered outside of title runs. In this case, groups will often run a third healer to manage the additional damage pressure. Deleting orbs will make collecting the rest much more manageable.
+Because of the permanent <img class="inline insatiable"> [Insatiable] stacks, Gluttony is almost never <img class="inline empowered_add"> [Empowered](#-empowered-1) outside of title runs. In this case, groups will often run a third healer to manage the additional damage pressure. Deleting orbs will make collecting the rest much more manageable.
 
 DPS players should try to avoid going over 3 stacks of <img class="inline insatiable"> [Insatiable], 6 for title runs.
 
@@ -413,7 +414,7 @@ DPS players should try to avoid going over 3 stacks of <img class="inline insati
 
 Targets a random player with a tether. After 5 seconds, the tether will complete, applying a damage-over-time effect and spawning a Malice on the player's location.
 
-<img class="attack_gif bordered" src="../../images/mechanics/malice.gif">
+<img class="attack_gif bordered" src="./images/mechanics/malice.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -433,7 +434,7 @@ Malices have increased health and toughness.
 - Malices have 2252 toughness in normal CM, compared to the global standard of 2597, meaning that power damage is 15.3% more effective. In legendary CM, they instead have standard toughness.
 - Malices have 630'960  HP in normal CM. In legendary CM, they instead have 946'440 HP (50% more).
 - If placed in certain areas on the east side of the platform, Malices will pathfind to a point just north or south of the boss, instead of directly towards it, as shown in the figure.
-<img class="arena_image" width="70%" src="../images/mechanics/pathing.webp" />
+<img class="arena_image" width="70%" src="./images/mechanics/pathing.webp" />
 - Malices are affected by all forms of soft crowd control once their <img class="inline resistance"> [Resistance] runs out.
 - Players will receive a sound cue and their screen border will become purple-white when targeted by the tether. Additionally, the remaining time before the tether completes is shown as a timer above their heads.
 - This attack has a maximum range, and if no-one is in it, no tethers will be applied and no adds will spawn.
@@ -504,7 +505,7 @@ Commonly <img class="inline immobile"> [Immobilizing] is done by a <img class='i
 
 Cerus charges up an attack that affects a large AoE centered on himself, dealing massive, unavoidable damage and inflicting <img class="inline exposed"> [Exposed] to any players it hits.
 
-<img class="attack_gif bordered" src="../../images/mechanics/rage.gif">
+<img class="attack_gif bordered" src="./images/mechanics/rage.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -566,7 +567,7 @@ Portals are used to move the squad out of the attack’s area of effect, usually
 
 <img class="inline portal"> [Portal Entre] can be prepared outside of the radius of the attack, and should generally be opened on top of the squad or in the center of the boss's hitbox.
 
-<img class="inline sand-swell"> [Sand Swell]'s range is less than the radius of the empowered attack. When the situation calls for it, the <img class="inline scourge"> [Scourge] should pre-position at the correct distance from the boss so that the portal clears the outer edge of the AoE.
+<img class="inline sand-swell"> [Sand Swell]'s range is less than the radius of the <img class='inline empowered'> [Empowered](#-empowered-1) attack. When the situation calls for it, the <img class="inline scourge"> [Scourge] should pre-position at the correct distance from the boss so that the portal clears the outer edge of the AoE.
 
 Since <img class="inline sand-swell"> [Sand Swell] is not as easily visible as <img class="inline portal"> [Portal Entre], it is common practice to place a marker on the <img class="inline scourge"> [Scourge], who by positioning preemptively facilitates the other players' finding the portal entrance.
 
@@ -576,7 +577,7 @@ Since <img class="inline sand-swell"> [Sand Swell] is not as easily visible as <
 
 Spawns a green circle on a random player that explodes after 5 seconds. If there are less than 5 players in its radius, it will <img class="inline down"> [Downstate] every player and give them a stack of <img class="inline exposed"> [Exposed], and Cerus will gain 5 stacks of <img class="inline empowered"> [Empowered].
 
-<img class="attack_gif bordered" src="../../images/mechanics/regret.gif">
+<img class="attack_gif bordered" src="./images/mechanics/regret.gif">
 
 <div class="smalltext center">GIF credit: Snowcrows</div>
 
@@ -638,7 +639,7 @@ Failing a green will instantly defeat the entire squad. Players who receive two 
 
 #### Strategy
 {: .no_toc}
-Managing the normal version of this attack is trivial, however the <img class="inline empowered_add"> Empowered version, known as "triple greens" is one of the most difficult mechanics in the entire game, and is rarely seen outside of title runs. This mechanic is managed in two ways:
+Managing the normal version of this attack is trivial, however the <img class="inline empowered_add"> [Empowered](#-empowered-1) version, known as "triple greens" is one of the most difficult mechanics in the entire game, and is rarely seen outside of title runs. This mechanic is managed in two ways:
 1. "Solving" the greens by ensuring that three people are in each and that they do not overlap.
 2. "Cheesing" the mechanic using squad-wide damage prevention skills such as <img class="inline rebound"> [Rebound!] and <img class='inline no-yield'> [We Will Never Yield!].
 
@@ -650,7 +651,7 @@ Managing the normal version of this attack is trivial, however the <img class="i
 
 In the following image, each circle represents a player, with the first row being the Anchors, the second the Backups, and the last one the Runners and Floats, while the columns represent individual groups.
 
-![Green Strategy](../../images/mechanics/green_strat.webp)
+![Green Strategy](./images/mechanics/green_strat.webp)
 <div class="smalltext center">Image credit: @Luna</div>
 
 The Anchors are usually [marked](https://wiki.guildwars2.com/wiki/Commander#Markers), and spread out to pre-established locations before each green mechanic, with their groups following them. When greens appear, each player acts according to their role:
@@ -671,6 +672,192 @@ Skills such as <img class="inline rebound"> [Rebound!] and <img class='inline no
 <img class="inline rebound"> [Rebound!] can save a subgroup from two overlapping greens: this lets the group split into two groups instead of three, with the only issue arising if all three greens spawn in the same subgroup.
 
 <img class='inline no-yield'> [We Will Never Yield!] is extremely strong as it is the only skill that permits players to stack all three greens with almost no risk. For this reason, bringing several <img class='inline paragon'> [Paragons] makes this mechanic almost trivial to solve.
+
+<img class="divider">
+
+## Other Attacks
+
+Apart from [Aspect] mechanics, Cerus performs two other important attacks:
+
+- [Petrify](other/petrify.html): occurs on every phase transition.
+- [Enraged Smash](other/smash.html): increasing, pulsing, unavoidable damage throughout the final phase of the fight.
+
+---
+
+### Petrify
+
+This attack is performed whenever Cerus gains a <img class="inline defiance"> [Defiance Bar], at 80%, 50% and 10% HP.
+
+Cerus will tether to each player, applying a stack of <img class="inline petrify"> [Petrify](https://wiki.guildwars2.com/wiki/Petrify_(effect)), with an additional stack applied every 0.7 seconds for 7 seconds. Stacks have individual duration, and reduce outgoing damage, speed and casting speed by 10% for 7 seconds. At 10 stacks, players are stunned for 8 seconds. This stun cannot be impeded or broken.
+
+The attack can be interrupted by breaking Cerus’ <img class="inline defiance"> [Defiance Bar]. This removes the two stacks with the longest duration remaining.
+
+If the <img class="inline defiance"> [Defiance Bar] is not broken within 7.7 seconds of it appearing, the entire squad is _instantly defeated_.
+
+#### Extra Information
+{: .no_toc}
+
+- The <img class="inline defiance"> [Defiance Bar] requires 3600 damage to be broken.
+- The condition damage reduction is evaluated on every condition damage tick; condition stacks that are applied with this effect will not have reduced damage on damage ticks that happen after the effect runs out.
+- <img class="inline petrify"> [Petrify](https://wiki.guildwars2.com/wiki/Petrify_(effect)) is not visible in the user interface.
+- It is possible to phase even after the stun occurs, if the boss is afflicted by defiance-breaking conditions, such as <img class="inline chill"> [Chill], <img class="inline immobile"> [Immobilize] or <img class="inline fear"> [Fear].
+
+#### Mitigation <a href='#mitigation-tables'>?</a>
+{: .no_toc .center}
+<div>
+  <ul class="mechtable">
+    <li class="table-header">
+      <img class="table-img distort">
+      <img class="table-img glint_h">
+      <img class="table-img feedback">
+      <img class="table-img dodge">
+      <img class="table-img jump">
+      <img class="table-img protection">
+      <img class="table-img block">
+      <img class="table-img barrier">
+    </li>
+    <li class="table-row">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+    </li>
+  </ul>
+</div>
+
+---
+
+#### Strategy
+{: .no_toc}
+Quickly breaking Cerus's <img class="inline defiance"> [Defiance Bar] is extremely important. Not only is it a de-facto DPS increase, it also facilitates transitions, especially in the final phase.
+
+![Petrify visualization](./images/mechanics/petrify.webp)
+
+If the bar is broken within 1.4 seconds of its appearance, it will have no effects whatsoever on the beginning of the next phase. Any more, and the squad will be debuffed for five seconds. This is not terrible in the split phases, but for Legendary Mode you will need all the damage you can get in the final 10%.
+
+Fortunately, the <img class="inline defiance"> [Defiance Bar] is not very difficult to break. Healers should be bringing heavy CC skills such as <img class="inline golem"> [Summon Flesh Golem] and <img class="inline moa"> [Signet of Humility], and everyone else should just use basic CC skills.
+
+
+<img class=divider>
+
+### Enraged Smash
+
+Deals unavoidable damage to all players, and gives Cerus two stacks of <img class="inline empowered"> [Empowered]. The damage dealt by each smash therefore increases gradually until either Cerus or the squad dies.
+
+Cerus will perform this attack every four seconds in the final phase of the fight, and will not perform any other attacks. The first attack will occur right after the players break his <img class="inline defiance"> [Defiance Bar] at the end of the third phase.
+
+{: .legendary}
+Cerus will gain three <img class="inline empowered"> [Empowered] stacks whenever he performs this attack, instead of two.
+
+#### Extra Information
+{: .no_toc}
+- Cerus will gain the <img class="inline empowered"> [Empowered] stacks _before_ applying damage. This means that the phase will always start with at least two stacks.
+- The damage dealt by this skill is affected by direct damage reduction, such as from <img class="inline protection"> [Protection](https://wiki.guildwars2.com/wiki/Protection), <img class="inline peppercorn"> [Ascended Food](https://wiki.guildwars2.com/wiki/Spherified_Peppercorn-Spiced_Oyster_Soup) or <img class="inline dwarf"> [Rite of the Great Dwarf](https://wiki.guildwars2.com/wiki/Rite_of_the_Great_Dwarf).
+
+#### Mitigation <a href='#mitigation-tables'>?</a>
+{: .no_toc .center}
+<div>
+  <ul class="mechtable">
+    <li class="table-header">
+      <img class="table-img distort">
+      <img class="table-img glint_h">
+      <img class="table-img feedback">
+      <img class="table-img dodge">
+      <img class="table-img jump">
+      <img class="table-img protection">
+      <img class="table-img block">
+      <img class="table-img barrier">
+    </li>
+    <li class="table-row">
+      <img class="table-img notok">
+      <img class="table-img ok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img notok">
+      <img class="table-img ok">
+      <img class="table-img notok">
+      <img class="table-img ok">
+    </li>
+  </ul>
+</div>
+
+---
+
+#### Strategy
+{: .no_toc}
+This skill's existence imposes a soft limit on the number of <img class="inline empowered"> [Empowered] stacks you can let Cerus gain before getting to the final phase. This is especially pronounced in legendary CM, where it becomes extremely difficult to keep the squad alive if the final phase begins with 10 or more stacks.
+
+![Enraged Smash Damage](./images/mechanics/smash.svg)
+{: .center}
+
+The figure above shows the minimum survival time in the final LCM phase for two DPS builds: a normal, raid-ready <img class="inline virtuoso"> [Condition Virtuoso](https://snowcrows.com/builds/raids/mesmer/condition-virtuoso), and a modified [version](http://en.gw2skills.net/editor/?PiwAgy3lVwQYKsEmLW6WdxdA-DyQY/o9oLrEaJzxoQaFvA89CIIBx2/tQ/DGUB-e) of the same build that is running <img class="inline peppercorn"> [Spherified Peppercorn-Spiced Oyster Soup](https://wiki.guildwars2.com/wiki/Spherified_Peppercorn-Spiced_Oyster_Soup) for more survivability. There is about a +/-5% variance in the damage dealt by each smash, so each build starts running the risk of getting one-shot at 45 and 53 <img class="inline empowered"> [Empowered] respectively. With the Peppercorn build, if starting at 0 stacks, this means around 68 seconds into the phase. If starting at 10 <img class="inline empowered"> [Empowered], this is lowered to 52 seconds, a much tighter interval.
+
+<img class="divider">
+
+## Effects
+
+This section contains information on unique effects present in the Temple of Febe encounter.
+
+---
+
+### <img class='inline empowered'> Empowered
+
+This is an effect granted to Cerus whenever certain mechanics are misplayed. <img class='inline empowered'> [Empowered] is **permanent** and stacks in intensity, with each stack increasing Cerus’s damage by 5%, up to a maximum of 99 stacks, when his attacks additionally become unblockable.
+
+Due to the difficult healing check at the end of the fight, players should try to avoid giving stacks to the boss as much as possible. In Legendary Mode, it is almost impossible to complete the encounter if Cerus has more than 10 stacks at the beginning of the final phase, while the normal CM is a bit more lenient.
+
+#### Stack Sources
+{: .no_toc}
+All possible sources of <img class="inline empowered"> [Empowered] are provided below for reference's sake.
+
+- [Insatiable Huger](#gluttony---insatiable-hunger) - 1-3 stacks every time an orb is not collected.
+- [Malicious Intent](#malice---malicious-intent) - 5 stacks when a summoned Malice reaches Cerus and is sacrificed.
+- [Cry of Rage](#rage---cry-of-rage) - one stack whenever a player is hit by the AoE.
+- [Enraged Smash] - 2 stacks whenever Cerus uses this attack (3 in legendary mode).
+- [Crushing Regret](#regret---crushing-regret) - 5 stacks whenever there are not enough players in a green.
+
+---
+
+### <img class='inline empowered_add'> Empowered
+
+This in reality is not a single effect, but six different ones:
+
+- <img class='inline empowered_add'> [Empowered Despair](https://wiki.guildwars2.com/wiki/Empowered_Despair_(Cerus))
+- <img class='inline empowered_add'> [Empowered Envy](https://wiki.guildwars2.com/wiki/Empowered_Envy_(Cerus))
+- <img class='inline empowered_add'> [Empowered Gluttony](https://wiki.guildwars2.com/wiki/Empowered_Gluttony_(Cerus))
+- <img class='inline empowered_add'> [Empowered Malice](https://wiki.guildwars2.com/wiki/Empowered_Malice_(Cerus))
+- <img class='inline empowered_add'> [Empowered Rage](https://wiki.guildwars2.com/wiki/Empowered_Rage_(Cerus))
+- <img class='inline empowered_add'> [Empowered Regret](https://wiki.guildwars2.com/wiki/Empowered_Regret_(Cerus))
+
+Each of these significantly buffs the skill related to its connected [Aspect] for the user, which can be either Cerus or his associated [Embodiment].
+
+<img class='inline empowered_add'> [Empowered](#-empowered-1) is gained by [Embodiments] at the start of [split phases]. In particular:
+
+- [Envy], [Rage] and [Regret] will gain it at the 80% phase.
+- [Despair], [Gluttony] and [Malice] will gain in at the 50% phase.
+
+Any [Embodiments] that are alive and have the effect at the end of a split phase will transfer it to Cerus.
+
+Any [Embodiments] that do not have the effect and are killed during a split phase will grant the effect to Cerus.
+
+[Embodiments] affected by <img class='inline empowered_add'> [Empowered](#-empowered-1) are noticeably larger than their regular counterparts. Cerus instead is not visually affected by this effect.
+
+---
+
+### <img class='inline insatiable'> Insatiable
+
+This is an effect granted by blocking orbs from [Gluttony]'s attack. It stacks in intensity, with each orb granting an additional stack. Stacks last 60 seconds and deal 350 damage every second, unaffected by any increases or reductions.
+
+{: .empowered_description }
+Stacks last for three minutes.
+
+{: .legendary }
+Stacks are permanent.
+
 
 <img class="divider">
 
@@ -715,16 +902,19 @@ The top header represents various skills, buffs and abilities:  <img class="inli
 
 The following row represents levels of mitigation for the normal attack. <img class="inline ok"> means that the corresponding skill is effective against the attack if used correctly, <img class="inline kinda"> means the attack can be at least partially mitigated, and <img class="inline notok"> means the skill has no effect whatsoever on the attack. The second row, if present, represents the same but for the <img class='inline empowered_add'> Empowered version of the skill.
 
-[Previous](../introduction/lcm.html){: .btn } [Next](general.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
+[Return to Home](index.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
+{: .center}
 
 <!-- Guide Links -->
 [Aspect]: #aspects-of-cerus
 [Aspects]: #aspects-of-cerus
 [Embodiment]: #embodiments
 [Embodiments]: #embodiments
-[Empowered]: https://wiki.guildwars2.com/wiki/Empowered_(Cerus)
+[Empowered]: #-empowered
 [Petrify]: #petrify
+[Enraged Smash]: #enraged-smash
 [main phase]: #main-phases
+[split phases]: #split-phases
 [Flower]: #cerus-the-glaive-of-house-nephus
 [UNIT]: #cerus-the-glaive-of-house-nephus
 [Despair]: #despair---wail-of-despair
@@ -745,12 +935,15 @@ The following row represents levels of mitigation for the normal attack. <img cl
 [Torment]: https://wiki.guildwars2.com/wiki/Torment
 [Alacrity]: https://wiki.guildwars2.com/wiki/Alacrity
 [Quickness]: https://wiki.guildwars2.com/wiki/Quickness
+[Immobilize]: https://wiki.guildwars2.com/wiki/Immobile
 [Immobilized]: https://wiki.guildwars2.com/wiki/Immobile
 [Immobilizing]: https://wiki.guildwars2.com/wiki/Immobile
 [Resistance]: https://wiki.guildwars2.com/wiki/Resistance
 [Exposed]: https://wiki.guildwars2.com/wiki/Exposed
 [Extreme Vulnerability]: https://wiki.guildwars2.com/wiki/Extreme_Vulnerability
 [Downstate]: https://wiki.guildwars2.com/wiki/Downed
+[Chill]: https://wiki.guildwars2.com/wiki/Chilled
+[Fear]: https://wiki.guildwars2.com/wiki/Fear
 
 <!-- Classes/Specializations -->
 [Mesmer]: https://wiki.guildwars2.com/wiki/Mesmer
@@ -777,6 +970,8 @@ The following row represents levels of mitigation for the normal attack. <img cl
 [Epidemic]: https://wiki.guildwars2.com/wiki/Epidemic
 [We Will Never Yield!]: https://wiki.guildwars2.com/wiki/%22We_Will_Never_Yield!%22
 [Rebound!]: https://wiki.guildwars2.com/wiki/%22Rebound!%22
+[Signet of Humility]: https://wiki.guildwars2.com/wiki/Signet_of_Humility
+[Summon Flesh Golem]: https://wiki.guildwars2.com/wiki/Summon_Flesh_Golem
 
 <!-- Other -->
 [Defiance Bar]: https://wiki.guildwars2.com/wiki/Defiance_bar
