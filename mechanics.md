@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Mechanical Reference
-nav_order: 6
-has_children: true
+nav_order: 3
 ---
 
-[Return to Home](index.html){: .btn }
+[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn }
 {: .center}
 
-## Cerus, the Glaive of House Nephus
+# Cerus, the Glaive of House Nephus
 {: .center .no_toc}
 
 <img class='center bordered' width='80%' src="../images/mechanics/Cerus.webp" />
@@ -927,7 +926,7 @@ The top header represents various skills, buffs and abilities:  <img class="inli
 
 The following row represents levels of mitigation for the normal attack. <img class="inline ok"> means that the corresponding skill is effective against the attack if used correctly, <img class="inline kinda"> means the attack can be at least partially mitigated, and <img class="inline notok"> means the skill has no effect whatsoever on the attack. The second row, if present, represents the same but for the <img class='inline empowered_add'> Empowered version of the skill.
 
-[Return to Home](index.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
+[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
 {: .center}
 
 <!-- Guide Links -->

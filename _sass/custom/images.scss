@@ -21,6 +21,7 @@
     display: block;
 	margin-left: auto;
 	margin-right: auto;
+    margin-top: 40px;
 }
 
 // ICON IMAGE BINDINGS
@@ -80,6 +81,9 @@
 }
 .fear{
 	content: url('https://wiki.guildwars2.com/images/thumb/e/e6/Fear.png/30px-Fear.png');
+}
+.cripple {
+    content: url(https://wiki.guildwars2.com/images/f/fb/Crippled.png);
 }
 
 // Classes
@@ -208,6 +212,12 @@
 }
 .no-yield {
     content: url(https://wiki.guildwars2.com/images/thumb/0/03/%22We_Will_Never_Yield%21%22.png/72px-%22We_Will_Never_Yield%21%22.png);
+}
+.mind-the-gap {
+    content: url(https://wiki.guildwars2.com/images/thumb/3/3e/Mind_the_Gap.png/50px-Mind_the_Gap.png);
+}
+.lancer {
+    content: url(https://wiki.guildwars2.com/images/thumb/f/f0/Phantasmal_Lancer.png/50px-Phantasmal_Lancer.png);
 }
 
 //markers
