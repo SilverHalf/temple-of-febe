@@ -9,22 +9,22 @@ nav_order: 1
 
 This website contains a guide to the Temple of Febe Challenge Mode in Guild Wars 2. The objective of this guide is to be a starting point for players just starting to get into the encounter, but also a reference for more experienced players who want to increase their knowledge.
 
-The guide can be read sequentially using the "Previous" and "Next" buttons present on most pages, but feel free to search or navigate to whatever most interests you.
+[Introduction](./getting-started.html){: .btn .center}
 
-<a href="introduction/getting-started.html">
-<button class="button index-button intro-index" role="link">Start Reading</button>
-</a>
+<div class="row-container">
+    <a href='./mechanics.html' class="index-button" style="background-image: url(./images/intro.webp);">Mechanics</a>
+    <a href='./unit.html' class="index-button" style="background-image: url(./images/strategy.webp);"> UNIT</a>
+    <a href='./flower.html' class="index-button" style="background-image: url();">[WIP] Flower</a>
+</div>
 
-<a href="mechanics/mechanics.html">
-<button class="button index-button mechanics-index" role="link">Mechanics Reference</button>
-</a>
+---
 
-<a href="unit/overview.html">
-<button class="button index-button strategy-index" role="link">Strategy Guide</button>
-</a>
+### Have you found a mistake in this guide?
+{: .center}
 
-### Feedback and Contributions
+Whether it's a typo, a mis-spelled word, an awkward sentence, a factual mistake, or perhaps you simply just [disagree](https://xkcd.com/386/) with something on the guide, please open an [issue](https://github.com/SilverHalf/temple-of-febe/issues)! Your corrections will help make this project more useful to everyone.
 
-This guide was made thanks to the help of multiple members of the community, and is open-source! If you feel anything is incorrect or can be made better, please open an issue [here](https://github.com/SilverHalf/temple-of-febe/issues)! If you have anything you want to contribute, feel free contact me on github or discord.
+### Do you want to contribute to this project?
+{: .center}
 
-![Cerus is waiting.](images/TofCroptransparent.png)
+Contributions are very welcome. Feel free to contact me on Discord (silverhalf) or through github.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="850" height="100" viewBox="0 0 850 100">
+     width="490" height="100" viewBox="0 0 490 100">
 <defs>
 </defs>
 <text x="40.0" y="43.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Cerus</text>
@@ -12,23 +12,11 @@
 <text x="365.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Malice</text>
 <rect x="400" y="29" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
 <text x="425.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
-<rect x="490" y="29" width="50" height="21" fill="green" rx="6" ry="6" />
-<text x="515.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Regret</text>
-<rect x="600" y="29" width="100" height="21" fill="#000156" rx="6" ry="6" />
-<text x="650.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Envy</text>
-<rect x="750" y="29" width="100" height="21" fill="purple" rx="6" ry="6" />
-<text x="800.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Gluttony</text>
 <text x="40.0" y="68.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Emb.</text>
 <rect x="190" y="54" width="50" height="21" fill="green" rx="6" ry="6" />
 <text x="215.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Regret</text>
 <rect x="340" y="54" width="50" height="21" fill="#5d4100" rx="6" ry="6" />
 <text x="365.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Rage</text>
-<rect x="490" y="54" width="100" height="21" fill="purple" rx="6" ry="6" />
-<text x="540.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Gluttony</text>
-<rect x="640" y="54" width="50" height="21" fill="black" rx="6" ry="6" />
-<text x="665.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Malice</text>
-<rect x="790" y="54" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
-<text x="815.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
 <text x="40.0" y="93.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Phasing</text>
 <rect x="80" y="79" width="160" height="21" fill="green" rx="6" ry="6" />
 <text x="160.0" y="91.5" font-size="10"></text>
@@ -38,15 +26,7 @@
 <text x="365.0" y="91.5" font-size="10"></text>
 <rect x="390" y="79" width="100" height="21" fill="orange" rx="6" ry="6" />
 <text x="440.0" y="91.5" font-size="10"></text>
-<rect x="490" y="79" width="110" height="21" fill="green" rx="6" ry="6" />
-<text x="545.0" y="91.5" font-size="10"></text>
-<rect x="600" y="79" width="90" height="21" fill="red" rx="6" ry="6" />
-<text x="645.0" y="91.5" font-size="10"></text>
-<rect x="690" y="79" width="50" height="21" fill="green" rx="6" ry="6" />
-<text x="715.0" y="91.5" font-size="10"></text>
-<rect x="740" y="79" width="110" height="21" fill="red" rx="6" ry="6" />
-<text x="795.0" y="91.5" font-size="10"></text>
-<path d="M0,25 L850,25" stroke="white" stroke-width="2" />
+<path d="M0,25 L490,25" stroke="white" stroke-width="2" />
 <path d="M80,0 L80,100" stroke="white" stroke-width="2" />
 <path d="M90,20.0 L90,25" stroke="white" stroke-width="0.5" />
 <path d="M100,22.5 L100,white" stroke="white" stroke-width="0.3" />
@@ -92,44 +72,4 @@
 <path d="M460,22.5 L460,white" stroke="white" stroke-width="0.3" />
 <path d="M470,22.5 L470,white" stroke="white" stroke-width="0.3" />
 <path d="M480,22.5 L480,white" stroke="white" stroke-width="0.3" />
-<path d="M490,20.0 L490,25" stroke="white" stroke-width="0.5" />
-<path d="M500,22.5 L500,white" stroke="white" stroke-width="0.3" />
-<path d="M510,22.5 L510,white" stroke="white" stroke-width="0.3" />
-<path d="M520,22.5 L520,white" stroke="white" stroke-width="0.3" />
-<path d="M530,22.5 L530,white" stroke="white" stroke-width="0.3" />
-<path d="M540,15.0 L540,25" stroke="white" stroke-width="1.5" />
-<text x="540.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">210</text>
-<path d="M550,22.5 L550,white" stroke="white" stroke-width="0.3" />
-<path d="M560,22.5 L560,white" stroke="white" stroke-width="0.3" />
-<path d="M570,22.5 L570,white" stroke="white" stroke-width="0.3" />
-<path d="M580,22.5 L580,white" stroke="white" stroke-width="0.3" />
-<path d="M590,20.0 L590,25" stroke="white" stroke-width="0.5" />
-<path d="M600,22.5 L600,white" stroke="white" stroke-width="0.3" />
-<path d="M610,22.5 L610,white" stroke="white" stroke-width="0.3" />
-<path d="M620,22.5 L620,white" stroke="white" stroke-width="0.3" />
-<path d="M630,22.5 L630,white" stroke="white" stroke-width="0.3" />
-<path d="M640,15.0 L640,25" stroke="white" stroke-width="1.5" />
-<text x="640.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">220</text>
-<path d="M650,22.5 L650,white" stroke="white" stroke-width="0.3" />
-<path d="M660,22.5 L660,white" stroke="white" stroke-width="0.3" />
-<path d="M670,22.5 L670,white" stroke="white" stroke-width="0.3" />
-<path d="M680,22.5 L680,white" stroke="white" stroke-width="0.3" />
-<path d="M690,20.0 L690,25" stroke="white" stroke-width="0.5" />
-<path d="M700,22.5 L700,white" stroke="white" stroke-width="0.3" />
-<path d="M710,22.5 L710,white" stroke="white" stroke-width="0.3" />
-<path d="M720,22.5 L720,white" stroke="white" stroke-width="0.3" />
-<path d="M730,22.5 L730,white" stroke="white" stroke-width="0.3" />
-<path d="M740,15.0 L740,25" stroke="white" stroke-width="1.5" />
-<text x="740.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">230</text>
-<path d="M750,22.5 L750,white" stroke="white" stroke-width="0.3" />
-<path d="M760,22.5 L760,white" stroke="white" stroke-width="0.3" />
-<path d="M770,22.5 L770,white" stroke="white" stroke-width="0.3" />
-<path d="M780,22.5 L780,white" stroke="white" stroke-width="0.3" />
-<path d="M790,20.0 L790,25" stroke="white" stroke-width="0.5" />
-<path d="M800,22.5 L800,white" stroke="white" stroke-width="0.3" />
-<path d="M810,22.5 L810,white" stroke="white" stroke-width="0.3" />
-<path d="M820,22.5 L820,white" stroke="white" stroke-width="0.3" />
-<path d="M830,22.5 L830,white" stroke="white" stroke-width="0.3" />
-<path d="M840,15.0 L840,25" stroke="white" stroke-width="1.5" />
-<text x="840.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">240</text>
 </svg>

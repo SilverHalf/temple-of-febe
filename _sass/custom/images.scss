@@ -21,6 +21,7 @@
     display: block;
 	margin-left: auto;
 	margin-right: auto;
+    margin-top: 40px;
 }
 
 // ICON IMAGE BINDINGS
@@ -67,6 +68,9 @@
 .swiftness{
 	content: url('https://wiki.guildwars2.com/images/thumb/a/af/Swiftness.png/30px-Swiftness.png');
 }
+.superspeed {
+    content: url(https://wiki.guildwars2.com/images/thumb/c/c8/Superspeed.png/60px-Superspeed.png);
+}
 
 // Conditions
 .torment{
@@ -80,6 +84,9 @@
 }
 .fear{
 	content: url('https://wiki.guildwars2.com/images/thumb/e/e6/Fear.png/30px-Fear.png');
+}
+.cripple {
+    content: url(https://wiki.guildwars2.com/images/f/fb/Crippled.png);
 }
 
 // Classes
@@ -103,6 +110,15 @@
 }
 .deadeye{
     content: url('https://wiki.guildwars2.com/images/7/70/Deadeye_icon_small.png');
+}
+.druid {
+    content: url(https://wiki.guildwars2.com/images/9/9b/Druid_icon_small.png);
+}
+.specter {
+    content: url(https://wiki.guildwars2.com/images/6/61/Specter_icon_small.png);
+}
+.paragon {
+    content: url(https://wiki.guildwars2.com/images/1/13/Paragon_icon_small.png);
 }
 
 // Skills
@@ -194,6 +210,18 @@
 .reversal {
     content: url('https://wiki.guildwars2.com/images/thumb/7/75/Reversal_of_Fortune.png/72px-Reversal_of_Fortune.png');
 }
+.epidemic {
+    content: url(https://wiki.guildwars2.com/images/thumb/9/9d/Epidemic.png/72px-Epidemic.png);
+}
+.no-yield {
+    content: url(https://wiki.guildwars2.com/images/thumb/0/03/%22We_Will_Never_Yield%21%22.png/72px-%22We_Will_Never_Yield%21%22.png);
+}
+.mind-the-gap {
+    content: url(https://wiki.guildwars2.com/images/thumb/3/3e/Mind_the_Gap.png/50px-Mind_the_Gap.png);
+}
+.lancer {
+    content: url(https://wiki.guildwars2.com/images/thumb/f/f0/Phantasmal_Lancer.png/50px-Phantasmal_Lancer.png);
+}
 
 //markers
 .arrow {
@@ -273,4 +301,20 @@
 }
 .star_empty {
     content: url('../../images/icons/star_empty.svg');
+}
+
+.sheets {
+	content: url(https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg);
+}
+
+.slides {
+	content: url(https://upload.wikimedia.org/wikipedia/commons/1/1e/Google_Slides_logo_%282014-2020%29.svg);
+}
+
+.docs {
+	content: url(https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg);
+}
+
+.youtube {
+	content: url(../../images/icons/video-icon.png);
 }

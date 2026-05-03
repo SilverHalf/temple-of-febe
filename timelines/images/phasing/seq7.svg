@@ -18,7 +18,14 @@
 <rect x="380" y="54" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
 <text x="405.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
 <text x="40.0" y="93.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Phasing</text>
+<rect x="80" y="79" width="110" height="21" fill="green" rx="6" ry="6" />
+<text x="135.0" y="91.5" font-size="10"></text>
+<rect x="190" y="79" width="90" height="21" fill="red" rx="6" ry="6" />
+<text x="235.0" y="91.5" font-size="10"></text>
 <rect x="280" y="79" width="50" height="21" fill="green" rx="6" ry="6" />
+<text x="305.0" y="91.5" font-size="10"></text>
+<rect x="330" y="79" width="110" height="21" fill="red" rx="6" ry="6" />
+<text x="385.0" y="91.5" font-size="10"></text>
 <path d="M0,25 L450,25" stroke="white" stroke-width="2" />
 <path d="M80,0 L80,100" stroke="white" stroke-width="2" />
 <path d="M90,22.5 L90,white" stroke="white" stroke-width="0.3" />

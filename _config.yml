@@ -25,6 +25,10 @@ callouts:
   warning:
     title: Warning
     color: red
+  
+  note:
+    title: note
+    color: gray
 
 color_scheme: dark_cerus
 
@@ -32,4 +36,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+sass:
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
 

@@ -3,35 +3,45 @@
      width="440" height="100" viewBox="0 0 440 100">
 <defs>
 </defs>
-<text x="60.0" y="43.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Enraged Smash</text>
+<text x="60.0" y="43.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Enraged Smash</text>
+<circle cx="120" cy="37.5" r="6.25" fill="red" />
+<path d="M120,25 L120,50" stroke="red" rx="6" ry="6" />
 <circle cx="160" cy="37.5" r="6.25" fill="red" />
-<path d="M160,25 L160,50" stroke="red" />
+<path d="M160,25 L160,50" stroke="red" rx="6" ry="6" />
 <circle cx="200" cy="37.5" r="6.25" fill="red" />
-<path d="M200,25 L200,50" stroke="red" />
+<path d="M200,25 L200,50" stroke="red" rx="6" ry="6" />
 <circle cx="240" cy="37.5" r="6.25" fill="red" />
-<path d="M240,25 L240,50" stroke="red" />
+<path d="M240,25 L240,50" stroke="red" rx="6" ry="6" />
 <circle cx="280" cy="37.5" r="6.25" fill="red" />
-<path d="M280,25 L280,50" stroke="red" />
+<path d="M280,25 L280,50" stroke="red" rx="6" ry="6" />
 <circle cx="320" cy="37.5" r="6.25" fill="red" />
-<path d="M320,25 L320,50" stroke="red" />
+<path d="M320,25 L320,50" stroke="red" rx="6" ry="6" />
 <circle cx="360" cy="37.5" r="6.25" fill="red" />
-<path d="M360,25 L360,50" stroke="red" />
+<path d="M360,25 L360,50" stroke="red" rx="6" ry="6" />
 <circle cx="400" cy="37.5" r="6.25" fill="red" />
-<path d="M400,25 L400,50" stroke="red" />
-<text x="60.0" y="68.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle">Aspects</text>
-<rect x="180" y="50" width="50" height="25" fill="black" />
-<text x="205.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Malice</text>
-<rect x="230" y="50" width="50" height="25" fill="red" />
-<text x="255.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Despair</text>
-<rect x="330" y="50" width="50" height="25" fill="green" />
-<text x="355.0" y="66.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Regret</text>
-<rect x="380" y="50" width="50" height="25" fill="orange" />
-<text x="405.0" y="66.5" font-size="12" fill="black" style="font-family:Segoe UI;text-anchor:middle">Rage</text>
-<text x="60.0" y="93.5" font-size="16" fill="white" style="font-family:Segoe UI;text-anchor:middle"></text>
-<rect x="130" y="75" width="100" height="25" fill="purple" />
-<text x="180.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Gluttony</text>
-<rect x="280" y="75" width="100" height="25" fill="blue" />
-<text x="330.0" y="91.5" font-size="12" fill="white" style="font-family:Segoe UI;text-anchor:middle">Envy</text>
+<path d="M400,25 L400,50" stroke="red" rx="6" ry="6" />
+<circle cx="440" cy="37.5" r="6.25" fill="red" />
+<path d="M440,25 L440,50" stroke="red" rx="6" ry="6" />
+<circle cx="480" cy="37.5" r="6.25" fill="red" />
+<path d="M480,25 L480,50" stroke="red" rx="6" ry="6" />
+<circle cx="520" cy="37.5" r="6.25" fill="red" />
+<path d="M520,25 L520,50" stroke="red" rx="6" ry="6" />
+<circle cx="560" cy="37.5" r="6.25" fill="red" />
+<path d="M560,25 L560,50" stroke="red" rx="6" ry="6" />
+<text x="60.0" y="68.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Emb.</text>
+<rect x="180" y="54" width="50" height="21" fill="black" rx="6" ry="6" />
+<text x="205.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Malice</text>
+<rect x="230" y="54" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
+<text x="255.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
+<rect x="330" y="54" width="50" height="21" fill="green" rx="6" ry="6" />
+<text x="355.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Regret</text>
+<rect x="380" y="54" width="50" height="21" fill="#5d4100" rx="6" ry="6" />
+<text x="405.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Rage</text>
+<text x="60.0" y="93.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle"></text>
+<rect x="130" y="79" width="100" height="21" fill="purple" rx="6" ry="6" />
+<text x="180.0" y="91.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Gluttony</text>
+<rect x="280" y="79" width="100" height="21" fill="#000156" rx="6" ry="6" />
+<text x="330.0" y="91.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Envy</text>
 <path d="M0,25 L440,25" stroke="white" stroke-width="2" />
 <path d="M120,0 L120,100" stroke="white" stroke-width="2" />
 <path d="M130,20.0 L130,25" stroke="white" stroke-width="0.5" />
@@ -40,7 +50,7 @@
 <path d="M160,22.5 L160,white" stroke="white" stroke-width="0.3" />
 <path d="M170,22.5 L170,white" stroke="white" stroke-width="0.3" />
 <path d="M180,15.0 L180,25" stroke="white" stroke-width="1.5" />
-<text x="180.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">30</text>
+<text x="180.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">30</text>
 <path d="M190,22.5 L190,white" stroke="white" stroke-width="0.3" />
 <path d="M200,22.5 L200,white" stroke="white" stroke-width="0.3" />
 <path d="M210,22.5 L210,white" stroke="white" stroke-width="0.3" />
@@ -51,7 +61,7 @@
 <path d="M260,22.5 L260,white" stroke="white" stroke-width="0.3" />
 <path d="M270,22.5 L270,white" stroke="white" stroke-width="0.3" />
 <path d="M280,15.0 L280,25" stroke="white" stroke-width="1.5" />
-<text x="280.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">40</text>
+<text x="280.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">40</text>
 <path d="M290,22.5 L290,white" stroke="white" stroke-width="0.3" />
 <path d="M300,22.5 L300,white" stroke="white" stroke-width="0.3" />
 <path d="M310,22.5 L310,white" stroke="white" stroke-width="0.3" />
@@ -62,7 +72,7 @@
 <path d="M360,22.5 L360,white" stroke="white" stroke-width="0.3" />
 <path d="M370,22.5 L370,white" stroke="white" stroke-width="0.3" />
 <path d="M380,15.0 L380,25" stroke="white" stroke-width="1.5" />
-<text x="380.0" y="12.5" font-size="10" fill="white" style="font-family:Segoe UI;text-anchor:middle">50</text>
+<text x="380.0" y="12.5" font-size="10" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">50</text>
 <path d="M390,22.5 L390,white" stroke="white" stroke-width="0.3" />
 <path d="M400,22.5 L400,white" stroke="white" stroke-width="0.3" />
 <path d="M410,22.5 L410,white" stroke="white" stroke-width="0.3" />

@@ -1,5 +1,4 @@
 @import 'mechtable.scss';
-@import 'timeline.scss';
 @import 'images.scss';
 @import 'buttons.scss';
 
@@ -23,6 +22,53 @@ $link-color: #ff9090;
 }
 .h3 {
 	color: $link-color;
+}
+
+.bordered {
+    border: 3px outset;
+    border-radius: 15px;
+    border-color: $link-color;
+}
+
+.row-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.index-button {
+    display: flex;
+    border: 3px outset;
+    background-size: cover;
+    border-radius: 15px;
+    border-color: $link-color;
+    height: 100px;
+    min-height: 50px;
+    width: 100%;
+    flex: 25%;
+    margin: 10px;
+    background-position: center;
+    transition: all 0.1s linear;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    flex-direction:column;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 8px;
+    gap: 0.5rem;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.index-button:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .row-container {
+    flex-direction: column;
+  }
 }
 
 .intro {
@@ -69,3 +115,7 @@ summary::marker {
 .site-logo {
     background-position: right center;
   }
+
+div.highlighter-rouge code {
+    text-wrap: wrap;
+}
