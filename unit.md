@@ -65,7 +65,7 @@ For boonDPS, while any provider is fine in theory, <img class="inline herald"> [
 
 UNIT strongly favours ranged builds with cleave and good personal defensive skills. <img class="inline virtuoso"> [Condition Virtuoso] is by far the safest and best performing build for this reason. This does not mean you cannot use other builds, however, it is best that you gain confidence with the fight before attempting to do so.
 
-Most groups will run with 4-6 virtuosos, since their cleave is required by the strategy to kill [Malice] adds safely.
+Most groups will run with 4-6 virtuosos, since their cleave is required to kill [Malice] adds safely.
 
 ---
 
@@ -803,7 +803,7 @@ This sequence is identical to the Gluttony, Malice, Despair at the start of the 
 {: .center}
 
 <!-- Guide Links -->
-[Flower]: #unit-strat
+[Flower]: ./flower.html
 [Rage]: mechanics.html#rage---cry-of-rage
 [Malice]: ./mechanics.html#malice---malicious-intent
 [Despair]: ./mechanics.html#despair---wail-of-despair

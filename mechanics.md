@@ -4,7 +4,7 @@ title: Mechanical Reference
 nav_order: 3
 ---
 
-[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn }
+[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn } [Flower Strat](flower.html){: .btn } 
 {: .center}
 
 # Cerus, the Glaive of House Nephus
@@ -923,7 +923,7 @@ The top header represents various skills, buffs and abilities:  <img class="inli
 
 The following row represents levels of mitigation for the normal attack. <img class="inline ok"> means that the corresponding skill is effective against the attack if used correctly, <img class="inline kinda"> means the attack can be at least partially mitigated, and <img class="inline notok"> means the skill has no effect whatsoever on the attack. The second row, if present, represents the same but for the <img class='inline empowered_add'> Empowered version of the skill.
 
-[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
+[Return to Home](index.html){: .btn } [UNIT Strat](unit.html){: .btn } [Flower Strat](flower.html){: .btn } [Return to Top](#cerus-the-glaive-of-house-nephus){: .btn .fixed}
 {: .center}
 
 <!-- Guide Links -->
@@ -936,7 +936,7 @@ The following row represents levels of mitigation for the normal attack. <img cl
 [Enraged Smash]: #enraged-smash
 [main phase]: #main-phases
 [split phases]: #split-phases
-[Flower]: #cerus-the-glaive-of-house-nephus
+[Flower]: ./flower.html
 [UNIT]: ./unit.html
 [Despair]: #despair---wail-of-despair
 [Envy]: #envy---envious-gaze
