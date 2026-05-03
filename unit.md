@@ -106,10 +106,10 @@ Mechanics are relatively simple and forgiving. Use this time to do as much damag
 ### 1. [Regret], [Malice] & [Despair], [Envy]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase1/seq1_alt.mp4" type="video/mp4">
+  <source src="./videos/phase1/seq1_alt.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase1/seq1.svg">
+<img class="seq-img" src="./timelines/images/phase1/seq1.svg">
 
 1. Glide into the arena and stack in the green in front of the boss.
 2. Shortly after the green pops, the <img class="inline chrono"> [Chronomancer] activates their <img class="inline cs"> [Continuum Split], prepares a <img class="inline portal"> [Portal] on the group, <img class='inline blink'> [Blinks](https://wiki.guildwars2.com/wiki/Blink) to the North-East corner of the arena, and opens their portal before exiting <img class="inline cs"> [Continuum Split].
@@ -130,10 +130,10 @@ Mechanics are relatively simple and forgiving. Use this time to do as much damag
 ### 2. [Malice], [Despair] & [Gluttony]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase1/seq2_alt.mp4" type="video/mp4">
+  <source src="./videos/phase1/seq2_alt.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase1/seq2.svg">
+<img class="seq-img" src="./timelines/images/phase1/seq2.svg">
 
 1. The <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal Entre] on squad, then <img class="inline blink"> [Blink]s to the North-Western edge of the arena and opens it after [Envy] disappears.
 2. Whoever gets targeted by [Malice] takes the portal and leaves their add on the edge of the arena.
@@ -149,10 +149,10 @@ Mechanics are relatively simple and forgiving. Use this time to do as much damag
 ### 3. [Rage], [Regret] & [Envy], [Despair] 
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase1/seq3.mp4" type="video/mp4">
+  <source src="./videos/phase1/seq3.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase1/seq3.svg">
+<img class="seq-img" src="./timelines/images/phase1/seq3.svg">
 
 1. Once [Rage] appears, the <img class="inline scourge"> [Scourge] uses <img class="inline sand-swell"> [Sand Swell] to get the squad out of the AoE.
 2. The squad takes the portal back and stacks for [Regret] on the eastern side of the boss, so as to avoid [Envy].
@@ -211,10 +211,10 @@ Two Aspects, [Envy] and [Rage], will be <img class="inline empowered_add"> [Empo
 ### 1. [Regret], [Rage] & [Despair], [Envy]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase2/seq1.mp4" type="video/mp4">
+  <source src="./videos/phase2/seq1.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase2/seq1.svg">
+<img class="seq-img" src="./timelines/images/phase2/seq1.svg">
 
 1. Run to the south of the boss and stack in [Regret].
 2. Shortly after the green pops, the <img class="inline scourge"> [Scourge] will provide a <img class='inline sand-swell'> [Sand Swell] out of the  <img class="inline empowered_add"> [Rage].
@@ -236,10 +236,10 @@ Two Aspects, [Envy] and [Rage], will be <img class="inline empowered_add"> [Empo
 ### 2. [Gluttony]<sup>2</sup> & [Malice]<sup>2</sup>, [Rage]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase2/seq2_alt.mp4" type="video/mp4">
+  <source src="./videos/phase2/seq2_alt.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase2/seq2.svg">
+<img class="seq-img" src="./timelines/images/phase2/seq2.svg">
 
 1. After <img class="inline empowered_add"> [Envy], the <img class="inline chrono"> [Chronomancer] activates their <img class="inline cs"> [Continuum Split], prepares a <img class="inline portal"> [Portal] on the group, <img class='inline blink'> [Blinks] to the eastern edge of the arena, and opens their portal before exiting <img class="inline cs"> [Continuum Split].
 2. Whoever gets targeted by [Malice] takes the portal and drops the add on the edge. The rest of the squad focuses on collecting the two consecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback] and <img class="inline cpc"> [Corrosive Poison Cloud] on the boss to prevent it from gaining <img class="inline barrier"> [Barrier](https://wiki.guildwars2.com/wiki/Barrier).
@@ -263,10 +263,10 @@ Two Aspects, [Envy] and [Rage], will be <img class="inline empowered_add"> [Empo
 ### 3. [Regret], [Despair]<sup>2</sup>, [Envy]<sup>2</sup>
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase2/seq3.mp4" type="video/mp4">
+  <source src="./videos/phase2/seq3.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase2/seq3.svg">
+<img class="seq-img" src="./timelines/images/phase2/seq3.svg">
 
 1. [Regret] appears while the squad is stacked behind the Malices.
 2. A soon as the green pops, spread out with the first [Despair] in a crescent far from the boss.
@@ -290,10 +290,10 @@ Two Aspects, [Envy] and [Rage], will be <img class="inline empowered_add"> [Empo
 ### 4. [Malice], [Gluttony] & [Regret]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase2/seq4.mp4" type="video/mp4">
+  <source src="./videos/phase2/seq4.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase2/seq4.svg">
+<img class="seq-img" src="./timelines/images/phase2/seq4.svg">
 
 1. The <img class="inline chrono"> [Chronomancer] prepares their <img class="inline portal"> [Portal] right as <img class="inline empowered_add"> [Envy] is about to end, then they <img class="inline blink"> [Blink] to the southern edge and open their portal.
 2. Whoever is targeted by [Malice] takes the portal and drops their add on the edge.
@@ -309,7 +309,7 @@ Two Aspects, [Envy] and [Rage], will be <img class="inline empowered_add"> [Empo
 ### 5. [Rage]<sup>2</sup>, [Regret]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase2/seq5.mp4" type="video/mp4">
+  <source src="./videos/phase2/seq5.mp4" type="video/mp4">
 </video>
 
 <img class="seq-img" src="./timelines/images/phase2/seq5.svg">
@@ -360,10 +360,10 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
 ### 1. [Regret], [Rage], [Envy]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq1.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq1.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase3/seq1.svg">
+<img class="seq-img" src="./timelines/images/phase3/seq1.svg">
 
 1. Run to the left of <img class="inline heart"> Heart (when looking at the boss) and stack in [Regret].
 2. Once the <img class="inline empowered_add"> [Rage] indicator appears, the <img class="inline scourge"> [Scourge] casts <img class="inline sand-swell"> [Sand Swell] to <img class="inline swirl">.
@@ -387,10 +387,10 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
 ### 2. [Gluttony]<sup>2</sup>, [Malice], [Rage]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq2.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq2.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase3/seq2.svg">
+<img class="seq-img" src="./timelines/images/phase3/seq2.svg">
 
 1. During the <img class="inline empowered_add"> [Envy] in the previous sequence, the <img class="inline chrono"> [Chronomancer] can run out and prepare their <img class='inline portal'> [Portal] on <img class="inline triangle"> Triangle.
 2. Each subgroup follows their marker to collect all orbs during the two consecutive [Gluttony] mechanics. Alternate <img class="inline feedback"> [Feedback] and <img class="inline cpc"> [Corrosive Poison Cloud] on the boss to prevent it from gaining <img class="inline barrier"> [Barrier].
@@ -407,10 +407,10 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
 ### 3. [Despair]<sup>2</sup> & [Malice], [Envy]<sup>2</sup> & [Regret]<sup>2</sup>
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq3.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq3.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase3/seq3.svg">
+<img class="seq-img" src="./timelines/images/phase3/seq3.svg">
 
 1. Form a line in preparation for <img class="inline empowered_add"> [Despair] while cleaving the Malices. All <img class="inline virtuoso"> [Virtuosos] should stack just in range of the boss, in front of <img class="inline triangle">. <img class="inline herald"> [Heralds] should be in front of them, while the <img class="inline scourge"> [Scourge] and <img class="inline chrono"> [Chronomancer] remain behind everyone else.
 2. Optional: the <img class='inline scourge'> [Scourge] prepares a <img class='inline sand-swell'> [Sand Swell] from <img class='inline square'> for the melee players: see the PoV below.
@@ -455,10 +455,10 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
 ### 4. [Gluttony]<sup>2</sup> & [Rage]<sup>2</sup>
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq4.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq4.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase3/seq4.svg">
+<img class="seq-img" src="./timelines/images/phase3/seq4.svg">
 
 1. Move to <img class="inline heart"> Heart.
 2. As soon as the [Embodiment]'s <img class="inline empowered_add"> [Rage] indicator appears, the <img class="inline chrono"> [Chronomancer] opens <img class="inline cs"> [Continuum Split], prepares a <img class="inline portal"> [Portal], <img class='inline blink'> [Blinks] to <img class="inline swirl"> Swirl, opens their portal, and terminates their <img class="inline cs"> [Continuum Split].
@@ -490,10 +490,10 @@ Four adds, [Despair], [Envy], [Malice] and [Rage], will be <img class="inline em
 ### 5. [Malice]<sup>2</sup>, [Despair]<sup>2</sup>, [Envy]<sup>2</sup> & [Gluttony]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq5.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq5.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase3/seq5.svg">
+<img class="seq-img" src="./timelines/images/phase3/seq5.svg">
 
 1. As soon as <img class="inline empowered_add"> [Malice] chooses targets, everyone immediately takes the <img class="inline portal"> [Portal] to <img class="inline xmarks">. The players targeted by tethers will drop the adds on top of the portal exit.
 2. Spread with <img class="inline empowered_add"> [Despair] along the northern edge of the arena. Take all the space you need, and then <img class="inline dodge"> dodge forward.
@@ -551,10 +551,10 @@ The rest of this section analyzes the final sequences of the third phase with an
 ### 1. [Regret], [Rage]<sup>2</sup>, [Malice], [Despair]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq6.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq6.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phasing/seq6.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq6.svg">
 
 1. Stack in [Regret] south of the boss. When <img class="inline empowered_add"> [Rage] spawns, the <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] towards the <img class="inline circle"> marker, and the whole squad takes it, then takes it back once the AoE pops.
 2. The <img class="inline chrono"> [Chronomancer] opens their <img class="inline cs"> [Continuum Split] and creates a <img class="inline portal"> [Portal] from <img class="inline swirl"> to <img class="inline circle">. Everyone targeted by [Malice] will take this portal and place their add on the edge of the arena.
@@ -585,7 +585,7 @@ The rest of this section analyzes the final sequences of the third phase with an
 {: .no_toc}
 High damage groups should aim for this window. Once [Regret] spawns, you will get a green leading into the final phase, but this is very easy to deal with.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq6/1.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq6/1.svg">
 
 ---
 
@@ -594,12 +594,12 @@ High damage groups should aim for this window. Once [Regret] spawns, you will ge
 This requires a small adaptation: the <img class="inline sand-swell"> [Sand Swell] out of the <img class="inline empowered_add"> [Rage] should be replaced by a <img class="inline cs"> [Continuum Split] <img class="inline portal"> [Portal], so that <img class="inline sand-swell"> [Sand Swell] will be available for the start of the final phase.
 If the Embodiment of <img class="inline empowered_add"> [Rage] spawns, remember that it will _always_ conclude its attack, even if you phase. Depending on the timing of the attack, the commander may make the call to play the start of the final phase from <img class="inline swirl">.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq6/2.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq6/2.svg">
 
 <details style="background-color: rgb(33, 35, 37);border: 4px solid #171717;">
   <summary>View Animation</summary>
   <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq6_alt.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq6_alt.mp4" type="video/mp4">
 </video>
 </details>
 <details>
@@ -614,7 +614,7 @@ If the Embodiment of <img class="inline empowered_add"> [Rage] spawns, remember 
 {: .no_toc}
 If you phase while <img class="inline empowered_add"> [Malice] tethers are active, the tethers will not disappear, and you will get an extra set of adds persisting through to the next phase. This is extremely inconvenient, since usually the squad will not be ready to cleave them, resulting in a full 15 stacks of <img class="inline empowered"> [Empowered] on the boss, and a wipe. You should generally try to phase Cerus before he puts his wings to the floor, or hold damage and try to phase at the start of the next sequence.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq6/3.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq6/3.svg">
 
 ---
 
@@ -622,17 +622,17 @@ If you phase while <img class="inline empowered_add"> [Malice] tethers are activ
 {: .no_toc}
 Phasing here will result in the <img class="inline empowered_add"> [Malice] adds despawning. However, you will always get [Gluttony] persisting through the beginning of the final phase. While not catastrophic, this is however a significant increase in difficulty, and should be avoided. You should hold damage and try to phase at the beginning of the next sequence.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq6/4.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq6/4.svg">
 
 ---
 
 ### 2.[Gluttony] & [Regret], [Envy] & [Malice] ([Despair])
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase3/seq7.mp4" type="video/mp4">
+  <source src="./videos/phase3/seq7.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq7.svg">
 
 1. After dodging <img class="inline empowered_add"> [Despair], stack on the boss for the green.
 2. Use [Feedback](https://wiki.guildwars2.com/wiki/Feedback) and <img class="inline cpc"> [Corrosive Poison Cloud](https://wiki.guildwars2.com/wiki/Corrosive_Poison_Cloud) during [Gluttony] to avoid the boss getting <img class="inline barrier"> [Barrier]. Focus on collecting.
@@ -646,7 +646,7 @@ Phasing here will result in the <img class="inline empowered_add"> [Malice] adds
 {: .no_toc}
 A generally good moment, normal damage groups should aim to phase here, as soon as the green appears. Any [Gluttony] orbs already present on the map will despawn, and both attacks will be invalidated.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7/1.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq7/1.svg">
 
 ---
 
@@ -654,7 +654,7 @@ A generally good moment, normal damage groups should aim to phase here, as soon 
 {: .no_toc}
 The wall appears as soon as the <img class="inline empowered_add"> [Malice] Embodiment spawns. If you phase here, Malice will complete their attack and you will get an extra set of adds persisting through to the next phase. This usually leads to 15 stacks of <img class="inline empowered"> [Empowered] on the boss and a wipe.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7/2.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq7/2.svg">
 
 ---
 
@@ -662,7 +662,7 @@ The wall appears as soon as the <img class="inline empowered_add"> [Malice] Embo
 {: .no_toc}
 This is the final safe phasing point. As soon as the <img class="inline empowered_add"> [Malice] adds spawn, phasing will make them despawn, leading to a safe transition.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7/3.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq7/3.svg">
 
 ---
 
@@ -670,7 +670,7 @@ This is the final safe phasing point. As soon as the <img class="inline empowere
 {: .no_toc}
 Phasing too late after <img class="inline empowered_add"> [Malice] means that <img class="inline empowered_add"> [Despair] will spawn and complete its attack. This results in an extremely inconvenient set of pools that will persist throughout the final phase, usually leading to a wipe. Phasing after the despair is also usually fatal, since at least one set of adds will walk in.
 
-<img class="seq-img" src="../../timelines/images/phasing/seq7/4.svg">
+<img class="seq-img" src="./timelines/images/phasing/seq7/4.svg">
 
 <img class=divider>
 
@@ -691,10 +691,10 @@ The most difficult part of the fight. Ever-increasing damage accompanied by rele
 ### 1. [Despair], [Envy], [Rage]
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase4/seq1.mp4" type="video/mp4">
+  <source src="./videos/phase4/seq1.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase4/seq1.svg">
+<img class="seq-img" src="./timelines/images/phase4/seq1.svg">
 
 1. Stack on the <img class="inline arrow"> side of the boss.
 2. Once the <img class="inline empowered_add"> [Despair] indicator appears, the <img class="inline scourge"> [Scourge] uses their <img class="inline sand-swell"> [Sand Swell] to <img class="inline star">.
@@ -728,7 +728,7 @@ An alternative way of playing this first sequence is by casting the first <img c
 
 In this situation, the <img class='inline chrono'> [Chronomancer] should prepare their portal during, <img class="inline empowered_add"> [Rage], while the entire group is moving out of the center.
 
-<img src='../../images/ne-portal.webp' style='width:70%' class='center'>
+<img src='./images/ne-portal.webp' style='width:70%' class='center'>
 
 <details>
   <summary><img class="inline scourge"> NE Portal POV</summary>
@@ -748,10 +748,10 @@ In this situation, the <img class='inline chrono'> [Chronomancer] should prepare
 ### 2. All Embodiments Go
 
 <video class="center" width="70%" controls muted>
-  <source src="../../videos/phase4/seq2.mp4" type="video/mp4">
+  <source src="./videos/phase4/seq2.mp4" type="video/mp4">
 </video>
 
-<img class="seq-img" src="../../timelines/images/phase4/seq2.svg">
+<img class="seq-img" src="./timelines/images/phase4/seq2.svg">
 
 1. Focus on collecting [Gluttony]. Use <img class="inline feedback"> [Feedback] and <img class="inline cpc"> [Corrosive Poison Cloud] on the boss to prevent it from gaining <img class="inline barrier"> [Barrier].
 2. As soon as <img class="inline empowered_add"> [Malice] tethers spawn, the  <img class="inline chrono"> [Chronomancer] opens their <img class="inline portal"> [Portal] on the boss. Targeted players should wait until they are full health after the smash at ~32s, then take the portal. Drop the adds on the portal exit.
@@ -788,7 +788,7 @@ In this situation, the <img class='inline chrono'> [Chronomancer] should prepare
 
 ### 3. [Gluttony], [Malice], [Despair]
 
-<img class="seq-img" src="../../timelines/images/phase4/seq3.svg">
+<img class="seq-img" src="./timelines/images/phase4/seq3.svg">
 
 This sequence is identical to the Gluttony, Malice, Despair at the start of the previous sequence.
 

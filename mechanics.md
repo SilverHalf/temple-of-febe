@@ -10,7 +10,7 @@ nav_order: 3
 # Cerus, the Glaive of House Nephus
 {: .center .no_toc}
 
-<img class='center bordered' width='80%' src="../images/mechanics/Cerus.webp" />
+<img class='center bordered' width='80%' src="./images/mechanics/Cerus.webp" />
 
 | **Health** | 95'557'328 (CM) or 117'057'712 (LCM) |
 | **Armor** |  2597 (standard) |
@@ -189,7 +189,7 @@ Cerus has six aspects: **[Envy]**, **[Malice]**, **[Gluttony]**, **[Despair]**, 
 
 Embodiments are adds that resemble miniature versions of Cerus. There are six of them, each of them corresponding to one of Cerus's [Aspects]. They spawn throughout the fight in fixed locations, shown in the figure below.
 
-<img class="arena_image" width="80%" src="../images/mechanics/embodiments.webp" />
+<img class="arena_image" width="80%" src="/images/mechanics/embodiments.webp" />
 
 {: .warning }
 Cerus's Aspects are always present on the map, even when not visible. Their model is still loaded and occupies the same position as always, which means that their hitboxes will still block projectiles.

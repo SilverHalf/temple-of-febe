@@ -12,8 +12,8 @@ This website contains a guide to the Temple of Febe Challenge Mode in Guild Wars
 [Introduction](./getting-started.html){: .btn .center}
 
 <div class="row-container">
-    <a href='./mechanics.html' class="index-button" style="background-image: url(images/intro.webp);">Mechanics</a>
-    <a href='./unit.html' class="index-button" style="background-image: url(images/strategy.webp);"> UNIT</a>
+    <a href='./mechanics.html' class="index-button" style="background-image: url(./images/intro.webp);">Mechanics</a>
+    <a href='./unit.html' class="index-button" style="background-image: url(./images/strategy.webp);"> UNIT</a>
     <a href='./flower.html' class="index-button" style="background-image: url();">[WIP] Flower</a>
 </div>
 

@@ -72,4 +72,3 @@ This tool grades various aspects of your performance, and can be very helpful to
 
 [Return to Home](index.html){: .btn } [Mechanical Reference](mechanics.html){: .btn } [UNIT Strat](unit.html){: .btn } [Flower Strat](flower.html){: .btn } 
 {: .center}
-{: .center}
