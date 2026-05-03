@@ -170,9 +170,6 @@ The transition at the end of the third phase has some peculiarities due to [Embo
 - Any [Gluttony] orbs already present will despawn.
 - Any [Despair] puddles that were spawned in by the [Embodiment] of Despair will persist throughout the final phase. Puddles that were spawned by the boss will instead disappear.
 
-This means that
-
-
 <img class="divider">
 
 ## Aspects of Cerus
@@ -940,7 +937,7 @@ The following row represents levels of mitigation for the normal attack. <img cl
 [main phase]: #main-phases
 [split phases]: #split-phases
 [Flower]: #cerus-the-glaive-of-house-nephus
-[UNIT]: #cerus-the-glaive-of-house-nephus
+[UNIT]: ./unit.html
 [Despair]: #despair---wail-of-despair
 [Envy]: #envy---envious-gaze
 [Gluttony]: #gluttony---insatiable-hunger

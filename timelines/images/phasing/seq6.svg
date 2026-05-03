@@ -12,16 +12,14 @@
 <text x="365.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Malice</text>
 <rect x="400" y="29" width="50" height="21" fill="#5e0d0d" rx="6" ry="6" />
 <text x="425.0" y="41.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Despair</text>
-<text x="40.0" y="68.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">v</text>
+<text x="40.0" y="68.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Emb.</text>
 <rect x="190" y="54" width="50" height="21" fill="green" rx="6" ry="6" />
 <text x="215.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Regret</text>
 <rect x="340" y="54" width="50" height="21" fill="#5d4100" rx="6" ry="6" />
 <text x="365.0" y="66.5" font-size="10" fill="white" style="font-family: Courier New, monospace;text-anchor:middle">Rage</text>
 <text x="40.0" y="93.5" font-size="14" fill="white" style="font-family:Courier New, monospace;text-anchor:middle">Phasing</text>
-<rect x="80" y="79" width="30" height="21" fill="yellow" rx="6" ry="6" />
-<text x="95.0" y="91.5" font-size="10"></text>
-<rect x="110" y="79" width="130" height="21" fill="green" rx="6" ry="6" />
-<text x="175.0" y="91.5" font-size="10"></text>
+<rect x="80" y="79" width="160" height="21" fill="green" rx="6" ry="6" />
+<text x="160.0" y="91.5" font-size="10"></text>
 <rect x="240" y="79" width="100" height="21" fill="yellow" rx="6" ry="6" />
 <text x="290.0" y="91.5" font-size="10"></text>
 <rect x="340" y="79" width="50" height="21" fill="red" rx="6" ry="6" />
